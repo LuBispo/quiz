@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz Interativo</title>
+  <link rel="stylesheet" href="projeto2/style.css" />
+</head>
+<body>
+  <div class="quiz-container">
+
+    <!-- Tela de login / cadastro -->
+    <div id="login-screen">
+      <h1>Quiz Interativo</h1>
+
+      <div id="login-form">
+        <h2>Entrar</h2>
+        <input type="text" id="login-username" placeholder="Usuário" autocomplete="username" />
+        <input type="password" id="login-password" placeholder="Senha" autocomplete="current-password" />
+        <button id="login-btn">Entrar</button>
+        <p class="switch-link">Não tem conta? <a href="#" id="show-register">Criar conta</a></p>
+      </div>
+
+      <div id="register-form" class="hidden">
+        <h2>Criar conta</h2>
+        <input type="text" id="register-username" placeholder="Usuário" autocomplete="username" />
+        <input type="password" id="register-password" placeholder="Senha (mín. 4 caracteres)" autocomplete="new-password" />
+        <input type="password" id="register-password2" placeholder="Confirmar senha" autocomplete="new-password" />
+        <button id="register-btn">Criar conta e entrar</button>
+        <p class="switch-link">Já tem conta? <a href="#" id="show-login">Entrar</a></p>
+      </div>
+
+      <p id="auth-error" class="auth-error hidden"></p>
+    </div>
+
+    <!-- Página inicial -->
+    <div id="intro-screen" class="hidden">
+      <img src="https://files.oaiusercontent.com/file-gMyqpE5EFK3eYGvSxkEYugSS?se=2025-06-28T00%3A00%3A00Z&sp=r&sv=2022-11-02&sr=b&sig=%2FbAzGHDW6N0OCVYZmVrRO1Dq%2Bx1ewTVNOhZbspFAz9U%3D"
+           alt="Quiz Aleatório" class="intro-image">
+
+      <h1>Bem-vindo ao Quiz!</h1>
+      <p id="welcome-msg"></p>
+      <button id="start-btn">Fazer uma avaliação</button>
+      <button id="history-btn" class="secondary-btn">Ver meu histórico</button>
+      <button id="logout-btn" class="secondary-btn">Sair</button>
+    </div>
+
+    <!-- Tela de escolha da matéria -->
+    <div id="theme-select-screen" class="hidden">
+      <h2>Escolha a matéria da avaliação</h2>
+      <div id="theme-buttons"></div>
+      <button id="theme-select-back-btn" class="secondary-btn">Voltar</button>
+    </div>
+
+    <!-- Tela de perguntas -->
+    <div id="quiz-screen" class="hidden">
+      <p id="quiz-theme-name" class="theme-name"></p>
+      <p id="cycle-note" class="cycle-note hidden"></p>
+      <p id="question">Carregando pergunta...</p>
+      <form id="answers"></form>
+      <button id="submit" disabled>Enviar</button>
+    </div>
+
+    <!-- Tela de resultado -->
+    <div id="result" class="hidden">
+      <p id="result-text"></p>
+      <button id="restart-btn">Voltar ao Início</button>
+    </div>
+
+    <!-- Tela de histórico -->
+    <div id="history-screen" class="hidden">
+      <h2>Meu histórico</h2>
+      <div id="history-summary"></div>
+      <div id="history-list"></div>
+      <button id="history-back-btn">Voltar</button>
+    </div>
+
+  </div>
+
+  <script src="projeto2/script.js"></script>
+</body>
+</html>

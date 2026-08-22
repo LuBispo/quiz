@@ -1,0 +1,122 @@
+[
+  {
+    "question": "O que é uma fábula?",
+    "options": {
+      "a": "Um conto com personagens reais",
+      "b": "Uma história com animais que falam e ensinam uma lição",
+      "c": "Um poema sobre o amor",
+      "d": "Uma notícia de jornal",
+      "e": "Uma reportagem sobre a natureza"
+    },
+    "correct": "b",
+    "id": "his_01"
+  },
+  {
+    "question": "Quem é o autor do livro 'O Sítio do Picapau Amarelo'?",
+    "options": {
+      "a": "Monteiro Lobato",
+      "b": "Machado de Assis",
+      "c": "Ruth Rocha",
+      "d": "Pedro Bandeira",
+      "e": "Cecília Meireles"
+    },
+    "correct": "a",
+    "id": "his_02"
+  },
+  {
+    "question": "Qual desses é um personagem famoso da literatura infantil brasileira?",
+    "options": {
+      "a": "Saci-Pererê",
+      "b": "Harry Potter",
+      "c": "Cinderela",
+      "d": "Sherlock Holmes",
+      "e": "Rei Arthur"
+    },
+    "correct": "a",
+    "id": "his_03"
+  },
+  {
+    "question": "O que é um poema?",
+    "options": {
+      "a": "Um texto de regras",
+      "b": "Uma lista de compras",
+      "c": "Um texto em forma de versos e rimas",
+      "d": "Um mapa ilustrado",
+      "e": "Uma bula de remédio"
+    },
+    "correct": "c",
+    "id": "his_04"
+  },
+  {
+    "question": "O que geralmente encontramos no começo de uma história?",
+    "options": {
+      "a": "O final",
+      "b": "A lição de moral",
+      "c": "A introdução dos personagens e do lugar",
+      "d": "Os créditos",
+      "e": "O índice"
+    },
+    "correct": "c",
+    "id": "his_05"
+  },
+  {
+    "question": "Qual é o nome da boneca de pano criada por Monteiro Lobato?",
+    "options": {
+      "a": "Barbie",
+      "b": "Emília",
+      "c": "Anita",
+      "d": "Joaninha",
+      "e": "Lili"
+    },
+    "correct": "b",
+    "id": "his_06"
+  },
+  {
+    "question": "O que é uma rima?",
+    "options": {
+      "a": "Uma pintura em um livro",
+      "b": "Palavras com sons parecidos no final",
+      "c": "Uma página em branco",
+      "d": "Um título de história",
+      "e": "Uma frase sem sentido"
+    },
+    "correct": "b",
+    "id": "his_07"
+  },
+  {
+    "question": "Qual dessas é uma autora brasileira de livros infantis?",
+    "options": {
+      "a": "Ruth Rocha",
+      "b": "J.K. Rowling",
+      "c": "Clarice Lispector",
+      "d": "Agatha Christie",
+      "e": "Suzanne Collins"
+    },
+    "correct": "a",
+    "id": "his_08"
+  },
+  {
+    "question": "Como chamamos a parte mais emocionante de uma história?",
+    "options": {
+      "a": "Introdução",
+      "b": "Moral",
+      "c": "Clímax",
+      "d": "Personagem",
+      "e": "Resumo"
+    },
+    "correct": "c",
+    "id": "his_09"
+  },
+  {
+    "question": "Qual dessas opções é um livro de literatura infantil?",
+    "options": {
+      "a": "A Revolução dos Bichos",
+      "b": "Dom Casmurro",
+      "c": "Marcelo, Marmelo, Martelo",
+      "d": "O Pequeno Príncipe",
+      "e": "Capitães da Areia"
+    },
+    "correct": "c",
+    "id": "his_10"
+  }
+]

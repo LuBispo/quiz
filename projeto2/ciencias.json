@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Qual dos itens abaixo é uma fonte de energia renovável?",
+    "options": {
+      "a": "Petróleo",
+      "b": "Carvão mineral",
+      "c": "Energia solar",
+      "d": "Gás natural",
+      "e": "Energia nuclear"
+    },
+    "correct": "c",
+    "id": "cie_01"
+  },
+  {
+    "question": "Qual é a função principal das raízes das plantas?",
+    "options": {
+      "a": "Fazer fotossíntese",
+      "b": "Proteger a planta do sol",
+      "c": "Absorver água e nutrientes",
+      "d": "Produzir frutos",
+      "e": "Ajudar na reprodução"
+    },
+    "correct": "c",
+    "id": "cie_02"
+  },
+  {
+    "question": "O que todos os seres vivos têm em comum?",
+    "options": {
+      "a": "São verdes",
+      "b": "Se alimentam de carne",
+      "c": "Precisam de oxigênio",
+      "d": "Não se movem",
+      "e": "Vivem na água"
+    },
+    "correct": "c",
+    "id": "cie_03"
+  },
+  {
+    "question": "Qual desses animais é um mamífero?",
+    "options": {
+      "a": "Galinha",
+      "b": "Jacaré",
+      "c": "Sapo",
+      "d": "Gato",
+      "e": "Peixe"
+    },
+    "correct": "d",
+    "id": "cie_04"
+  },
+  {
+    "question": "Qual é o principal gás que respiramos do ar?",
+    "options": {
+      "a": "Gás carbônico",
+      "b": "Hidrogênio",
+      "c": "Oxigênio",
+      "d": "Vapor d'água",
+      "e": "Gás hélio"
+    },
+    "correct": "c",
+    "id": "cie_05"
+  },
+  {
+    "question": "Qual é o estado da água quando ela ferve?",
+    "options": {
+      "a": "Sólido",
+      "b": "Gasoso",
+      "c": "Gelado",
+      "d": "Líquido",
+      "e": "Espesso"
+    },
+    "correct": "b",
+    "id": "cie_06"
+  },
+  {
+    "question": "O que acontece com as sombras ao meio-dia?",
+    "options": {
+      "a": "Ficam maiores",
+      "b": "Desaparecem",
+      "c": "Ficam coloridas",
+      "d": "Ficam menores",
+      "e": "Mudam de forma"
+    },
+    "correct": "d",
+    "id": "cie_07"
+  },
+  {
+    "question": "Qual desses objetos é atraído por um ímã?",
+    "options": {
+      "a": "Borracha",
+      "b": "Plástico",
+      "c": "Papel",
+      "d": "Prego de ferro",
+      "e": "Madeira"
+    },
+    "correct": "d",
+    "id": "cie_08"
+  },
+  {
+    "question": "O que é necessário para que ocorra a fotossíntese nas plantas?",
+    "options": {
+      "a": "Som",
+      "b": "Fogo",
+      "c": "Luz do sol",
+      "d": "Sal",
+      "e": "Vento"
+    },
+    "correct": "c",
+    "id": "cie_09"
+  },
+  {
+    "question": "Qual dos seguintes é um planeta do Sistema Solar?",
+    "options": {
+      "a": "Sol",
+      "b": "Lua",
+      "c": "Vênus",
+      "d": "Estrela",
+      "e": "Cometa"
+    },
+    "correct": "c",
+    "id": "cie_10"
+  }
+]

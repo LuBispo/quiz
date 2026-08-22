@@ -1,0 +1,674 @@
+[
+  {
+    "question": "Leia o texto: \"Ana acordou cedo. Ela abriu a janela e viu que o dia estava ensolarado. Rapidamente, vestiu-se e foi para a escola, pois não queria chegar atrasada.\" Por que Ana se vestiu rapidamente?",
+    "options": {
+      "a": "Porque estava com frio",
+      "b": "Porque não queria chegar atrasada à escola",
+      "c": "Porque o dia estava chuvoso",
+      "d": "Porque ia viajar",
+      "e": "Porque tinha perdido o ônibus"
+    },
+    "correct": "b",
+    "id": "por_01"
+  },
+  {
+    "question": "Leia o texto: \"Ana acordou cedo. Ela abriu a janela e viu que o dia estava ensolarado. Rapidamente, vestiu-se e foi para a escola, pois não queria chegar atrasada.\" Como estava o tempo quando Ana abriu a janela?",
+    "options": {
+      "a": "Nublado",
+      "b": "Chuvoso",
+      "c": "Ensolarado",
+      "d": "Nevando",
+      "e": "Com neblina"
+    },
+    "correct": "c",
+    "id": "por_02"
+  },
+  {
+    "question": "Leia o texto: \"Ana acordou cedo. Ela abriu a janela e viu que o dia estava ensolarado. Rapidamente, vestiu-se e foi para a escola, pois não queria chegar atrasada.\" Qual foi o primeiro passo que Ana fez ao acordar, segundo o texto?",
+    "options": {
+      "a": "Foi para a escola",
+      "b": "Abriu a janela",
+      "c": "Tomou café",
+      "d": "Se vestiu",
+      "e": "Dormiu novamente"
+    },
+    "correct": "b",
+    "id": "por_03"
+  },
+  {
+    "question": "Leia o texto: \"Os golfinhos são mamíferos que vivem no mar. Eles são muito inteligentes e costumam viver em grupos chamados cardumes. Respiram por meio de pulmões, por isso precisam subir à superfície da água de tempos em tempos.\" Por que os golfinhos precisam subir à superfície da água?",
+    "options": {
+      "a": "Para comer",
+      "b": "Para dormir",
+      "c": "Porque respiram por pulmões",
+      "d": "Para brincar com outros animais",
+      "e": "Porque têm medo de tubarões"
+    },
+    "correct": "c",
+    "id": "por_04"
+  },
+  {
+    "question": "Leia o texto: \"Os golfinhos são mamíferos que vivem no mar. Eles são muito inteligentes e costumam viver em grupos chamados cardumes. Respiram por meio de pulmões, por isso precisam subir à superfície da água de tempos em tempos.\" De acordo com o texto, como são chamados os grupos em que os golfinhos vivem?",
+    "options": {
+      "a": "Manadas",
+      "b": "Cardumes",
+      "c": "Rebanhos",
+      "d": "Colônias",
+      "e": "Bandos"
+    },
+    "correct": "b",
+    "id": "por_05"
+  },
+  {
+    "question": "Leia o texto: \"Os golfinhos são mamíferos que vivem no mar. Eles são muito inteligentes e costumam viver em grupos chamados cardumes. Respiram por meio de pulmões, por isso precisam subir à superfície da água de tempos em tempos.\" Qual característica dos golfinhos é destacada no texto?",
+    "options": {
+      "a": "Que eles são animais muito inteligentes",
+      "b": "Que eles não sabem nadar bem",
+      "c": "Que eles vivem sozinhos",
+      "d": "Que eles são peixes",
+      "e": "Que eles não respiram ar"
+    },
+    "correct": "a",
+    "id": "por_06"
+  },
+  {
+    "question": "Em \"Ela correu rapidamente até a escola\", a palavra destacada expressa circunstância de:",
+    "options": {
+      "a": "Tempo",
+      "b": "Lugar",
+      "c": "Modo",
+      "d": "Negação",
+      "e": "Dúvida"
+    },
+    "correct": "c",
+    "id": "por_07"
+  },
+  {
+    "question": "Em \"O menino chegou ontem\", o advérbio destacado indica circunstância de:",
+    "options": {
+      "a": "Modo",
+      "b": "Tempo",
+      "c": "Lugar",
+      "d": "Intensidade",
+      "e": "Afirmação"
+    },
+    "correct": "b",
+    "id": "por_08"
+  },
+  {
+    "question": "Em \"Ele mora perto da escola\", a palavra destacada é um advérbio de:",
+    "options": {
+      "a": "Tempo",
+      "b": "Modo",
+      "c": "Lugar",
+      "d": "Negação",
+      "e": "Intensidade"
+    },
+    "correct": "c",
+    "id": "por_09"
+  },
+  {
+    "question": "Em \"Talvez eu vá à festa\", a palavra destacada é um advérbio de:",
+    "options": {
+      "a": "Afirmação",
+      "b": "Dúvida",
+      "c": "Negação",
+      "d": "Modo",
+      "e": "Lugar"
+    },
+    "correct": "b",
+    "id": "por_10"
+  },
+  {
+    "question": "Em \"Ele estudou muito para a prova\", o advérbio destacado expressa circunstância de:",
+    "options": {
+      "a": "Lugar",
+      "b": "Tempo",
+      "c": "Intensidade",
+      "d": "Negação",
+      "e": "Afirmação"
+    },
+    "correct": "c",
+    "id": "por_11"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo primitivo?",
+    "options": {
+      "a": "Pedreiro",
+      "b": "Pedra",
+      "c": "Pedregulho",
+      "d": "Pedraria",
+      "e": "Pedrada"
+    },
+    "correct": "b",
+    "id": "por_12"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo primitivo?",
+    "options": {
+      "a": "Flor",
+      "b": "Florista",
+      "c": "Floreira",
+      "d": "Florido",
+      "e": "Florescer"
+    },
+    "correct": "a",
+    "id": "por_13"
+  },
+  {
+    "question": "Assinale a alternativa que apresenta um substantivo primitivo:",
+    "options": {
+      "a": "Livraria",
+      "b": "Livreiro",
+      "c": "Livro",
+      "d": "Livreto",
+      "e": "Livresco"
+    },
+    "correct": "c",
+    "id": "por_14"
+  },
+  {
+    "question": "Entre as palavras a seguir, qual é considerada substantivo primitivo, pois não vem de nenhuma outra palavra?",
+    "options": {
+      "a": "Peixaria",
+      "b": "Peixe",
+      "c": "Peixeiro",
+      "d": "Peixinho",
+      "e": "Peixão"
+    },
+    "correct": "b",
+    "id": "por_15"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo derivado, ou seja, que se origina de outra palavra?",
+    "options": {
+      "a": "Pão",
+      "b": "Padaria",
+      "c": "Sal",
+      "d": "Mar",
+      "e": "Sol"
+    },
+    "correct": "b",
+    "id": "por_16"
+  },
+  {
+    "question": "A palavra \"jardineiro\" é um substantivo derivado de qual palavra primitiva?",
+    "options": {
+      "a": "Jardim",
+      "b": "Flor",
+      "c": "Planta",
+      "d": "Casa",
+      "e": "Grama"
+    },
+    "correct": "a",
+    "id": "por_17"
+  },
+  {
+    "question": "Assinale a alternativa que apresenta um substantivo derivado:",
+    "options": {
+      "a": "Dente",
+      "b": "Dentista",
+      "c": "Leite",
+      "d": "Mel",
+      "e": "Sal"
+    },
+    "correct": "b",
+    "id": "por_18"
+  },
+  {
+    "question": "A palavra \"chuveiro\" é derivada de qual substantivo primitivo?",
+    "options": {
+      "a": "Chuva",
+      "b": "Água",
+      "c": "Banho",
+      "d": "Vento",
+      "e": "Nuvem"
+    },
+    "correct": "a",
+    "id": "por_19"
+  },
+  {
+    "question": "Leia o texto: \"No sábado, a família de Pedro foi acampar perto de um lago. Eles montaram a barraca, pescaram e, à noite, fizeram uma fogueira para se aquecer.\" O que a família de Pedro fez à noite, segundo o texto?",
+    "options": {
+      "a": "Foram nadar no lago",
+      "b": "Fizeram uma fogueira para se aquecer",
+      "c": "Voltaram para casa",
+      "d": "Foram dormir cedo",
+      "e": "Montaram a barraca"
+    },
+    "correct": "b",
+    "id": "por_20"
+  },
+  {
+    "question": "Leia o texto: \"Lucas adora ler livros de aventura. Todos os fins de semana, ele vai à biblioteca da cidade escolher um novo título para ler durante a semana.\" Com que frequência Lucas vai à biblioteca?",
+    "options": {
+      "a": "Todos os dias",
+      "b": "Uma vez por mês",
+      "c": "Todos os fins de semana",
+      "d": "Somente nas férias",
+      "e": "Apenas aos domingos"
+    },
+    "correct": "c",
+    "id": "por_21"
+  },
+  {
+    "question": "Leia o texto: \"Lucas adora ler livros de aventura. Todos os fins de semana, ele vai à biblioteca da cidade escolher um novo título para ler durante a semana.\" O que Lucas gosta de fazer nos livros?",
+    "options": {
+      "a": "Ler histórias de aventura",
+      "b": "Desenhar",
+      "c": "Estudar matemática",
+      "d": "Assistir filmes",
+      "e": "Jogar videogame"
+    },
+    "correct": "a",
+    "id": "por_22"
+  },
+  {
+    "question": "Leia o texto: \"As abelhas são insetos muito importantes para a natureza. Elas ajudam na polinização das flores, o que permite que muitas plantas produzam frutos. Além disso, produzem o mel, um alimento nutritivo.\" Qual é a importância das abelhas destacada no texto?",
+    "options": {
+      "a": "Elas ajudam na polinização das flores",
+      "b": "Elas picam outros animais",
+      "c": "Elas vivem em colmeias",
+      "d": "Elas são pequenas",
+      "e": "Elas voam rápido"
+    },
+    "correct": "a",
+    "id": "por_23"
+  },
+  {
+    "question": "Leia o texto: \"As abelhas são insetos muito importantes para a natureza. Elas ajudam na polinização das flores, o que permite que muitas plantas produzam frutos. Além disso, produzem o mel, um alimento nutritivo.\" De acordo com o texto, o que as abelhas produzem?",
+    "options": {
+      "a": "Leite",
+      "b": "Mel",
+      "c": "Cera apenas",
+      "d": "Açúcar",
+      "e": "Frutas"
+    },
+    "correct": "b",
+    "id": "por_24"
+  },
+  {
+    "question": "Leia o texto: \"As abelhas são insetos muito importantes para a natureza. Elas ajudam na polinização das flores, o que permite que muitas plantas produzam frutos. Além disso, produzem o mel, um alimento nutritivo.\" O que a polinização permite que aconteça, segundo o texto?",
+    "options": {
+      "a": "Que as flores murchem",
+      "b": "Que as plantas produzam frutos",
+      "c": "Que as abelhas voem mais rápido",
+      "d": "Que as plantas fiquem maiores",
+      "e": "Que as flores mudem de cor"
+    },
+    "correct": "b",
+    "id": "por_25"
+  },
+  {
+    "question": "Leia o texto: \"Marina esqueceu o guarda-chuva em casa. Quando saiu da escola, começou a chover forte e ela teve que esperar embaixo de uma marquise até a chuva passar.\" O que Marina esqueceu em casa?",
+    "options": {
+      "a": "O caderno",
+      "b": "O guarda-chuva",
+      "c": "O lanche",
+      "d": "A mochila",
+      "e": "O casaco"
+    },
+    "correct": "b",
+    "id": "por_26"
+  },
+  {
+    "question": "Leia o texto: \"Marina esqueceu o guarda-chuva em casa. Quando saiu da escola, começou a chover forte e ela teve que esperar embaixo de uma marquise até a chuva passar.\" Onde Marina esperou a chuva passar?",
+    "options": {
+      "a": "Dentro da escola",
+      "b": "Embaixo de uma marquise",
+      "c": "Em casa",
+      "d": "Na casa de uma amiga",
+      "e": "Debaixo de uma árvore"
+    },
+    "correct": "b",
+    "id": "por_27"
+  },
+  {
+    "question": "Em \"Ele fala baixinho durante a aula\", a palavra destacada indica circunstância de:",
+    "options": {
+      "a": "Tempo",
+      "b": "Modo",
+      "c": "Lugar",
+      "d": "Intensidade",
+      "e": "Negação"
+    },
+    "correct": "b",
+    "id": "por_28"
+  },
+  {
+    "question": "Em \"Amanhã teremos uma prova de matemática\", a palavra destacada é um advérbio de:",
+    "options": {
+      "a": "Lugar",
+      "b": "Modo",
+      "c": "Tempo",
+      "d": "Dúvida",
+      "e": "Negação"
+    },
+    "correct": "c",
+    "id": "por_29"
+  },
+  {
+    "question": "Em \"Ela colocou o livro ali\", a palavra destacada é um advérbio de:",
+    "options": {
+      "a": "Tempo",
+      "b": "Lugar",
+      "c": "Modo",
+      "d": "Afirmação",
+      "e": "Intensidade"
+    },
+    "correct": "b",
+    "id": "por_30"
+  },
+  {
+    "question": "Em \"Certamente ele virá à festa\", a palavra destacada é um advérbio de:",
+    "options": {
+      "a": "Dúvida",
+      "b": "Negação",
+      "c": "Afirmação",
+      "d": "Modo",
+      "e": "Lugar"
+    },
+    "correct": "c",
+    "id": "por_31"
+  },
+  {
+    "question": "Em \"Ele não foi à escola hoje\", a palavra destacada é um advérbio de:",
+    "options": {
+      "a": "Afirmação",
+      "b": "Negação",
+      "c": "Dúvida",
+      "d": "Modo",
+      "e": "Intensidade"
+    },
+    "correct": "b",
+    "id": "por_32"
+  },
+  {
+    "question": "Em \"O carro andava muito devagar\", a palavra destacada expressa circunstância de:",
+    "options": {
+      "a": "Intensidade",
+      "b": "Modo",
+      "c": "Tempo",
+      "d": "Lugar",
+      "e": "Negação"
+    },
+    "correct": "b",
+    "id": "por_33"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo primitivo?",
+    "options": {
+      "a": "Ferreiro",
+      "b": "Ferro",
+      "c": "Ferragem",
+      "d": "Ferradura",
+      "e": "Enferrujado"
+    },
+    "correct": "b",
+    "id": "por_34"
+  },
+  {
+    "question": "Assinale a alternativa que apresenta um substantivo primitivo:",
+    "options": {
+      "a": "Terreno",
+      "b": "Terra",
+      "c": "Terreiro",
+      "d": "Enterro",
+      "e": "Aterro"
+    },
+    "correct": "b",
+    "id": "por_35"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo primitivo, ou seja, não deriva de outra palavra?",
+    "options": {
+      "a": "Chuvarada",
+      "b": "Chuva",
+      "c": "Chuvisco",
+      "d": "Chuvoso",
+      "e": "Chuveiro"
+    },
+    "correct": "b",
+    "id": "por_36"
+  },
+  {
+    "question": "Entre as palavras a seguir, qual é um substantivo primitivo?",
+    "options": {
+      "a": "Papelaria",
+      "b": "Papelão",
+      "c": "Papel",
+      "d": "Papelada",
+      "e": "Papelzinho"
+    },
+    "correct": "c",
+    "id": "por_37"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo derivado?",
+    "options": {
+      "a": "Mar",
+      "b": "Peixe",
+      "c": "Pescador",
+      "d": "Sol",
+      "e": "Água"
+    },
+    "correct": "c",
+    "id": "por_38"
+  },
+  {
+    "question": "A palavra \"leiteria\" é um substantivo derivado de qual palavra primitiva?",
+    "options": {
+      "a": "Vaca",
+      "b": "Leite",
+      "c": "Queijo",
+      "d": "Fazenda",
+      "e": "Manteiga"
+    },
+    "correct": "b",
+    "id": "por_39"
+  },
+  {
+    "question": "Assinale a alternativa que apresenta um substantivo derivado:",
+    "options": {
+      "a": "Sapato",
+      "b": "Sapateiro",
+      "c": "Couro",
+      "d": "Pele",
+      "e": "Sola"
+    },
+    "correct": "b",
+    "id": "por_40"
+  },
+  {
+    "question": "Em \"Ela chegou cedo à escola\", a palavra \"cedo\" é um advérbio de:",
+    "options": {
+      "a": "Lugar",
+      "b": "Modo",
+      "c": "Tempo",
+      "d": "Negação",
+      "e": "Dúvida"
+    },
+    "correct": "c",
+    "id": "por_41"
+  },
+  {
+    "question": "Em \"O aluno respondeu corretamente à questão\", a palavra \"corretamente\" indica:",
+    "options": {
+      "a": "Modo",
+      "b": "Tempo",
+      "c": "Lugar",
+      "d": "Intensidade",
+      "e": "Afirmação"
+    },
+    "correct": "a",
+    "id": "por_42"
+  },
+  {
+    "question": "Em \"Talvez Maria participe da competição\", o advérbio \"talvez\" indica:",
+    "options": {
+      "a": "Afirmação",
+      "b": "Negação",
+      "c": "Lugar",
+      "d": "Dúvida",
+      "e": "Tempo"
+    },
+    "correct": "d",
+    "id": "por_43"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo primitivo?",
+    "options": {
+      "a": "Casinha",
+      "b": "Caseiro",
+      "c": "Casa",
+      "d": "Casarão",
+      "e": "Casamento"
+    },
+    "correct": "c",
+    "id": "por_44"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo primitivo?",
+    "options": {
+      "a": "Padeiro",
+      "b": "Pão",
+      "c": "Padaria",
+      "d": "Pãezinho",
+      "e": "Panificação"
+    },
+    "correct": "b",
+    "id": "por_45"
+  },
+  {
+    "question": "Assinale a alternativa que apresenta um substantivo primitivo:",
+    "options": {
+      "a": "Marinheiro",
+      "b": "Marinha",
+      "c": "Mar",
+      "d": "Maremoto",
+      "e": "Marézinha"
+    },
+    "correct": "c",
+    "id": "por_46"
+  },
+  {
+    "question": "Entre as palavras a seguir, qual é um substantivo primitivo?",
+    "options": {
+      "a": "Ratoeira",
+      "b": "Rato",
+      "c": "Ratinho",
+      "d": "Ratão",
+      "e": "Raticida"
+    },
+    "correct": "b",
+    "id": "por_47"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo primitivo?",
+    "options": {
+      "a": "Sapateiro",
+      "b": "Sapataria",
+      "c": "Sapato",
+      "d": "Sapatinho",
+      "e": "Sapateado"
+    },
+    "correct": "c",
+    "id": "por_48"
+  },
+  {
+    "question": "Assinale a alternativa que apresenta um substantivo primitivo:",
+    "options": {
+      "a": "Cafezal",
+      "b": "Cafezinho",
+      "c": "Café",
+      "d": "Cafeicultor",
+      "e": "Cafeteira"
+    },
+    "correct": "c",
+    "id": "por_49"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo derivado?",
+    "options": {
+      "a": "Casa",
+      "b": "Mar",
+      "c": "Floricultura",
+      "d": "Flor",
+      "e": "Sol"
+    },
+    "correct": "c",
+    "id": "por_50"
+  },
+  {
+    "question": "A palavra \"livraria\" é um substantivo derivado de qual palavra primitiva?",
+    "options": {
+      "a": "Livro",
+      "b": "Leitura",
+      "c": "Biblioteca",
+      "d": "Papel",
+      "e": "Escola"
+    },
+    "correct": "a",
+    "id": "por_51"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo derivado?",
+    "options": {
+      "a": "Terra",
+      "b": "Mar",
+      "c": "Terreiro",
+      "d": "Sol",
+      "e": "Pedra"
+    },
+    "correct": "c",
+    "id": "por_52"
+  },
+  {
+    "question": "A palavra \"pescaria\" é um substantivo derivado de qual palavra?",
+    "options": {
+      "a": "Peixe",
+      "b": "Pescar",
+      "c": "Mar",
+      "d": "Barco",
+      "e": "Rio"
+    },
+    "correct": "b",
+    "id": "por_53"
+  },
+  {
+    "question": "Assinale a alternativa que apresenta um substantivo derivado:",
+    "options": {
+      "a": "Ferro",
+      "b": "Pedra",
+      "c": "Ferreiro",
+      "d": "Água",
+      "e": "Livro"
+    },
+    "correct": "c",
+    "id": "por_54"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo derivado?",
+    "options": {
+      "a": "Chuva",
+      "b": "Chuveiro",
+      "c": "Mar",
+      "d": "Sol",
+      "e": "Flor"
+    },
+    "correct": "b",
+    "id": "por_55"
+  },
+  {
+    "question": "A palavra \"florista\" é um substantivo derivado de qual substantivo primitivo?",
+    "options": {
+      "a": "Flor",
+      "b": "Jardim",
+      "c": "Planta",
+      "d": "Folha",
+      "e": "Vaso"
+    },
+    "correct": "a",
+    "id": "por_56"
+  }
+]

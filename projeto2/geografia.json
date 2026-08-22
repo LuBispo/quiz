@@ -1,0 +1,122 @@
+[
+  {
+    "question": "O que é um mapa?",
+    "options": {
+      "a": "Uma fotografia de pessoas",
+      "b": "Um tipo de planta",
+      "c": "Um desenho que representa um lugar",
+      "d": "Um brinquedo educativo",
+      "e": "Um tipo de animal"
+    },
+    "correct": "c",
+    "id": "geo_01"
+  },
+  {
+    "question": "Qual é o nome do continente onde está o Brasil?",
+    "options": {
+      "a": "Ásia",
+      "b": "África",
+      "c": "Europa",
+      "d": "América do Sul",
+      "e": "Oceania"
+    },
+    "correct": "d",
+    "id": "geo_02"
+  },
+  {
+    "question": "Qual é o maior oceano do planeta Terra?",
+    "options": {
+      "a": "Atlântico",
+      "b": "Índico",
+      "c": "Ártico",
+      "d": "Antártico",
+      "e": "Pacífico"
+    },
+    "correct": "e",
+    "id": "geo_03"
+  },
+  {
+    "question": "Qual é o nome do planeta onde vivemos?",
+    "options": {
+      "a": "Marte",
+      "b": "Lua",
+      "c": "Terra",
+      "d": "Júpiter",
+      "e": "Sol"
+    },
+    "correct": "c",
+    "id": "geo_04"
+  },
+  {
+    "question": "O que podemos encontrar em uma paisagem natural?",
+    "options": {
+      "a": "Prédios",
+      "b": "Fábricas",
+      "c": "Rios e florestas",
+      "d": "Aviões",
+      "e": "Carros"
+    },
+    "correct": "c",
+    "id": "geo_05"
+  },
+  {
+    "question": "O que indica uma rosa dos ventos?",
+    "options": {
+      "a": "Os planetas",
+      "b": "As nuvens",
+      "c": "Os pontos cardeais",
+      "d": "As cores do mapa",
+      "e": "Os rios"
+    },
+    "correct": "c",
+    "id": "geo_06"
+  },
+  {
+    "question": "Como se chama o lugar onde vivemos com outras pessoas?",
+    "options": {
+      "a": "Continente",
+      "b": "Cidade",
+      "c": "Floresta",
+      "d": "Rio",
+      "e": "Mar"
+    },
+    "correct": "b",
+    "id": "geo_07"
+  },
+  {
+    "question": "O que diferencia o campo da cidade?",
+    "options": {
+      "a": "O campo tem muitos carros",
+      "b": "A cidade não tem pessoas",
+      "c": "O campo tem mais natureza e é menos movimentado",
+      "d": "O campo tem prédios altos",
+      "e": "A cidade tem plantações"
+    },
+    "correct": "c",
+    "id": "geo_08"
+  },
+  {
+    "question": "Qual é o nome do maior país da América do Sul?",
+    "options": {
+      "a": "Argentina",
+      "b": "Brasil",
+      "c": "Chile",
+      "d": "Colômbia",
+      "e": "Uruguai"
+    },
+    "correct": "b",
+    "id": "geo_09"
+  },
+  {
+    "question": "O que é um rio?",
+    "options": {
+      "a": "Uma montanha coberta de gelo",
+      "b": "Um caminho de água doce que corre pela terra",
+      "c": "Um lago com peixes",
+      "d": "Uma parte do mar",
+      "e": "Uma nascente de fogo"
+    },
+    "correct": "b",
+    "id": "geo_10"
+  }
+]

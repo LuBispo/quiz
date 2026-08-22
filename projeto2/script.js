@@ -6,7 +6,8 @@ const themes = [
   { name: 'História', file: 'projeto2/historia.json' },
   { name: 'Ciências', file: 'projeto2/ciencias.json' },
   { name: 'Língua Portuguesa', file: 'projeto2/portugues.json' },
-  { name: 'Matemática', file: 'projeto2/matematica.json' }
+  { name: 'Matemática', file: 'projeto2/matematica.json' },
+  { name: 'Inglês', file: 'projeto2/ingles.json' }
 ];
 
 const QUESTOES_POR_TENTATIVA = 10; // tamanho alvo de cada avaliação

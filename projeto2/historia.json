@@ -1,122 +1,722 @@
 [
   {
-    "question": "O que é uma fábula?",
+    "question": "Por que pessoas escravizadas realizavam revoltas no Brasil?",
     "options": {
-      "a": "Um conto com personagens reais",
-      "b": "Uma história com animais que falam e ensinam uma lição",
-      "c": "Um poema sobre o amor",
-      "d": "Uma notícia de jornal",
-      "e": "Uma reportagem sobre a natureza"
+      "a": "Para conquistar mais terras para os senhores",
+      "b": "Para lutar contra a escravidão e buscar liberdade",
+      "c": "Para aumentar o comércio de escravizados",
+      "d": "Para defender a escravidão",
+      "e": "Para substituir o trabalho livre"
     },
     "correct": "b",
-    "id": "his_01"
+    "id": "hist_01"
   },
   {
-    "question": "Quem é o autor do livro 'O Sítio do Picapau Amarelo'?",
+    "question": "O que era uma das principais formas de resistência das pessoas escravizadas?",
     "options": {
-      "a": "Monteiro Lobato",
-      "b": "Machado de Assis",
-      "c": "Ruth Rocha",
-      "d": "Pedro Bandeira",
-      "e": "Cecília Meireles"
-    },
-    "correct": "a",
-    "id": "his_02"
-  },
-  {
-    "question": "Qual desses é um personagem famoso da literatura infantil brasileira?",
-    "options": {
-      "a": "Saci-Pererê",
-      "b": "Harry Potter",
-      "c": "Cinderela",
-      "d": "Sherlock Holmes",
-      "e": "Rei Arthur"
-    },
-    "correct": "a",
-    "id": "his_03"
-  },
-  {
-    "question": "O que é um poema?",
-    "options": {
-      "a": "Um texto de regras",
-      "b": "Uma lista de compras",
-      "c": "Um texto em forma de versos e rimas",
-      "d": "Um mapa ilustrado",
-      "e": "Uma bula de remédio"
-    },
-    "correct": "c",
-    "id": "his_04"
-  },
-  {
-    "question": "O que geralmente encontramos no começo de uma história?",
-    "options": {
-      "a": "O final",
-      "b": "A lição de moral",
-      "c": "A introdução dos personagens e do lugar",
-      "d": "Os créditos",
-      "e": "O índice"
-    },
-    "correct": "c",
-    "id": "his_05"
-  },
-  {
-    "question": "Qual é o nome da boneca de pano criada por Monteiro Lobato?",
-    "options": {
-      "a": "Barbie",
-      "b": "Emília",
-      "c": "Anita",
-      "d": "Joaninha",
-      "e": "Lili"
+      "a": "Apenas trabalhar mais",
+      "b": "Fugir, formar quilombos e organizar revoltas",
+      "c": "Ajudar os senhores a capturar fugitivos",
+      "d": "Impedir o fim da escravidão",
+      "e": "Abandonar todas as tradições culturais"
     },
     "correct": "b",
-    "id": "his_06"
+    "id": "hist_02"
   },
   {
-    "question": "O que é uma rima?",
+    "question": "O que eram quilombos?",
     "options": {
-      "a": "Uma pintura em um livro",
-      "b": "Palavras com sons parecidos no final",
-      "c": "Uma página em branco",
-      "d": "Um título de história",
-      "e": "Uma frase sem sentido"
+      "a": "Fortificações construídas pelos portugueses",
+      "b": "Comunidades formadas principalmente por pessoas que fugiam da escravidão",
+      "c": "Mercados de escravizados",
+      "d": "Fazendas de café",
+      "e": "Escolas militares"
     },
     "correct": "b",
-    "id": "his_07"
+    "id": "hist_03"
   },
   {
-    "question": "Qual dessas é uma autora brasileira de livros infantis?",
+    "question": "O Quilombo dos Palmares ficou conhecido por:",
     "options": {
-      "a": "Ruth Rocha",
-      "b": "J.K. Rowling",
-      "c": "Clarice Lispector",
-      "d": "Agatha Christie",
-      "e": "Suzanne Collins"
+      "a": "Ser uma comunidade de resistência à escravidão",
+      "b": "Ser uma cidade fundada pelos portugueses",
+      "c": "Ser uma grande fazenda de açúcar",
+      "d": "Ser uma prisão para pessoas escravizadas",
+      "e": "Ser uma vila de comerciantes europeus"
     },
     "correct": "a",
-    "id": "his_08"
+    "id": "hist_04"
   },
   {
-    "question": "Como chamamos a parte mais emocionante de uma história?",
+    "question": "Quem foi Zumbi dos Palmares?",
     "options": {
-      "a": "Introdução",
-      "b": "Moral",
-      "c": "Clímax",
-      "d": "Personagem",
-      "e": "Resumo"
+      "a": "Um governador português",
+      "b": "Um líder associado à resistência do Quilombo dos Palmares",
+      "c": "Um comerciante de escravizados",
+      "d": "Um imperador brasileiro",
+      "e": "Um capitão do Exército português"
     },
-    "correct": "c",
-    "id": "his_09"
+    "correct": "b",
+    "id": "hist_05"
   },
   {
-    "question": "Qual dessas opções é um livro de literatura infantil?",
+    "question": "As revoltas de pessoas escravizadas demonstravam que:",
     "options": {
-      "a": "A Revolução dos Bichos",
-      "b": "Dom Casmurro",
-      "c": "Marcelo, Marmelo, Martelo",
-      "d": "O Pequeno Príncipe",
-      "e": "Capitães da Areia"
+      "a": "As pessoas escravizadas aceitavam sempre sua situação",
+      "b": "Havia resistência à violência e à falta de liberdade",
+      "c": "A escravidão era voluntária",
+      "d": "Não existiam conflitos no período",
+      "e": "A escravidão era igual ao trabalho assalariado"
     },
-    "correct": "c",
-    "id": "his_10"
+    "correct": "b",
+    "id": "hist_06"
+  },
+  {
+    "question": "Além das revoltas e fugas, a resistência à escravidão também podia ocorrer por meio de:",
+    "options": {
+      "a": "Preservação de costumes, religiões, músicas e outras práticas culturais",
+      "b": "Abandono de todas as tradições africanas",
+      "c": "Apoio aos senhores",
+      "d": "Proibição das manifestações culturais",
+      "e": "Aumento da exploração"
+    },
+    "correct": "a",
+    "id": "hist_07"
+  },
+  {
+    "question": "O que significa dizer que uma pessoa escravizada resistia à escravidão?",
+    "options": {
+      "a": "Que ela procurava maneiras de enfrentar ou escapar da condição de escravização",
+      "b": "Que ela queria aumentar sua própria escravização",
+      "c": "Que ela defendia os interesses dos senhores",
+      "d": "Que ela desejava trabalhar sem remuneração",
+      "e": "Que ela pretendia vender outras pessoas"
+    },
+    "correct": "a",
+    "id": "hist_08"
+  },
+  {
+    "question": "Por que as revoltas de escravizados preocupavam os senhores e autoridades?",
+    "options": {
+      "a": "Porque poderiam ameaçar a ordem escravista e a segurança dos proprietários",
+      "b": "Porque aumentavam os lucros dos senhores",
+      "c": "Porque ajudavam a controlar os escravizados",
+      "d": "Porque diminuíam a resistência",
+      "e": "Porque fortaleciam a escravidão"
+    },
+    "correct": "a",
+    "id": "hist_09"
+  },
+  {
+    "question": "Qual afirmação apresenta uma ideia correta sobre a resistência das pessoas escravizadas?",
+    "options": {
+      "a": "A resistência aconteceu de diferentes formas e em diferentes lugares",
+      "b": "A resistência ocorreu somente depois da abolição",
+      "c": "Somente homens livres participaram de resistências",
+      "d": "Não houve resistência organizada",
+      "e": "A resistência era proibida, portanto nunca aconteceu"
+    },
+    "correct": "a",
+    "id": "hist_10"
+  },
+  {
+    "question": "Em uma fazenda, um grupo de pessoas escravizadas foge e se reúne em uma comunidade onde procura viver longe do controle dos senhores. Essa situação é um exemplo de:",
+    "options": {
+      "a": "Formação de quilombo",
+      "b": "Trabalho assalariado",
+      "c": "Imigração europeia",
+      "d": "Expansão territorial portuguesa",
+      "e": "Comércio colonial"
+    },
+    "correct": "a",
+    "id": "hist_11"
+  },
+  {
+    "question": "Um estudante disse: 'Se uma pessoa escravizada fugia, isso não era uma forma de resistência porque ela não estava lutando'. Qual resposta é mais adequada?",
+    "options": {
+      "a": "A fuga podia ser uma forma de resistência, pois buscava romper com a condição de escravização",
+      "b": "A fuga sempre ajudava os senhores",
+      "c": "A fuga só era resistência quando autorizada",
+      "d": "A fuga não tinha relação com a escravidão",
+      "e": "A fuga acontecia apenas por motivos comerciais"
+    },
+    "correct": "a",
+    "id": "hist_12"
+  },
+  {
+    "question": "Imagine que pessoas escravizadas organizem uma ação coletiva para escapar do controle dos senhores. O que essa organização revela?",
+    "options": {
+      "a": "Que elas podiam agir coletivamente em busca de liberdade",
+      "b": "Que elas não tinham objetivos próprios",
+      "c": "Que apoiavam a escravidão",
+      "d": "Que desejavam aumentar o trabalho forçado",
+      "e": "Que não existia resistência"
+    },
+    "correct": "a",
+    "id": "hist_13"
+  },
+  {
+    "question": "Uma comunidade formada por fugitivos da escravidão precisa produzir alimentos, construir moradias e se proteger. Qual conceito histórico ajuda a identificar essa comunidade?",
+    "options": {
+      "a": "Quilombo",
+      "b": "Capitania",
+      "c": "Engenho",
+      "d": "Feitoria",
+      "e": "Câmara"
+    },
+    "correct": "a",
+    "id": "hist_14"
+  },
+  {
+    "question": "Uma professora apresenta relatos de pessoas escravizadas que mantinham músicas, crenças, festas e costumes de origem africana. O que esses relatos ajudam a compreender?",
+    "options": {
+      "a": "Que a resistência também podia acontecer pela preservação cultural",
+      "b": "Que as culturas africanas desapareceram completamente",
+      "c": "Que a cultura não tinha importância",
+      "d": "Que somente os senhores produziam cultura",
+      "e": "Que a escravidão era aceita por todos"
+    },
+    "correct": "a",
+    "id": "hist_15"
+  },
+  {
+    "question": "Durante uma aula, um aluno afirma que as revoltas de escravizados eram apenas conflitos entre trabalhadores. Por que essa explicação é inadequada?",
+    "options": {
+      "a": "Porque ignoraria a violência, a falta de liberdade e a condição de escravização dessas pessoas",
+      "b": "Porque todos os trabalhadores eram escravizados",
+      "c": "Porque não existiam conflitos no Brasil",
+      "d": "Porque as revoltas eram festas religiosas",
+      "e": "Porque os senhores não tinham participação na sociedade"
+    },
+    "correct": "a",
+    "id": "hist_16"
+  },
+  {
+    "question": "Em um texto histórico, aparece a informação de que um grupo de escravizados resistiu ao controle de seus senhores e procurou construir uma vida independente. Qual objetivo aparece com mais clareza?",
+    "options": {
+      "a": "Buscar liberdade e autonomia",
+      "b": "Aumentar o poder dos senhores",
+      "c": "Expandir o comércio de escravizados",
+      "d": "Defender o trabalho forçado",
+      "e": "Criar novas formas de escravidão"
+    },
+    "correct": "a",
+    "id": "hist_17"
+  },
+  {
+    "question": "Uma escola organiza uma exposição sobre resistência à escravidão. Qual conjunto de elementos representa diferentes formas de resistência?",
+    "options": {
+      "a": "Fugas, quilombos, revoltas e preservação cultural",
+      "b": "Somente trabalho obrigatório",
+      "c": "Somente compra e venda de pessoas",
+      "d": "Apenas leis portuguesas",
+      "e": "Somente atividades dos senhores"
+    },
+    "correct": "a",
+    "id": "hist_18"
+  },
+  {
+    "question": "Ao estudar o Quilombo dos Palmares, uma aluna percebe que seus habitantes precisavam organizar a própria comunidade. O que isso demonstra?",
+    "options": {
+      "a": "Que a resistência envolvia também criar formas de viver e se proteger",
+      "b": "Que Palmares era uma fazenda comum",
+      "c": "Que seus habitantes defendiam a escravidão",
+      "d": "Que não havia organização na comunidade",
+      "e": "Que todos eram soldados portugueses"
+    },
+    "correct": "a",
+    "id": "hist_19"
+  },
+  {
+    "question": "Um professor pergunta por que é importante estudar as revoltas e resistências de pessoas escravizadas. Qual resposta é mais adequada?",
+    "options": {
+      "a": "Para compreender que pessoas escravizadas foram sujeitos históricos que resistiram à escravidão de várias maneiras",
+      "b": "Para mostrar que a escravidão foi aceita por todos",
+      "c": "Para esconder os conflitos do período",
+      "d": "Para explicar apenas a economia colonial",
+      "e": "Para afirmar que não houve resistência"
+    },
+    "correct": "a",
+    "id": "hist_20"
+  },
+  {
+    "question": "Em que cidade ocorreu a Revolta dos Malês?",
+    "options": {
+      "a": "Recife",
+      "b": "Salvador",
+      "c": "Rio de Janeiro",
+      "d": "São Paulo",
+      "e": "Porto Alegre"
+    },
+    "correct": "b",
+    "id": "hist_21"
+  },
+  {
+    "question": "Em que ano ocorreu a Revolta dos Malês?",
+    "options": {
+      "a": "1789",
+      "b": "1808",
+      "c": "1824",
+      "d": "1835",
+      "e": "1888"
+    },
+    "correct": "d",
+    "id": "hist_22"
+  },
+  {
+    "question": "Quem eram os Malês?",
+    "options": {
+      "a": "Principalmente africanos muçulmanos, muitos deles escravizados ou libertos",
+      "b": "Somente portugueses católicos",
+      "c": "Apenas indígenas",
+      "d": "Somente comerciantes ingleses",
+      "e": "Apenas soldados brasileiros"
+    },
+    "correct": "a",
+    "id": "hist_23"
+  },
+  {
+    "question": "A palavra 'Malê' estava relacionada, no contexto da revolta, principalmente a:",
+    "options": {
+      "a": "Africanos muçulmanos",
+      "b": "Imigrantes italianos",
+      "c": "Militares portugueses",
+      "d": "Indígenas brasileiros",
+      "e": "Comerciantes franceses"
+    },
+    "correct": "a",
+    "id": "hist_24"
+  },
+  {
+    "question": "Qual foi uma característica importante da Revolta dos Malês?",
+    "options": {
+      "a": "A participação de africanos muçulmanos que organizaram uma revolta em Salvador",
+      "b": "A participação exclusiva de portugueses",
+      "c": "A defesa da escravidão",
+      "d": "Uma revolta ocorrida no século XX",
+      "e": "Uma guerra entre países europeus"
+    },
+    "correct": "a",
+    "id": "hist_25"
+  },
+  {
+    "question": "Qual cidade era a capital da província da Bahia e foi o centro da Revolta dos Malês?",
+    "options": {
+      "a": "Salvador",
+      "b": "Olinda",
+      "c": "São Luís",
+      "d": "Belém",
+      "e": "Curitiba"
+    },
+    "correct": "a",
+    "id": "hist_26"
+  },
+  {
+    "question": "A Revolta dos Malês ocorreu durante o período:",
+    "options": {
+      "a": "Regencial do Brasil",
+      "b": "Colonial anterior à chegada dos portugueses",
+      "c": "Do Estado Novo",
+      "d": "Da República Velha",
+      "e": "Da ditadura militar"
+    },
+    "correct": "a",
+    "id": "hist_27"
+  },
+  {
+    "question": "A religião teve importância na organização de muitos participantes da Revolta dos Malês. Qual era a religião praticada por eles?",
+    "options": {
+      "a": "Islamismo",
+      "b": "Hinduísmo",
+      "c": "Budismo",
+      "d": "Judaísmo",
+      "e": "Xintoísmo"
+    },
+    "correct": "a",
+    "id": "hist_28"
+  },
+  {
+    "question": "Entre as reivindicações e objetivos associados aos revoltosos malês estava:",
+    "options": {
+      "a": "Resistir à escravidão e buscar melhores condições e liberdade",
+      "b": "Aumentar o poder dos senhores",
+      "c": "Defender o tráfico de escravizados",
+      "d": "Restaurar o domínio português",
+      "e": "Impedir qualquer manifestação religiosa"
+    },
+    "correct": "a",
+    "id": "hist_29"
+  },
+  {
+    "question": "A Revolta dos Malês foi reprimida pelas autoridades. Isso significa que:",
+    "options": {
+      "a": "As autoridades combateram a revolta e prenderam ou puniram participantes",
+      "b": "Os revoltosos assumiram o governo da Bahia por muitos anos",
+      "c": "A escravidão terminou imediatamente",
+      "d": "A revolta aconteceu sem reação das autoridades",
+      "e": "Todos os participantes foram libertados"
+    },
+    "correct": "a",
+    "id": "hist_30"
+  },
+  {
+    "question": "Um estudante encontra em um texto a frase: 'A revolta aconteceu em Salvador, em 1835, e contou com a participação de africanos muçulmanos'. Sobre qual acontecimento o texto trata?",
+    "options": {
+      "a": "Revolta dos Malês",
+      "b": "Inconfidência Mineira",
+      "c": "Revolta de Canudos",
+      "d": "Guerra de Canudos",
+      "e": "Revolução Farroupilha"
+    },
+    "correct": "a",
+    "id": "hist_31"
+  },
+  {
+    "question": "Uma pessoa escravizada em Salvador praticava o islamismo e sabia ler textos em árabe. Essa informação pode ajudar a compreender a Revolta dos Malês porque:",
+    "options": {
+      "a": "A religião e a cultura islâmica tiveram papel importante entre muitos participantes",
+      "b": "Os Malês eram portugueses",
+      "c": "O árabe era a língua oficial do Brasil",
+      "d": "A revolta aconteceu em Portugal",
+      "e": "Todos os brasileiros praticavam o islamismo"
+    },
+    "correct": "a",
+    "id": "hist_32"
+  },
+  {
+    "question": "Imagine que um grupo de revoltosos combinasse ações durante a madrugada para tentar tomar pontos importantes de Salvador. O que isso demonstra?",
+    "options": {
+      "a": "Que houve organização e planejamento entre os participantes",
+      "b": "Que a revolta foi apenas uma festa",
+      "c": "Que não existia objetivo definido",
+      "d": "Que os revoltosos trabalhavam para as autoridades",
+      "e": "Que o movimento ocorreu sem participantes africanos"
+    },
+    "correct": "a",
+    "id": "hist_33"
+  },
+  {
+    "question": "Uma professora pergunta por que a Revolta dos Malês assustou as autoridades da Bahia. Qual resposta é mais adequada?",
+    "options": {
+      "a": "Porque uma revolta organizada por muitos africanos poderia ameaçar a ordem escravista",
+      "b": "Porque os revoltosos queriam aumentar a escravidão",
+      "c": "Porque a revolta ocorreu fora do Brasil",
+      "d": "Porque os revoltosos eram soldados portugueses",
+      "e": "Porque não havia pessoas escravizadas na Bahia"
+    },
+    "correct": "a",
+    "id": "hist_34"
+  },
+  {
+    "question": "Em uma atividade, os alunos precisam identificar uma característica dos participantes da Revolta dos Malês. Qual opção escolher?",
+    "options": {
+      "a": "Muitos eram africanos muçulmanos, escravizados ou libertos",
+      "b": "Todos eram portugueses",
+      "c": "Todos eram indígenas",
+      "d": "Todos eram fazendeiros ricos",
+      "e": "Todos eram soldados do governo"
+    },
+    "correct": "a",
+    "id": "hist_35"
+  },
+  {
+    "question": "Um aluno diz: 'A Revolta dos Malês aconteceu porque os participantes queriam apenas trocar de cidade'. Qual informação ajuda a corrigir essa ideia?",
+    "options": {
+      "a": "A revolta estava relacionada à resistência à escravidão, à liberdade e a questões religiosas e sociais",
+      "b": "A revolta não tinha objetivos",
+      "c": "Os participantes eram comerciantes europeus",
+      "d": "A revolta aconteceu depois da abolição",
+      "e": "O movimento ocorreu em outro continente"
+    },
+    "correct": "a",
+    "id": "hist_36"
+  },
+  {
+    "question": "Se uma exposição sobre a Revolta dos Malês apresentar uma imagem de Salvador em 1835 e textos sobre africanos muçulmanos, qual relação o visitante deve perceber?",
+    "options": {
+      "a": "A revolta ocorreu em Salvador e teve forte participação de africanos muçulmanos",
+      "b": "A revolta ocorreu no Rio de Janeiro",
+      "c": "Os Malês eram portugueses",
+      "d": "A revolta aconteceu em 1888",
+      "e": "A Bahia não tinha pessoas africanas"
+    },
+    "correct": "a",
+    "id": "hist_37"
+  },
+  {
+    "question": "Depois da revolta, as autoridades aumentaram a vigilância sobre africanos na Bahia. O que essa atitude revela?",
+    "options": {
+      "a": "Que o governo considerava a organização de africanos uma ameaça à ordem existente",
+      "b": "Que a escravidão havia terminado",
+      "c": "Que as autoridades apoiavam a revolta",
+      "d": "Que os africanos passaram a governar a Bahia",
+      "e": "Que não houve repressão"
+    },
+    "correct": "a",
+    "id": "hist_38"
+  },
+  {
+    "question": "Uma criança pergunta por que a Revolta dos Malês é lembrada até hoje. Qual resposta ajuda a compreender sua importância?",
+    "options": {
+      "a": "Ela mostra a resistência de africanos e afro-brasileiros contra a escravidão e outras formas de opressão",
+      "b": "Porque foi uma guerra entre Brasil e Portugal",
+      "c": "Porque marcou o fim imediato da escravidão",
+      "d": "Porque foi uma disputa esportiva",
+      "e": "Porque não teve relação com a escravidão"
+    },
+    "correct": "a",
+    "id": "hist_39"
+  },
+  {
+    "question": "Em uma linha do tempo, uma aluna coloca a Revolta dos Malês em 1835. O que ela pode concluir?",
+    "options": {
+      "a": "A revolta aconteceu no período do Brasil Regencial, antes do Segundo Reinado",
+      "b": "A revolta aconteceu depois da Lei Áurea",
+      "c": "A revolta ocorreu durante a colonização inicial",
+      "d": "A revolta aconteceu no século XX",
+      "e": "A revolta ocorreu antes da chegada dos portugueses"
+    },
+    "correct": "a",
+    "id": "hist_40"
+  },
+  {
+    "question": "O que as revoltas de pessoas escravizadas e a Revolta dos Malês têm em comum?",
+    "options": {
+      "a": "A resistência de pessoas escravizadas contra a condição de escravização",
+      "b": "A defesa da escravidão",
+      "c": "A participação exclusiva de portugueses",
+      "d": "Aconteceram todas depois de 1888",
+      "e": "Foram movimentos organizados pelo governo"
+    },
+    "correct": "a",
+    "id": "hist_41"
+  },
+  {
+    "question": "Qual alternativa apresenta uma diferença importante entre um quilombo e a Revolta dos Malês?",
+    "options": {
+      "a": "Quilombo era uma comunidade de resistência; a Revolta dos Malês foi uma revolta organizada em Salvador em 1835",
+      "b": "Os dois eram exclusivamente grupos portugueses",
+      "c": "Quilombos só existiram depois da abolição",
+      "d": "A Revolta dos Malês ocorreu no século XX",
+      "e": "Não existia resistência em nenhum dos dois casos"
+    },
+    "correct": "a",
+    "id": "hist_42"
+  },
+  {
+    "question": "Por que a religião é especialmente importante para compreender a Revolta dos Malês?",
+    "options": {
+      "a": "Porque muitos participantes eram muçulmanos e sua fé fazia parte de sua identidade e organização",
+      "b": "Porque todos os brasileiros eram muçulmanos",
+      "c": "Porque a religião criou a escravidão",
+      "d": "Porque a revolta aconteceu em uma igreja católica",
+      "e": "Porque os Malês eram padres portugueses"
+    },
+    "correct": "a",
+    "id": "hist_43"
+  },
+  {
+    "question": "Qual afirmação melhor explica a relação entre escravidão e resistência no Brasil?",
+    "options": {
+      "a": "A escravidão gerou diferentes formas de resistência, como fugas, quilombos e revoltas",
+      "b": "As pessoas escravizadas nunca resistiram",
+      "c": "A resistência só aconteceu após 1888",
+      "d": "Somente pessoas livres resistiram",
+      "e": "A resistência era impossível"
+    },
+    "correct": "a",
+    "id": "hist_44"
+  },
+  {
+    "question": "Por que estudar a Revolta dos Malês ajuda a conhecer a história dos africanos no Brasil?",
+    "options": {
+      "a": "Porque mostra que africanos participaram ativamente da história e organizaram formas de resistência",
+      "b": "Porque mostra que africanos não tinham cultura própria",
+      "c": "Porque todos os africanos eram livres",
+      "d": "Porque a revolta foi organizada por europeus",
+      "e": "Porque a África não teve relação com o Brasil"
+    },
+    "correct": "a",
+    "id": "hist_45"
+  },
+  {
+    "question": "Qual alternativa apresenta somente formas de resistência à escravidão?",
+    "options": {
+      "a": "Fugas, quilombos, revoltas e preservação cultural",
+      "b": "Aumento do trabalho forçado, punições e vigilância",
+      "c": "Venda de pessoas, tráfico e castigos",
+      "d": "Expansão dos engenhos e cobrança de impostos",
+      "e": "Construção de estradas e comércio europeu"
+    },
+    "correct": "a",
+    "id": "hist_46"
+  },
+  {
+    "question": "Por que é inadequado dizer que as pessoas escravizadas eram apenas vítimas sem capacidade de ação?",
+    "options": {
+      "a": "Porque elas também criaram estratégias de resistência, organização e preservação cultural",
+      "b": "Porque a escravidão não existiu",
+      "c": "Porque todos eram livres",
+      "d": "Porque os senhores não tinham poder",
+      "e": "Porque não houve conflitos"
+    },
+    "correct": "a",
+    "id": "hist_47"
+  },
+  {
+    "question": "O que a existência de diferentes revoltas e quilombos revela sobre a escravidão no Brasil?",
+    "options": {
+      "a": "Que a escravidão enfrentou resistência de diferentes formas e em diferentes lugares",
+      "b": "Que todos aceitavam a escravidão",
+      "c": "Que não havia conflitos sociais",
+      "d": "Que somente os portugueses faziam história",
+      "e": "Que a resistência só ocorreu na Bahia"
+    },
+    "correct": "a",
+    "id": "hist_48"
+  },
+  {
+    "question": "Qual ideia ajuda a comparar o Quilombo dos Palmares e a Revolta dos Malês?",
+    "options": {
+      "a": "Ambos fazem parte da história da resistência de africanos e seus descendentes à escravidão",
+      "b": "Ambos aconteceram no mesmo ano",
+      "c": "Ambos eram governos portugueses",
+      "d": "Ambos ocorreram depois da abolição",
+      "e": "Ambos eram movimentos de defesa da escravidão"
+    },
+    "correct": "a",
+    "id": "hist_49"
+  },
+  {
+    "question": "Ao estudar esses acontecimentos, qual atitude é importante para compreender o passado?",
+    "options": {
+      "a": "Observar as experiências e ações de diferentes grupos que participaram da história",
+      "b": "Considerar somente a visão dos governantes",
+      "c": "Ignorar as pessoas escravizadas",
+      "d": "Acreditar que todos pensavam da mesma forma",
+      "e": "Estudar apenas datas"
+    },
+    "correct": "a",
+    "id": "hist_50"
+  },
+  {
+    "question": "Uma turma compara uma comunidade formada por fugitivos da escravidão com um movimento organizado em Salvador em 1835 por africanos muçulmanos. Quais acontecimentos estão sendo comparados?",
+    "options": {
+      "a": "Quilombo e Revolta dos Malês",
+      "b": "Engenho e Inconfidência Mineira",
+      "c": "Capitania e Revolução Farroupilha",
+      "d": "Corte portuguesa e Canudos",
+      "e": "República e Independência"
+    },
+    "correct": "a",
+    "id": "hist_51"
+  },
+  {
+    "question": "Uma estudante afirma: 'A resistência à escravidão acontecia somente por meio de guerras'. Qual exemplo mostra que ela está enganada?",
+    "options": {
+      "a": "Fugas e formação de quilombos também eram formas de resistência",
+      "b": "A compra de escravizados",
+      "c": "O trabalho forçado",
+      "d": "As punições",
+      "e": "A vigilância dos senhores"
+    },
+    "correct": "a",
+    "id": "hist_52"
+  },
+  {
+    "question": "Uma exposição apresenta a seguinte sequência: escravidão → resistência → organização de comunidades e revoltas. O que essa sequência ajuda a compreender?",
+    "options": {
+      "a": "Que a escravidão provocou diferentes respostas e formas de resistência",
+      "b": "Que a escravidão foi aceita por todos",
+      "c": "Que os quilombos eram fazendas",
+      "d": "Que as revoltas defendiam a escravidão",
+      "e": "Que não existiam conflitos"
+    },
+    "correct": "a",
+    "id": "hist_53"
+  },
+  {
+    "question": "Um professor apresenta duas informações: 'Palmares' e 'Salvador, 1835'. Qual associação está correta?",
+    "options": {
+      "a": "Palmares está relacionado a um importante quilombo; Salvador, em 1835, à Revolta dos Malês",
+      "b": "Palmares foi uma revolta em 1835 e Salvador foi um quilombo",
+      "c": "Os dois termos indicam o mesmo acontecimento",
+      "d": "Ambos ocorreram depois de 1888",
+      "e": "Nenhum deles está relacionado à resistência"
+    },
+    "correct": "a",
+    "id": "hist_54"
+  },
+  {
+    "question": "Uma criança pergunta por que os participantes da Revolta dos Malês não podem ser estudados apenas como 'escravizados'. Qual resposta é mais completa?",
+    "options": {
+      "a": "Porque muitos tinham identidades, crenças, conhecimentos, relações e formas próprias de organização",
+      "b": "Porque nenhum participante era africano",
+      "c": "Porque todos eram portugueses",
+      "d": "Porque a religião não tinha importância",
+      "e": "Porque a revolta não teve participantes escravizados ou libertos"
+    },
+    "correct": "a",
+    "id": "hist_55"
+  },
+  {
+    "question": "Ao estudar os quilombos, uma turma percebe que seus moradores precisavam plantar, construir casas e organizar sua defesa. O que isso demonstra?",
+    "options": {
+      "a": "Que os quilombos eram comunidades organizadas e não apenas lugares de esconderijo",
+      "b": "Que os quilombos eram prisões",
+      "c": "Que os moradores não trabalhavam",
+      "d": "Que os quilombos pertenciam aos senhores",
+      "e": "Que não havia organização social"
+    },
+    "correct": "a",
+    "id": "hist_56"
+  },
+  {
+    "question": "Uma escola quer fazer uma atividade sobre a resistência de pessoas escravizadas. Qual conjunto de temas seria mais adequado?",
+    "options": {
+      "a": "Quilombos, fugas, revoltas e preservação cultural",
+      "b": "Somente os nomes dos senhores",
+      "c": "Somente a produção de açúcar",
+      "d": "Apenas as leis portuguesas",
+      "e": "Somente o comércio europeu"
+    },
+    "correct": "a",
+    "id": "hist_57"
+  },
+  {
+    "question": "Uma aluna percebe que a Revolta dos Malês ocorreu em Salvador e que muitos participantes eram africanos muçulmanos. Qual conclusão é possível?",
+    "options": {
+      "a": "A história da escravidão também envolve diferenças culturais, religiosas e formas de organização entre os africanos",
+      "b": "Todos os africanos tinham a mesma religião",
+      "c": "A Bahia não tinha população africana",
+      "d": "A revolta foi organizada por portugueses",
+      "e": "A religião não tinha nenhuma importância"
+    },
+    "correct": "a",
+    "id": "hist_58"
+  },
+  {
+    "question": "Um professor pergunta o que pode ser aprendido ao estudar revoltas de escravizados além das datas em que ocorreram. Qual resposta é melhor?",
+    "options": {
+      "a": "Podemos compreender as experiências, estratégias de resistência e busca por liberdade dessas pessoas",
+      "b": "Somente o nome dos governantes",
+      "c": "Apenas os preços dos produtos",
+      "d": "Somente as construções das cidades",
+      "e": "Nada além das datas"
+    },
+    "correct": "a",
+    "id": "hist_59"
+  },
+  {
+    "question": "Qual conclusão reúne corretamente os dois assuntos estudados?",
+    "options": {
+      "a": "Pessoas escravizadas e africanos no Brasil desenvolveram diferentes formas de resistência, incluindo quilombos, fugas e revoltas como a dos Malês",
+      "b": "A escravidão não provocou resistência",
+      "c": "A Revolta dos Malês aconteceu depois da abolição",
+      "d": "Os quilombos eram comunidades criadas pelos senhores",
+      "e": "Todas as resistências ocorreram da mesma maneira"
+    },
+    "correct": "a",
+    "id": "hist_60"
   }
 ]

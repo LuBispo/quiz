@@ -1,122 +1,722 @@
 [
   {
-    "question": "Qual dos itens abaixo é uma fonte de energia renovável?",
+    "question": "Qual é a principal função do sistema digestório?",
     "options": {
-      "a": "Petróleo",
-      "b": "Carvão mineral",
-      "c": "Energia solar",
-      "d": "Gás natural",
-      "e": "Energia nuclear"
-    },
-    "correct": "c",
-    "id": "cie_01"
-  },
-  {
-    "question": "Qual é a função principal das raízes das plantas?",
-    "options": {
-      "a": "Fazer fotossíntese",
-      "b": "Proteger a planta do sol",
-      "c": "Absorver água e nutrientes",
-      "d": "Produzir frutos",
-      "e": "Ajudar na reprodução"
-    },
-    "correct": "c",
-    "id": "cie_02"
-  },
-  {
-    "question": "O que todos os seres vivos têm em comum?",
-    "options": {
-      "a": "São verdes",
-      "b": "Se alimentam de carne",
-      "c": "Precisam de oxigênio",
-      "d": "Não se movem",
-      "e": "Vivem na água"
-    },
-    "correct": "c",
-    "id": "cie_03"
-  },
-  {
-    "question": "Qual desses animais é um mamífero?",
-    "options": {
-      "a": "Galinha",
-      "b": "Jacaré",
-      "c": "Sapo",
-      "d": "Gato",
-      "e": "Peixe"
-    },
-    "correct": "d",
-    "id": "cie_04"
-  },
-  {
-    "question": "Qual é o principal gás que respiramos do ar?",
-    "options": {
-      "a": "Gás carbônico",
-      "b": "Hidrogênio",
-      "c": "Oxigênio",
-      "d": "Vapor d'água",
-      "e": "Gás hélio"
-    },
-    "correct": "c",
-    "id": "cie_05"
-  },
-  {
-    "question": "Qual é o estado da água quando ela ferve?",
-    "options": {
-      "a": "Sólido",
-      "b": "Gasoso",
-      "c": "Gelado",
-      "d": "Líquido",
-      "e": "Espesso"
+      "a": "Produzir o sangue",
+      "b": "Transformar os alimentos e aproveitar seus nutrientes",
+      "c": "Levar oxigênio aos pulmões",
+      "d": "Bombear o sangue",
+      "e": "Controlar os movimentos do corpo"
     },
     "correct": "b",
-    "id": "cie_06"
+    "id": "cien_01"
   },
   {
-    "question": "O que acontece com as sombras ao meio-dia?",
+    "question": "Em qual órgão começa a digestão dos alimentos?",
     "options": {
-      "a": "Ficam maiores",
-      "b": "Desaparecem",
-      "c": "Ficam coloridas",
-      "d": "Ficam menores",
-      "e": "Mudam de forma"
-    },
-    "correct": "d",
-    "id": "cie_07"
-  },
-  {
-    "question": "Qual desses objetos é atraído por um ímã?",
-    "options": {
-      "a": "Borracha",
-      "b": "Plástico",
-      "c": "Papel",
-      "d": "Prego de ferro",
-      "e": "Madeira"
-    },
-    "correct": "d",
-    "id": "cie_08"
-  },
-  {
-    "question": "O que é necessário para que ocorra a fotossíntese nas plantas?",
-    "options": {
-      "a": "Som",
-      "b": "Fogo",
-      "c": "Luz do sol",
-      "d": "Sal",
-      "e": "Vento"
+      "a": "Estômago",
+      "b": "Intestino delgado",
+      "c": "Boca",
+      "d": "Fígado",
+      "e": "Intestino grosso"
     },
     "correct": "c",
-    "id": "cie_09"
+    "id": "cien_02"
   },
   {
-    "question": "Qual dos seguintes é um planeta do Sistema Solar?",
+    "question": "Qual órgão recebe o alimento depois que ele passa pela boca e pela faringe?",
     "options": {
-      "a": "Sol",
-      "b": "Lua",
-      "c": "Vênus",
-      "d": "Estrela",
-      "e": "Cometa"
+      "a": "Esôfago",
+      "b": "Fígado",
+      "c": "Pâncreas",
+      "d": "Intestino grosso",
+      "e": "Pulmão"
+    },
+    "correct": "a",
+    "id": "cien_03"
+  },
+  {
+    "question": "Qual é a principal função do estômago na digestão?",
+    "options": {
+      "a": "Filtrar o sangue",
+      "b": "Armazenar oxigênio",
+      "c": "Misturar e digerir o alimento",
+      "d": "Produzir os batimentos cardíacos",
+      "e": "Absorver todo o oxigênio"
     },
     "correct": "c",
-    "id": "cie_10"
+    "id": "cien_04"
+  },
+  {
+    "question": "Em qual órgão ocorre grande parte da absorção dos nutrientes?",
+    "options": {
+      "a": "Intestino delgado",
+      "b": "Esôfago",
+      "c": "Boca",
+      "d": "Intestino grosso",
+      "e": "Estômago"
+    },
+    "correct": "a",
+    "id": "cien_05"
+  },
+  {
+    "question": "Qual órgão participa da produção da bile, substância que auxilia na digestão das gorduras?",
+    "options": {
+      "a": "Pulmão",
+      "b": "Coração",
+      "c": "Fígado",
+      "d": "Rim",
+      "e": "Esôfago"
+    },
+    "correct": "c",
+    "id": "cien_06"
+  },
+  {
+    "question": "Qual é a função principal do intestino grosso?",
+    "options": {
+      "a": "Absorver água e formar as fezes",
+      "b": "Bombear o sangue",
+      "c": "Produzir oxigênio",
+      "d": "Mastigar os alimentos",
+      "e": "Levar o alimento até o estômago"
+    },
+    "correct": "a",
+    "id": "cien_07"
+  },
+  {
+    "question": "Ana mastigou bem um pedaço de pão antes de engoli-lo. Por que a mastigação é importante para a digestão?",
+    "options": {
+      "a": "Porque transforma o alimento em sangue",
+      "b": "Porque quebra o alimento em partes menores, facilitando a digestão",
+      "c": "Porque leva oxigênio ao alimento",
+      "d": "Porque impede a formação de saliva",
+      "e": "Porque faz o alimento chegar diretamente ao intestino"
+    },
+    "correct": "b",
+    "id": "cien_08"
+  },
+  {
+    "question": "Pedro comeu uma fruta e, depois da digestão, seu corpo aproveitou vitaminas e outros nutrientes. Em qual parte do sistema digestório ocorre grande parte dessa absorção?",
+    "options": {
+      "a": "Esôfago",
+      "b": "Intestino delgado",
+      "c": "Boca",
+      "d": "Intestino grosso",
+      "e": "Faringe"
+    },
+    "correct": "b",
+    "id": "cien_09"
+  },
+  {
+    "question": "Maria engoliu um pedaço de comida. Qual caminho representa corretamente a passagem do alimento até chegar ao estômago?",
+    "options": {
+      "a": "Boca → pulmão → estômago",
+      "b": "Boca → esôfago → estômago",
+      "c": "Boca → intestino → esôfago",
+      "d": "Boca → coração → estômago",
+      "e": "Boca → fígado → estômago"
+    },
+    "correct": "b",
+    "id": "cien_10"
+  },
+  {
+    "question": "João comeu uma refeição muito rica em fibras e bebeu bastante água. Essa combinação ajuda principalmente o funcionamento de qual parte do sistema digestório?",
+    "options": {
+      "a": "Intestino grosso",
+      "b": "Esôfago",
+      "c": "Boca",
+      "d": "Fígado",
+      "e": "Estômago"
+    },
+    "correct": "a",
+    "id": "cien_11"
+  },
+  {
+    "question": "Uma pessoa comeu rapidamente, quase sem mastigar. Qual consequência é mais provável para o processo digestivo?",
+    "options": {
+      "a": "O alimento ficará melhor preparado para a digestão",
+      "b": "A digestão poderá ficar mais difícil porque o alimento chega em pedaços maiores",
+      "c": "O coração deixará de bater",
+      "d": "Os pulmões deixarão de funcionar",
+      "e": "O alimento será transformado diretamente em oxigênio"
+    },
+    "correct": "b",
+    "id": "cien_12"
+  },
+  {
+    "question": "Lucas comeu arroz, feijão e carne. Depois de digeridos, os nutrientes desses alimentos precisam chegar às células do corpo. O que acontece depois da absorção dos nutrientes?",
+    "options": {
+      "a": "Eles são transportados pelo organismo, principalmente pelo sangue",
+      "b": "Eles voltam imediatamente para a boca",
+      "c": "Eles são transformados em ar nos pulmões",
+      "d": "Eles ficam armazenados no esôfago",
+      "e": "Eles são eliminados sem passar pelo corpo"
+    },
+    "correct": "a",
+    "id": "cien_13"
+  },
+  {
+    "question": "Uma pessoa teve uma alteração que dificultou a passagem do alimento pelo esôfago. Qual função foi diretamente prejudicada?",
+    "options": {
+      "a": "O transporte do alimento da boca até o estômago",
+      "b": "A entrada de oxigênio nos pulmões",
+      "c": "O bombeamento do sangue",
+      "d": "A formação dos ossos",
+      "e": "A produção de suor"
+    },
+    "correct": "a",
+    "id": "cien_14"
+  },
+  {
+    "question": "Durante uma aula, a professora explicou que a saliva começa a atuar sobre o alimento ainda na boca. Isso mostra que:",
+    "options": {
+      "a": "A digestão começa somente no intestino",
+      "b": "A digestão pode começar antes de o alimento chegar ao estômago",
+      "c": "A saliva serve apenas para resfriar o alimento",
+      "d": "O estômago não participa da digestão",
+      "e": "A boca faz parte do sistema respiratório"
+    },
+    "correct": "b",
+    "id": "cien_15"
+  },
+  {
+    "question": "Carla passou alguns dias bebendo pouca água e percebeu que suas fezes ficaram mais ressecadas. Qual órgão está diretamente relacionado à absorção de água e à formação das fezes?",
+    "options": {
+      "a": "Intestino grosso",
+      "b": "Esôfago",
+      "c": "Fígado",
+      "d": "Estômago",
+      "e": "Boca"
+    },
+    "correct": "a",
+    "id": "cien_16"
+  },
+  {
+    "question": "Uma refeição contém carboidratos, proteínas, gorduras, vitaminas e sais minerais. Por que o corpo precisa realizar a digestão de parte desses alimentos?",
+    "options": {
+      "a": "Para transformar nutrientes e alimentos em formas que possam ser aproveitadas pelo organismo",
+      "b": "Para transformar todos os alimentos em oxigênio",
+      "c": "Para impedir a circulação do sangue",
+      "d": "Para retirar todo o ar do corpo",
+      "e": "Para fazer o alimento permanecer no estômago por vários dias"
+    },
+    "correct": "a",
+    "id": "cien_17"
+  },
+  {
+    "question": "Depois de uma refeição, o alimento não vai diretamente do estômago para todas as células do corpo. Primeiro, grande parte dos nutrientes é absorvida. Qual órgão é especialmente importante nessa etapa?",
+    "options": {
+      "a": "Intestino delgado",
+      "b": "Pulmão",
+      "c": "Coração",
+      "d": "Esôfago",
+      "e": "Intestino grosso"
+    },
+    "correct": "a",
+    "id": "cien_18"
+  },
+  {
+    "question": "Uma criança perguntou por que o alimento não cai diretamente do esôfago para o intestino grosso. Qual resposta está correta?",
+    "options": {
+      "a": "Porque o alimento passa primeiro pelo estômago e depois pelo intestino delgado",
+      "b": "Porque o esôfago leva o alimento aos pulmões",
+      "c": "Porque o intestino grosso vem antes do estômago",
+      "d": "Porque o coração precisa receber o alimento primeiro",
+      "e": "Porque o alimento não passa pelo intestino"
+    },
+    "correct": "a",
+    "id": "cien_19"
+  },
+  {
+    "question": "Após a digestão e a absorção, aquilo que não foi aproveitado pelo organismo segue pelo sistema digestório até ser eliminado. Essa etapa mostra que o sistema digestório:",
+    "options": {
+      "a": "Apenas armazena alimentos",
+      "b": "Participa tanto do aproveitamento dos nutrientes quanto da eliminação do que não foi aproveitado",
+      "c": "Produz somente oxigênio",
+      "d": "Funciona apenas quando dormimos",
+      "e": "Tem como única função mastigar"
+    },
+    "correct": "b",
+    "id": "cien_20"
+  },
+  {
+    "question": "Qual é a principal função do sistema respiratório?",
+    "options": {
+      "a": "Realizar a troca de gases entre o corpo e o ambiente",
+      "b": "Digerir alimentos",
+      "c": "Bombear sangue",
+      "d": "Produzir fezes",
+      "e": "Controlar os ossos"
+    },
+    "correct": "a",
+    "id": "cien_21"
+  },
+  {
+    "question": "Qual órgão é o principal responsável pelas trocas gasosas da respiração?",
+    "options": {
+      "a": "Estômago",
+      "b": "Pulmão",
+      "c": "Coração",
+      "d": "Fígado",
+      "e": "Intestino"
+    },
+    "correct": "b",
+    "id": "cien_22"
+  },
+  {
+    "question": "Qual gás do ar é essencial para a respiração das células do corpo?",
+    "options": {
+      "a": "Gás carbônico",
+      "b": "Oxigênio",
+      "c": "Vapor de água",
+      "d": "Hélio",
+      "e": "Nitrogênio puro"
+    },
+    "correct": "b",
+    "id": "cien_23"
+  },
+  {
+    "question": "Por onde o ar normalmente entra no sistema respiratório?",
+    "options": {
+      "a": "Nariz ou boca",
+      "b": "Estômago",
+      "c": "Coração",
+      "d": "Intestino",
+      "e": "Fígado"
+    },
+    "correct": "a",
+    "id": "cien_24"
+  },
+  {
+    "question": "Qual estrutura ajuda a conduzir o ar em direção aos pulmões?",
+    "options": {
+      "a": "Esôfago",
+      "b": "Traqueia",
+      "c": "Estômago",
+      "d": "Intestino delgado",
+      "e": "Artéria"
+    },
+    "correct": "b",
+    "id": "cien_25"
+  },
+  {
+    "question": "Durante a respiração, o gás carbônico produzido pelas células é:",
+    "options": {
+      "a": "Utilizado para formar os ossos",
+      "b": "Eliminado do organismo principalmente pela respiração",
+      "c": "Transformado em alimento no estômago",
+      "d": "Armazenado no coração",
+      "e": "Levado para o intestino"
+    },
+    "correct": "b",
+    "id": "cien_26"
+  },
+  {
+    "question": "Por que os pulmões são importantes para o funcionamento de todo o corpo?",
+    "options": {
+      "a": "Porque fornecem oxigênio ao organismo e ajudam a eliminar gás carbônico",
+      "b": "Porque produzem todos os nutrientes",
+      "c": "Porque bombeiam sangue",
+      "d": "Porque fazem a digestão",
+      "e": "Porque formam os músculos"
+    },
+    "correct": "a",
+    "id": "cien_27"
+  },
+  {
+    "question": "Depois de correr, Beatriz percebeu que estava respirando mais rápido. Por que isso acontece?",
+    "options": {
+      "a": "Porque o corpo precisa de mais oxigênio durante a atividade",
+      "b": "Porque o estômago para de funcionar",
+      "c": "Porque o sangue deixa de circular",
+      "d": "Porque os pulmões deixam de receber ar",
+      "e": "Porque o corpo não precisa mais de oxigênio"
+    },
+    "correct": "a",
+    "id": "cien_28"
+  },
+  {
+    "question": "Carlos entrou em uma sala cheia de fumaça e começou a tossir. A tosse pode ajudar o organismo a:",
+    "options": {
+      "a": "Expulsar partículas irritantes das vias respiratórias",
+      "b": "Aumentar a digestão no estômago",
+      "c": "Produzir mais sangue",
+      "d": "Parar os batimentos do coração",
+      "e": "Absorver nutrientes"
+    },
+    "correct": "a",
+    "id": "cien_29"
+  },
+  {
+    "question": "Uma criança respira pelo nariz e sente o ar passar até chegar aos pulmões. Qual estrutura conduz o ar da região da garganta em direção aos pulmões?",
+    "options": {
+      "a": "Traqueia",
+      "b": "Esôfago",
+      "c": "Estômago",
+      "d": "Intestino",
+      "e": "Artéria"
+    },
+    "correct": "a",
+    "id": "cien_30"
+  },
+  {
+    "question": "Durante uma caminhada, o corpo de João precisa de mais energia. Para ajudar as células a obter energia, o sistema respiratório aumenta a entrada de:",
+    "options": {
+      "a": "Oxigênio",
+      "b": "Gás carbônico",
+      "c": "Resíduos",
+      "d": "Alimento",
+      "e": "Suco gástrico"
+    },
+    "correct": "a",
+    "id": "cien_31"
+  },
+  {
+    "question": "Uma pessoa ficou alguns minutos sem respirar. Qual consequência pode ocorrer porque as células deixam de receber oxigênio adequadamente?",
+    "options": {
+      "a": "As células podem ter dificuldade para realizar suas funções",
+      "b": "O estômago passa a produzir mais alimentos",
+      "c": "Os ossos começam a digerir comida",
+      "d": "O sangue deixa de existir",
+      "e": "O intestino passa a respirar"
+    },
+    "correct": "a",
+    "id": "cien_32"
+  },
+  {
+    "question": "Pedro estava brincando e começou a respirar profundamente. O que está acontecendo com o sistema respiratório?",
+    "options": {
+      "a": "Está aumentando a entrada e a saída de ar dos pulmões",
+      "b": "Está interrompendo as trocas gasosas",
+      "c": "Está enviando alimentos ao estômago",
+      "d": "Está impedindo a circulação do sangue",
+      "e": "Está produzindo nutrientes"
+    },
+    "correct": "a",
+    "id": "cien_33"
+  },
+  {
+    "question": "Uma professora pediu aos alunos que comparassem o ar inspirado com o ar expirado. Qual diferença é esperada?",
+    "options": {
+      "a": "O ar expirado possui mais gás carbônico do que o ar inspirado",
+      "b": "O ar inspirado não possui oxigênio",
+      "c": "O ar expirado não possui nenhum gás",
+      "d": "O ar inspirado possui somente gás carbônico",
+      "e": "Os dois possuem exatamente a mesma composição"
+    },
+    "correct": "a",
+    "id": "cien_34"
+  },
+  {
+    "question": "Ana costuma ficar em ambientes com muita fumaça de cigarro. Por que evitar essa exposição é importante para o sistema respiratório?",
+    "options": {
+      "a": "Porque a fumaça pode irritar e prejudicar as estruturas respiratórias",
+      "b": "Porque a fumaça transforma oxigênio em alimento",
+      "c": "Porque a fumaça melhora as trocas gasosas",
+      "d": "Porque a fumaça fortalece os pulmões",
+      "e": "Porque a fumaça ajuda na digestão"
+    },
+    "correct": "a",
+    "id": "cien_35"
+  },
+  {
+    "question": "Durante uma atividade física, o coração e a respiração ficam mais rápidos. Isso acontece porque:",
+    "options": {
+      "a": "O corpo precisa atender ao aumento da demanda de oxigênio e energia",
+      "b": "O corpo deixa de precisar de oxigênio",
+      "c": "O sistema digestório para completamente",
+      "d": "O sangue não participa das atividades das células",
+      "e": "Os pulmões passam a produzir alimentos"
+    },
+    "correct": "a",
+    "id": "cien_36"
+  },
+  {
+    "question": "Uma criança está resfriada e com o nariz muito congestionado. Ela pode sentir dificuldade para respirar pelo nariz porque:",
+    "options": {
+      "a": "O ar encontra maior dificuldade para passar pelas vias nasais",
+      "b": "O coração deixa de bombear sangue",
+      "c": "O estômago impede a entrada de ar",
+      "d": "O intestino bloqueia os pulmões",
+      "e": "Os ossos impedem a digestão"
+    },
+    "correct": "a",
+    "id": "cien_37"
+  },
+  {
+    "question": "Em uma aula, os alunos observaram que respirar é diferente de simplesmente colocar ar dentro do corpo. Qual é a principal finalidade da respiração?",
+    "options": {
+      "a": "Permitir a entrada de oxigênio e a eliminação de gás carbônico",
+      "b": "Levar alimentos diretamente às células",
+      "c": "Produzir sangue no pulmão",
+      "d": "Transformar alimentos em ossos",
+      "e": "Armazenar água no coração"
+    },
+    "correct": "a",
+    "id": "cien_38"
+  },
+  {
+    "question": "Marina subiu vários lances de escada e ficou ofegante. Depois de descansar, sua respiração voltou a ficar mais tranquila. Isso ocorre porque:",
+    "options": {
+      "a": "A necessidade de oxigênio do corpo diminuiu após o esforço",
+      "b": "O corpo deixou de possuir células",
+      "c": "Os pulmões pararam de funcionar",
+      "d": "O sangue deixou de circular",
+      "e": "A digestão terminou imediatamente"
+    },
+    "correct": "a",
+    "id": "cien_39"
+  },
+  {
+    "question": "Um aluno afirmou: 'O sistema respiratório trabalha sozinho, sem relação com outros sistemas'. Qual alternativa corrige essa afirmação?",
+    "options": {
+      "a": "O sistema respiratório fornece oxigênio que será transportado pelo sangue para as células",
+      "b": "O sistema respiratório só funciona durante as refeições",
+      "c": "O sistema respiratório não possui relação com as células",
+      "d": "O sistema respiratório substitui o coração",
+      "e": "O sistema respiratório realiza sozinho a digestão"
+    },
+    "correct": "a",
+    "id": "cien_40"
+  },
+  {
+    "question": "Qual é a principal função do sistema cardiovascular?",
+    "options": {
+      "a": "Transportar sangue, oxigênio, nutrientes e outras substâncias pelo corpo",
+      "b": "Realizar a mastigação",
+      "c": "Produzir o ar",
+      "d": "Digerir os alimentos",
+      "e": "Controlar os pensamentos"
+    },
+    "correct": "a",
+    "id": "cien_41"
+  },
+  {
+    "question": "Qual órgão funciona como uma bomba, impulsionando o sangue pelo corpo?",
+    "options": {
+      "a": "Pulmão",
+      "b": "Coração",
+      "c": "Estômago",
+      "d": "Fígado",
+      "e": "Intestino"
+    },
+    "correct": "b",
+    "id": "cien_42"
+  },
+  {
+    "question": "O que são vasos sanguíneos?",
+    "options": {
+      "a": "Estruturas por onde o sangue circula",
+      "b": "Órgãos que produzem alimentos",
+      "c": "Partes do sistema digestório",
+      "d": "Estruturas que realizam a mastigação",
+      "e": "Órgãos que armazenam ar"
+    },
+    "correct": "a",
+    "id": "cien_43"
+  },
+  {
+    "question": "Qual componente do sangue transporta grande parte do oxigênio?",
+    "options": {
+      "a": "Hemácias",
+      "b": "Plaquetas",
+      "c": "Plasma",
+      "d": "Saliva",
+      "e": "Bile"
+    },
+    "correct": "a",
+    "id": "cien_44"
+  },
+  {
+    "question": "O sangue transporta nutrientes obtidos na digestão. Para onde esses nutrientes precisam chegar?",
+    "options": {
+      "a": "Às células do corpo",
+      "b": "Somente aos pulmões",
+      "c": "Somente ao estômago",
+      "d": "Apenas ao coração",
+      "e": "Somente ao intestino grosso"
+    },
+    "correct": "a",
+    "id": "cien_45"
+  },
+  {
+    "question": "Por que o sistema cardiovascular é importante para as células?",
+    "options": {
+      "a": "Porque ajuda a levar substâncias necessárias às células e retirar algumas substâncias que elas produzem",
+      "b": "Porque realiza a mastigação",
+      "c": "Porque produz os alimentos",
+      "d": "Porque faz o ar entrar no nariz",
+      "e": "Porque transforma ossos em músculos"
+    },
+    "correct": "a",
+    "id": "cien_46"
+  },
+  {
+    "question": "Depois de correr, Lucas percebeu que seu coração estava batendo mais rápido. Por que isso acontece?",
+    "options": {
+      "a": "Porque o corpo precisa transportar mais oxigênio e nutrientes durante o esforço",
+      "b": "Porque o coração começa a digerir alimentos",
+      "c": "Porque o sangue deixa de circular",
+      "d": "Porque os pulmões param de funcionar",
+      "e": "Porque as células não precisam de oxigênio"
+    },
+    "correct": "a",
+    "id": "cien_47"
+  },
+  {
+    "question": "Uma pessoa respirou oxigênio nos pulmões. Para que esse oxigênio chegue às diferentes partes do corpo, ele precisa ser transportado principalmente pelo:",
+    "options": {
+      "a": "Sistema cardiovascular",
+      "b": "Sistema digestório",
+      "c": "Sistema ósseo",
+      "d": "Sistema muscular apenas",
+      "e": "Sistema nervoso apenas"
+    },
+    "correct": "a",
+    "id": "cien_48"
+  },
+  {
+    "question": "Após uma refeição, nutrientes foram absorvidos pelo intestino e entraram na circulação. O que o sangue fará com esses nutrientes?",
+    "options": {
+      "a": "Transportará os nutrientes para diferentes células do corpo",
+      "b": "Levará todos os nutrientes de volta para o estômago",
+      "c": "Transformará os nutrientes em ar",
+      "d": "Eliminará imediatamente todos os nutrientes",
+      "e": "Impedirá que as células recebam nutrientes"
+    },
+    "correct": "a",
+    "id": "cien_49"
+  },
+  {
+    "question": "Em uma atividade física, os músculos precisam de mais oxigênio. Qual combinação de mudanças ajuda a atender essa necessidade?",
+    "options": {
+      "a": "Aumento da respiração e dos batimentos cardíacos",
+      "b": "Diminuição da respiração e dos batimentos",
+      "c": "Parada do coração e aumento da digestão",
+      "d": "Diminuição da circulação e da respiração",
+      "e": "Parada das trocas gasosas"
+    },
+    "correct": "a",
+    "id": "cien_50"
+  },
+  {
+    "question": "Uma pequena lesão na pele começou a sangrar. O que isso demonstra sobre o sistema cardiovascular?",
+    "options": {
+      "a": "Que existem vasos sanguíneos distribuídos por várias partes do corpo",
+      "b": "Que o sangue existe apenas no coração",
+      "c": "Que o sangue é produzido na pele",
+      "d": "Que os pulmões estão dentro da pele",
+      "e": "Que o sangue só circula depois das refeições"
+    },
+    "correct": "a",
+    "id": "cien_51"
+  },
+  {
+    "question": "Uma pessoa ficou muito tempo parada e depois começou a caminhar. Durante a caminhada, o coração passou a bater mais rapidamente. Qual é a melhor explicação?",
+    "options": {
+      "a": "Os músculos em atividade precisam de maior oferta de oxigênio e nutrientes",
+      "b": "Os músculos deixam de precisar de energia",
+      "c": "O sangue para de circular durante o exercício",
+      "d": "O coração começa a produzir oxigênio",
+      "e": "A digestão precisa parar completamente"
+    },
+    "correct": "a",
+    "id": "cien_52"
+  },
+  {
+    "question": "Imagine que o coração não conseguisse bombear o sangue adequadamente. Qual função do organismo seria diretamente prejudicada?",
+    "options": {
+      "a": "O transporte de oxigênio e nutrientes pelo corpo",
+      "b": "A mastigação",
+      "c": "A entrada de ar pelo nariz",
+      "d": "A produção de saliva apenas",
+      "e": "A formação das fezes apenas"
+    },
+    "correct": "a",
+    "id": "cien_53"
+  },
+  {
+    "question": "Uma professora explicou que o sangue leva oxigênio dos pulmões para as células. Depois, parte do gás carbônico produzido pelas células é transportada de volta para os pulmões. Isso mostra que:",
+    "options": {
+      "a": "Os sistemas respiratório e cardiovascular trabalham juntos",
+      "b": "Somente o sistema digestório funciona",
+      "c": "O coração produz o oxigênio",
+      "d": "Os pulmões produzem todos os nutrientes",
+      "e": "O sangue não participa das trocas de gases"
+    },
+    "correct": "a",
+    "id": "cien_54"
+  },
+  {
+    "question": "Durante uma caminhada, o sangue precisa circular mais rapidamente para atender às necessidades do corpo. Qual órgão aumenta sua atividade para impulsionar o sangue?",
+    "options": {
+      "a": "Coração",
+      "b": "Estômago",
+      "c": "Fígado",
+      "d": "Pulmão",
+      "e": "Intestino"
+    },
+    "correct": "a",
+    "id": "cien_55"
+  },
+  {
+    "question": "Uma alimentação equilibrada fornece nutrientes que serão aproveitados pelas células. Depois de absorvidos pelo sistema digestório, esses nutrientes podem ser transportados pelo:",
+    "options": {
+      "a": "Sangue",
+      "b": "Ar dos pulmões",
+      "c": "Esôfago",
+      "d": "Suco gástrico",
+      "e": "Ar inspirado"
+    },
+    "correct": "a",
+    "id": "cien_56"
+  },
+  {
+    "question": "Joana está descansando, enquanto seu irmão está correndo. É esperado que o coração do irmão esteja batendo mais rapidamente porque:",
+    "options": {
+      "a": "A corrida aumenta a necessidade de transporte de oxigênio e nutrientes para os músculos",
+      "b": "O coração precisa digerir o alimento",
+      "c": "O sangue deixa de circular durante o repouso",
+      "d": "Os pulmões deixam de funcionar durante a corrida",
+      "e": "Os músculos não precisam de energia durante o exercício"
+    },
+    "correct": "a",
+    "id": "cien_57"
+  },
+  {
+    "question": "Uma pessoa recebeu oxigênio nos pulmões e nutrientes após a digestão. Qual sistema ajuda a distribuir essas substâncias pelo organismo?",
+    "options": {
+      "a": "Sistema cardiovascular",
+      "b": "Sistema digestório",
+      "c": "Sistema respiratório sozinho",
+      "d": "Sistema ósseo",
+      "e": "Sistema muscular sozinho"
+    },
+    "correct": "a",
+    "id": "cien_58"
+  },
+  {
+    "question": "Em uma corrida, os músculos produzem substâncias que precisam ser transportadas para serem eliminadas. O sangue participa desse processo porque:",
+    "options": {
+      "a": "Circula pelo corpo e ajuda a transportar substâncias entre os órgãos e as células",
+      "b": "Fica parado dentro do coração",
+      "c": "Transporta somente alimentos até a boca",
+      "d": "Impede qualquer troca entre órgãos",
+      "e": "Produz diretamente o oxigênio"
+    },
+    "correct": "a",
+    "id": "cien_59"
+  },
+  {
+    "question": "Uma professora pediu que os alunos explicassem como digestão, respiração e circulação se relacionam. Qual resposta está correta?",
+    "options": {
+      "a": "A digestão fornece nutrientes, a respiração fornece oxigênio e o sistema cardiovascular ajuda a transportar essas substâncias até as células",
+      "b": "Os três sistemas têm exatamente a mesma função",
+      "c": "A respiração digere os alimentos e a digestão bombeia o sangue",
+      "d": "O coração produz os nutrientes e os pulmões fazem a digestão",
+      "e": "O sistema digestório transporta o oxigênio e o respiratório bombeia o sangue"
+    },
+    "correct": "a",
+    "id": "cien_60"
   }
 ]

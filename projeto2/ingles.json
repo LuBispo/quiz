@@ -1,0 +1,722 @@
+[
+  {
+    "question": "What season is usually the hottest of the year?",
+    "options": {
+      "a": "Winter",
+      "b": "Spring",
+      "c": "Summer",
+      "d": "Autumn",
+      "e": "Rainy season"
+    },
+    "correct": "c",
+    "id": "ing_01"
+  },
+  {
+    "question": "What season is usually the coldest of the year?",
+    "options": {
+      "a": "Summer",
+      "b": "Winter",
+      "c": "Spring",
+      "d": "Autumn",
+      "e": "Dry season"
+    },
+    "correct": "b",
+    "id": "ing_02"
+  },
+  {
+    "question": "Which word means 'primavera' in English?",
+    "options": {
+      "a": "Summer",
+      "b": "Winter",
+      "c": "Spring",
+      "d": "Autumn",
+      "e": "Cloudy"
+    },
+    "correct": "c",
+    "id": "ing_03"
+  },
+  {
+    "question": "Which word means 'outono' in English?",
+    "options": {
+      "a": "Autumn",
+      "b": "Spring",
+      "c": "Summer",
+      "d": "Winter",
+      "e": "Sunny"
+    },
+    "correct": "a",
+    "id": "ing_04"
+  },
+  {
+    "question": "What does 'sunny' mean?",
+    "options": {
+      "a": "Chuvoso",
+      "b": "Ensolarado",
+      "c": "Nevando",
+      "d": "Nublado",
+      "e": "Ventando"
+    },
+    "correct": "b",
+    "id": "ing_05"
+  },
+  {
+    "question": "What does 'rainy' mean?",
+    "options": {
+      "a": "Ensolarado",
+      "b": "Chuvoso",
+      "c": "Frio",
+      "d": "Quente",
+      "e": "Nublado"
+    },
+    "correct": "b",
+    "id": "ing_06"
+  },
+  {
+    "question": "What does 'cloudy' mean?",
+    "options": {
+      "a": "Nublado",
+      "b": "Nevando",
+      "c": "Ensolarado",
+      "d": "Chuvoso",
+      "e": "Ventando"
+    },
+    "correct": "a",
+    "id": "ing_07"
+  },
+  {
+    "question": "What does 'windy' mean?",
+    "options": {
+      "a": "Chuvoso",
+      "b": "Nublado",
+      "c": "Ventando",
+      "d": "Nevando",
+      "e": "Quente"
+    },
+    "correct": "c",
+    "id": "ing_08"
+  },
+  {
+    "question": "What does 'snowy' mean?",
+    "options": {
+      "a": "Ensolarado",
+      "b": "Nevando",
+      "c": "Chuvoso",
+      "d": "Quente",
+      "e": "Ventando"
+    },
+    "correct": "b",
+    "id": "ing_09"
+  },
+  {
+    "question": "Which sentence means 'Está frio'?",
+    "options": {
+      "a": "It is hot.",
+      "b": "It is cold.",
+      "c": "It is sunny.",
+      "d": "It is rainy.",
+      "e": "It is windy."
+    },
+    "correct": "b",
+    "id": "ing_10"
+  },
+  {
+    "question": "Which sentence means 'Está quente'?",
+    "options": {
+      "a": "It is cold.",
+      "b": "It is snowy.",
+      "c": "It is hot.",
+      "d": "It is cloudy.",
+      "e": "It is rainy."
+    },
+    "correct": "c",
+    "id": "ing_11"
+  },
+  {
+    "question": "Which word means 'verão'?",
+    "options": {
+      "a": "Winter",
+      "b": "Summer",
+      "c": "Spring",
+      "d": "Autumn",
+      "e": "Cloudy"
+    },
+    "correct": "b",
+    "id": "ing_12"
+  },
+  {
+    "question": "Which word means 'inverno'?",
+    "options": {
+      "a": "Summer",
+      "b": "Autumn",
+      "c": "Winter",
+      "d": "Spring",
+      "e": "Sunny"
+    },
+    "correct": "c",
+    "id": "ing_13"
+  },
+  {
+    "question": "Which weather condition means that there are many clouds in the sky?",
+    "options": {
+      "a": "Sunny",
+      "b": "Cloudy",
+      "c": "Hot",
+      "d": "Cold",
+      "e": "Snowy"
+    },
+    "correct": "b",
+    "id": "ing_14"
+  },
+  {
+    "question": "Which weather condition is most directly related to rain?",
+    "options": {
+      "a": "Rainy",
+      "b": "Sunny",
+      "c": "Windy",
+      "d": "Snowy",
+      "e": "Hot"
+    },
+    "correct": "a",
+    "id": "ing_15"
+  },
+  {
+    "question": "How many seasons are commonly taught in English?",
+    "options": {
+      "a": "Two",
+      "b": "Three",
+      "c": "Four",
+      "d": "Five",
+      "e": "Six"
+    },
+    "correct": "c",
+    "id": "ing_16"
+  },
+  {
+    "question": "Which season comes after winter?",
+    "options": {
+      "a": "Summer",
+      "b": "Autumn",
+      "c": "Spring",
+      "d": "Winter",
+      "e": "Rainy season"
+    },
+    "correct": "c",
+    "id": "ing_17"
+  },
+  {
+    "question": "Which season comes after summer?",
+    "options": {
+      "a": "Spring",
+      "b": "Winter",
+      "c": "Autumn",
+      "d": "Summer",
+      "e": "Sunny season"
+    },
+    "correct": "c",
+    "id": "ing_18"
+  },
+  {
+    "question": "Which season comes after autumn?",
+    "options": {
+      "a": "Winter",
+      "b": "Spring",
+      "c": "Summer",
+      "d": "Autumn",
+      "e": "Rainy season"
+    },
+    "correct": "a",
+    "id": "ing_19"
+  },
+  {
+    "question": "Which season comes after spring?",
+    "options": {
+      "a": "Winter",
+      "b": "Autumn",
+      "c": "Summer",
+      "d": "Spring",
+      "e": "Cold season"
+    },
+    "correct": "c",
+    "id": "ing_20"
+  },
+  {
+    "question": "Lucy looks outside and sees a bright sun with almost no clouds. How is the weather?",
+    "options": {
+      "a": "Rainy",
+      "b": "Snowy",
+      "c": "Sunny",
+      "d": "Cloudy",
+      "e": "Windy"
+    },
+    "correct": "c",
+    "id": "ing_21"
+  },
+  {
+    "question": "Tom is wearing a coat, scarf and gloves because the temperature is very low. What is the weather probably like?",
+    "options": {
+      "a": "Hot",
+      "b": "Cold",
+      "c": "Sunny",
+      "d": "Rainy",
+      "e": "Warm"
+    },
+    "correct": "b",
+    "id": "ing_22"
+  },
+  {
+    "question": "The sky is full of dark clouds and water is falling from the sky. What is the weather?",
+    "options": {
+      "a": "Sunny",
+      "b": "Windy",
+      "c": "Rainy",
+      "d": "Snowy",
+      "e": "Hot"
+    },
+    "correct": "c",
+    "id": "ing_23"
+  },
+  {
+    "question": "Emma wants to build a snowman. Which weather condition does she need?",
+    "options": {
+      "a": "Snowy",
+      "b": "Sunny",
+      "c": "Rainy",
+      "d": "Windy",
+      "e": "Hot"
+    },
+    "correct": "a",
+    "id": "ing_24"
+  },
+  {
+    "question": "The trees are moving strongly because the air is blowing. What is the weather like?",
+    "options": {
+      "a": "Cloudy",
+      "b": "Windy",
+      "c": "Snowy",
+      "d": "Sunny",
+      "e": "Rainy"
+    },
+    "correct": "b",
+    "id": "ing_25"
+  },
+  {
+    "question": "It is very hot and the sun is shining. Which activity is most suitable for this weather?",
+    "options": {
+      "a": "Wearing a heavy coat",
+      "b": "Playing at the beach",
+      "c": "Building a snowman",
+      "d": "Wearing gloves for snow",
+      "e": "Staying in a warm winter house"
+    },
+    "correct": "b",
+    "id": "ing_26"
+  },
+  {
+    "question": "Sarah sees yellow leaves falling from the trees. Which season is most likely?",
+    "options": {
+      "a": "Spring",
+      "b": "Summer",
+      "c": "Autumn",
+      "d": "Winter",
+      "e": "Rainy season"
+    },
+    "correct": "c",
+    "id": "ing_27"
+  },
+  {
+    "question": "Flowers are growing and the weather is becoming warmer after winter. Which season is it?",
+    "options": {
+      "a": "Autumn",
+      "b": "Spring",
+      "c": "Summer",
+      "d": "Winter",
+      "e": "Snowy season"
+    },
+    "correct": "b",
+    "id": "ing_28"
+  },
+  {
+    "question": "The days are hot and many children are on vacation. Which season is most likely?",
+    "options": {
+      "a": "Winter",
+      "b": "Spring",
+      "c": "Summer",
+      "d": "Autumn",
+      "e": "Cold season"
+    },
+    "correct": "c",
+    "id": "ing_29"
+  },
+  {
+    "question": "People are wearing warm clothes and some places have snow. Which season is most likely?",
+    "options": {
+      "a": "Summer",
+      "b": "Spring",
+      "c": "Autumn",
+      "d": "Winter",
+      "e": "Rainy season"
+    },
+    "correct": "d",
+    "id": "ing_30"
+  },
+  {
+    "question": "A weather forecast says: 'It will be cloudy today.' What should you expect to see in the sky?",
+    "options": {
+      "a": "Many clouds",
+      "b": "Bright sunshine only",
+      "c": "Snow on the ground",
+      "d": "Strong waves",
+      "e": "No air"
+    },
+    "correct": "a",
+    "id": "ing_31"
+  },
+  {
+    "question": "A weather forecast says: 'It will be windy.' Which situation matches the forecast?",
+    "options": {
+      "a": "Leaves move because of strong air",
+      "b": "Rain falls all day",
+      "c": "The sun disappears permanently",
+      "d": "Snow melts immediately",
+      "e": "The temperature is always hot"
+    },
+    "correct": "a",
+    "id": "ing_32"
+  },
+  {
+    "question": "Mark wants to go to the park, but the forecast says 'rainy'. What would be useful to take?",
+    "options": {
+      "a": "An umbrella",
+      "b": "Sunglasses only",
+      "c": "A snowman",
+      "d": "A fan",
+      "e": "A swimsuit only"
+    },
+    "correct": "a",
+    "id": "ing_33"
+  },
+  {
+    "question": "Anna is planning a picnic. The forecast says 'sunny and hot'. Which clothing is more appropriate?",
+    "options": {
+      "a": "A heavy winter coat",
+      "b": "Light clothes and a hat",
+      "c": "A scarf and gloves",
+      "d": "Snow boots and a thick coat",
+      "e": "A raincoat and umbrella only"
+    },
+    "correct": "b",
+    "id": "ing_34"
+  },
+  {
+    "question": "The weather changes from sunny to rainy during the afternoon. What happened?",
+    "options": {
+      "a": "The weather condition changed",
+      "b": "The season changed immediately",
+      "c": "Winter became summer",
+      "d": "The year ended",
+      "e": "The temperature became a season"
+    },
+    "correct": "a",
+    "id": "ing_35"
+  },
+  {
+    "question": "James says, 'It is cold and snowy.' Which season would most likely match this description?",
+    "options": {
+      "a": "Summer",
+      "b": "Winter",
+      "c": "Spring",
+      "d": "Autumn",
+      "e": "None of the seasons"
+    },
+    "correct": "b",
+    "id": "ing_36"
+  },
+  {
+    "question": "Maria says, 'It is warm, flowers are blooming, and the days are getting longer.' Which season is she describing?",
+    "options": {
+      "a": "Winter",
+      "b": "Autumn",
+      "c": "Spring",
+      "d": "Summer",
+      "e": "Rainy season"
+    },
+    "correct": "c",
+    "id": "ing_37"
+  },
+  {
+    "question": "Peter says, 'It is hot, sunny, and I am going on vacation.' Which season is he probably describing?",
+    "options": {
+      "a": "Winter",
+      "b": "Summer",
+      "c": "Autumn",
+      "d": "Spring",
+      "e": "Cold season"
+    },
+    "correct": "b",
+    "id": "ing_38"
+  },
+  {
+    "question": "Laura says, 'The leaves are changing color and falling.' What season is she probably experiencing?",
+    "options": {
+      "a": "Spring",
+      "b": "Summer",
+      "c": "Autumn",
+      "d": "Winter",
+      "e": "Sunny season"
+    },
+    "correct": "c",
+    "id": "ing_39"
+  },
+  {
+    "question": "A student needs to complete: 'In ______, the weather is often very cold.' Which word fits best?",
+    "options": {
+      "a": "summer",
+      "b": "winter",
+      "c": "spring",
+      "d": "autumn",
+      "e": "sunny"
+    },
+    "correct": "b",
+    "id": "ing_40"
+  },
+  {
+    "question": "Complete the sentence: 'In ______, flowers often begin to grow.'",
+    "options": {
+      "a": "winter",
+      "b": "autumn",
+      "c": "spring",
+      "d": "summer",
+      "e": "windy"
+    },
+    "correct": "c",
+    "id": "ing_41"
+  },
+  {
+    "question": "Complete the sentence: 'In ______, temperatures are often high.'",
+    "options": {
+      "a": "winter",
+      "b": "summer",
+      "c": "autumn",
+      "d": "spring",
+      "e": "snowy"
+    },
+    "correct": "b",
+    "id": "ing_42"
+  },
+  {
+    "question": "Complete the sentence: 'In ______, many leaves change color and fall.'",
+    "options": {
+      "a": "spring",
+      "b": "summer",
+      "c": "autumn",
+      "d": "winter",
+      "e": "rainy"
+    },
+    "correct": "c",
+    "id": "ing_43"
+  },
+  {
+    "question": "A teacher asks: 'How is the weather today?' João answers: 'It is ______.' Which option is a weather condition?",
+    "options": {
+      "a": "Summer",
+      "b": "Winter",
+      "c": "Sunny",
+      "d": "Spring",
+      "e": "Autumn"
+    },
+    "correct": "c",
+    "id": "ing_44"
+  },
+  {
+    "question": "A child sees rain outside and wants to describe it in English. Which sentence should the child use?",
+    "options": {
+      "a": "It is sunny.",
+      "b": "It is snowy.",
+      "c": "It is rainy.",
+      "d": "It is windy.",
+      "e": "It is hot."
+    },
+    "correct": "c",
+    "id": "ing_45"
+  },
+  {
+    "question": "A child sees snow falling and wants to describe the weather in English. Which sentence is correct?",
+    "options": {
+      "a": "It is rainy.",
+      "b": "It is cloudy.",
+      "c": "It is snowy.",
+      "d": "It is hot.",
+      "e": "It is sunny."
+    },
+    "correct": "c",
+    "id": "ing_46"
+  },
+  {
+    "question": "The temperature is very high. Which sentence correctly describes the weather?",
+    "options": {
+      "a": "It is cold.",
+      "b": "It is hot.",
+      "c": "It is snowy.",
+      "d": "It is windy.",
+      "e": "It is rainy."
+    },
+    "correct": "b",
+    "id": "ing_47"
+  },
+  {
+    "question": "The temperature is very low. Which sentence correctly describes the weather?",
+    "options": {
+      "a": "It is hot.",
+      "b": "It is sunny.",
+      "c": "It is cold.",
+      "d": "It is rainy.",
+      "e": "It is windy."
+    },
+    "correct": "c",
+    "id": "ing_48"
+  },
+  {
+    "question": "The forecast says: 'Today will be sunny. Tomorrow will be rainy.' What is different between the two days?",
+    "options": {
+      "a": "The weather condition",
+      "b": "The number of seasons",
+      "c": "The name of the year",
+      "d": "The month must change",
+      "e": "The seasons must change"
+    },
+    "correct": "a",
+    "id": "ing_49"
+  },
+  {
+    "question": "A student sees clouds covering most of the sky but no rain. Which word best describes the weather?",
+    "options": {
+      "a": "Cloudy",
+      "b": "Snowy",
+      "c": "Sunny",
+      "d": "Hot",
+      "e": "Rainy"
+    },
+    "correct": "a",
+    "id": "ing_50"
+  },
+  {
+    "question": "A family wants to travel somewhere with snow. Which season is most likely to provide this weather in many places?",
+    "options": {
+      "a": "Summer",
+      "b": "Winter",
+      "c": "Spring",
+      "d": "Autumn",
+      "e": "Sunny season"
+    },
+    "correct": "b",
+    "id": "ing_51"
+  },
+  {
+    "question": "A family wants to enjoy very warm days at the beach. Which season is usually the best match?",
+    "options": {
+      "a": "Winter",
+      "b": "Autumn",
+      "c": "Summer",
+      "d": "Spring",
+      "e": "Snowy season"
+    },
+    "correct": "c",
+    "id": "ing_52"
+  },
+  {
+    "question": "A child is learning the order of the seasons. Which sequence is correct?",
+    "options": {
+      "a": "Summer → Spring → Winter → Autumn",
+      "b": "Winter → Spring → Summer → Autumn",
+      "c": "Autumn → Summer → Spring → Winter",
+      "d": "Spring → Winter → Autumn → Summer",
+      "e": "Winter → Autumn → Spring → Summer"
+    },
+    "correct": "b",
+    "id": "ing_53"
+  },
+  {
+    "question": "Which sentence correctly connects a season with a common weather characteristic?",
+    "options": {
+      "a": "Winter is often cold.",
+      "b": "Summer is always snowy.",
+      "c": "Spring is always freezing.",
+      "d": "Autumn is always hot.",
+      "e": "Winter is always sunny."
+    },
+    "correct": "a",
+    "id": "ing_54"
+  },
+  {
+    "question": "A weather app shows a cloud with drops of water. Which word should the student choose?",
+    "options": {
+      "a": "Sunny",
+      "b": "Rainy",
+      "c": "Windy",
+      "d": "Snowy",
+      "e": "Hot"
+    },
+    "correct": "b",
+    "id": "ing_55"
+  },
+  {
+    "question": "A weather app shows a sun. Which word should the student choose?",
+    "options": {
+      "a": "Rainy",
+      "b": "Cloudy",
+      "c": "Sunny",
+      "d": "Snowy",
+      "e": "Windy"
+    },
+    "correct": "c",
+    "id": "ing_56"
+  },
+  {
+    "question": "A weather app shows moving lines representing air. Which word should the student choose?",
+    "options": {
+      "a": "Windy",
+      "b": "Rainy",
+      "c": "Sunny",
+      "d": "Snowy",
+      "e": "Cold"
+    },
+    "correct": "a",
+    "id": "ing_57"
+  },
+  {
+    "question": "A student reads: 'Today is cold and cloudy.' Which statement is correct?",
+    "options": {
+      "a": "The day is hot and sunny",
+      "b": "The day has low temperature and many clouds",
+      "c": "It is snowing for sure",
+      "d": "It is raining for sure",
+      "e": "It is summer for sure"
+    },
+    "correct": "b",
+    "id": "ing_58"
+  },
+  {
+    "question": "A student reads: 'It is sunny and hot.' Which statement is correct?",
+    "options": {
+      "a": "The sun is shining and the temperature is high",
+      "b": "It is snowing and cold",
+      "c": "There are many clouds and rain",
+      "d": "The wind is the only weather condition",
+      "e": "The temperature is very low"
+    },
+    "correct": "a",
+    "id": "ing_59"
+  },
+  {
+    "question": "A teacher asks students to choose the best sentence for a day with strong wind, clouds, and some rain. Which sentence is the best description?",
+    "options": {
+      "a": "It is only sunny.",
+      "b": "It is windy, cloudy, and rainy.",
+      "c": "It is snowy and hot.",
+      "d": "It is cold and sunny only.",
+      "e": "It is spring."
+    },
+    "correct": "b",
+    "id": "ing_60"
+  }
+]

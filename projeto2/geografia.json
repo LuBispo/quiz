@@ -1,122 +1,722 @@
 [
   {
-    "question": "O que é um mapa?",
+    "question": "Quem são os trabalhadores do campo?",
     "options": {
-      "a": "Uma fotografia de pessoas",
-      "b": "Um tipo de planta",
-      "c": "Um desenho que representa um lugar",
-      "d": "Um brinquedo educativo",
-      "e": "Um tipo de animal"
+      "a": "Pessoas que realizam atividades ligadas à agricultura, à criação de animais e a outras atividades rurais",
+      "b": "Somente pessoas que trabalham em lojas",
+      "c": "Somente pessoas que trabalham em bancos",
+      "d": "Apenas trabalhadores de fábricas",
+      "e": "Somente funcionários públicos"
     },
-    "correct": "c",
+    "correct": "a",
     "id": "geo_01"
   },
   {
-    "question": "Qual é o nome do continente onde está o Brasil?",
+    "question": "Qual atividade está diretamente relacionada ao trabalho no campo?",
     "options": {
-      "a": "Ásia",
-      "b": "África",
-      "c": "Europa",
-      "d": "América do Sul",
-      "e": "Oceania"
+      "a": "Agricultura",
+      "b": "Programação de computadores",
+      "c": "Comércio em shopping",
+      "d": "Transporte aéreo",
+      "e": "Construção de prédios"
     },
-    "correct": "d",
+    "correct": "a",
     "id": "geo_02"
   },
   {
-    "question": "Qual é o maior oceano do planeta Terra?",
+    "question": "O que faz uma pessoa que trabalha com agricultura?",
     "options": {
-      "a": "Atlântico",
-      "b": "Índico",
-      "c": "Ártico",
-      "d": "Antártico",
-      "e": "Pacífico"
+      "a": "Cultiva plantas e produz alimentos e outros produtos agrícolas",
+      "b": "Fabrica carros",
+      "c": "Atende pacientes em hospitais",
+      "d": "Vende passagens aéreas",
+      "e": "Constrói computadores"
     },
-    "correct": "e",
+    "correct": "a",
     "id": "geo_03"
   },
   {
-    "question": "Qual é o nome do planeta onde vivemos?",
+    "question": "Qual atividade está relacionada à criação de animais no campo?",
     "options": {
-      "a": "Marte",
-      "b": "Lua",
-      "c": "Terra",
-      "d": "Júpiter",
-      "e": "Sol"
+      "a": "Pecuária",
+      "b": "Mineração urbana",
+      "c": "Comércio",
+      "d": "Turismo de praia",
+      "e": "Indústria automobilística"
     },
-    "correct": "c",
+    "correct": "a",
     "id": "geo_04"
   },
   {
-    "question": "O que podemos encontrar em uma paisagem natural?",
+    "question": "O trabalho no campo é importante para as cidades porque:",
     "options": {
-      "a": "Prédios",
-      "b": "Fábricas",
-      "c": "Rios e florestas",
-      "d": "Aviões",
-      "e": "Carros"
+      "a": "Grande parte dos alimentos e de matérias-primas utilizados pela sociedade é produzida no campo",
+      "b": "As cidades não dependem de nenhum produto do campo",
+      "c": "O campo produz somente eletrônicos",
+      "d": "Todos os produtos das cidades são fabricados no campo",
+      "e": "O campo serve apenas para moradia"
     },
-    "correct": "c",
+    "correct": "a",
     "id": "geo_05"
   },
   {
-    "question": "O que indica uma rosa dos ventos?",
+    "question": "Além da produção de alimentos, o campo pode fornecer:",
     "options": {
-      "a": "Os planetas",
-      "b": "As nuvens",
-      "c": "Os pontos cardeais",
-      "d": "As cores do mapa",
-      "e": "Os rios"
+      "a": "Matérias-primas utilizadas em diferentes atividades econômicas",
+      "b": "Somente produtos eletrônicos",
+      "c": "Apenas serviços bancários",
+      "d": "Somente veículos",
+      "e": "Apenas medicamentos"
     },
-    "correct": "c",
+    "correct": "a",
     "id": "geo_06"
   },
   {
-    "question": "Como se chama o lugar onde vivemos com outras pessoas?",
+    "question": "Qual profissional pode trabalhar diretamente no cultivo de uma plantação?",
     "options": {
-      "a": "Continente",
-      "b": "Cidade",
-      "c": "Floresta",
-      "d": "Rio",
-      "e": "Mar"
+      "a": "Agricultor",
+      "b": "Piloto de avião",
+      "c": "Programador",
+      "d": "Dentista",
+      "e": "Ator"
     },
-    "correct": "b",
+    "correct": "a",
     "id": "geo_07"
   },
   {
-    "question": "O que diferencia o campo da cidade?",
+    "question": "As atividades realizadas pelos trabalhadores do campo dependem, entre outros fatores, de:",
     "options": {
-      "a": "O campo tem muitos carros",
-      "b": "A cidade não tem pessoas",
-      "c": "O campo tem mais natureza e é menos movimentado",
-      "d": "O campo tem prédios altos",
-      "e": "A cidade tem plantações"
+      "a": "Condições do solo, do clima e das características da área",
+      "b": "Somente da quantidade de prédios",
+      "c": "Apenas do trânsito das cidades",
+      "d": "Somente da internet",
+      "e": "Apenas do número de lojas"
     },
-    "correct": "c",
+    "correct": "a",
     "id": "geo_08"
   },
   {
-    "question": "Qual é o nome do maior país da América do Sul?",
+    "question": "Qual alternativa apresenta somente atividades ligadas ao campo?",
     "options": {
-      "a": "Argentina",
-      "b": "Brasil",
-      "c": "Chile",
-      "d": "Colômbia",
-      "e": "Uruguai"
+      "a": "Agricultura, pecuária e extrativismo",
+      "b": "Comércio, bancos e cinemas",
+      "c": "Programação, aviação e medicina",
+      "d": "Construção, turismo urbano e comércio",
+      "e": "Bancos, escolas e hospitais"
     },
-    "correct": "b",
+    "correct": "a",
     "id": "geo_09"
   },
   {
-    "question": "O que é um rio?",
+    "question": "O trabalho dos trabalhadores do campo pode envolver diferentes etapas, como:",
     "options": {
-      "a": "Uma montanha coberta de gelo",
-      "b": "Um caminho de água doce que corre pela terra",
-      "c": "Um lago com peixes",
-      "d": "Uma parte do mar",
-      "e": "Uma nascente de fogo"
+      "a": "Preparar a terra, plantar, cuidar da produção e colher",
+      "b": "Somente vender produtos em shopping centers",
+      "c": "Apenas transportar passageiros",
+      "d": "Somente fabricar máquinas",
+      "e": "Apenas trabalhar em escritórios"
     },
-    "correct": "b",
+    "correct": "a",
     "id": "geo_10"
+  },
+  {
+    "question": "Seu Antônio prepara a terra, planta milho, acompanha o crescimento das plantas e realiza a colheita. Qual atividade ele exerce?",
+    "options": {
+      "a": "Agricultura",
+      "b": "Pecuária",
+      "c": "Comércio",
+      "d": "Indústria",
+      "e": "Turismo"
+    },
+    "correct": "a",
+    "id": "geo_11"
+  },
+  {
+    "question": "Uma família cria bois e cuida da alimentação e da saúde dos animais para produzir alimentos. Essa atividade está relacionada principalmente à:",
+    "options": {
+      "a": "Pecuária",
+      "b": "Agricultura",
+      "c": "Indústria",
+      "d": "Mineração",
+      "e": "Construção civil"
+    },
+    "correct": "a",
+    "id": "geo_12"
+  },
+  {
+    "question": "Uma cooperativa rural produz frutas e depois envia parte da produção para supermercados da cidade. O exemplo mostra que:",
+    "options": {
+      "a": "O campo e a cidade estão ligados por relações de produção, transporte e consumo",
+      "b": "O campo não tem relação com as cidades",
+      "c": "Os supermercados produzem as frutas",
+      "d": "A agricultura só existe nas cidades",
+      "e": "O transporte não é necessário"
+    },
+    "correct": "a",
+    "id": "geo_13"
+  },
+  {
+    "question": "Uma plantação sofreu com um longo período de pouca chuva. Qual trabalhador pode precisar adaptar seus cuidados com a produção diante dessa situação?",
+    "options": {
+      "a": "Agricultor",
+      "b": "Caixa de banco",
+      "c": "Professor de música",
+      "d": "Vendedor de shopping",
+      "e": "Motorista de ônibus urbano"
+    },
+    "correct": "a",
+    "id": "geo_14"
+  },
+  {
+    "question": "Uma propriedade rural produz leite e mantém vários animais para essa finalidade. Qual atividade predomina nessa propriedade?",
+    "options": {
+      "a": "Pecuária",
+      "b": "Agricultura",
+      "c": "Comércio",
+      "d": "Artesanato urbano",
+      "e": "Indústria de eletrônicos"
+    },
+    "correct": "a",
+    "id": "geo_15"
+  },
+  {
+    "question": "Uma trabalhadora cultiva hortaliças, colhe os produtos e os entrega a uma feira da cidade. Qual sequência representa melhor seu trabalho?",
+    "options": {
+      "a": "Produção no campo → colheita → transporte → venda",
+      "b": "Venda → plantio → construção → colheita",
+      "c": "Transporte → fabricação → plantio → venda",
+      "d": "Comércio → mineração → plantio → indústria",
+      "e": "Construção → plantio → banco → colheita"
+    },
+    "correct": "a",
+    "id": "geo_16"
+  },
+  {
+    "question": "Uma comunidade rural produz mandioca e vende parte da produção para uma fábrica que utiliza essa matéria-prima. O exemplo mostra que:",
+    "options": {
+      "a": "O trabalho do campo pode fornecer matérias-primas para outras atividades econômicas",
+      "b": "A fábrica produz a mandioca",
+      "c": "A agricultura não produz matérias-primas",
+      "d": "A produção rural não pode ser comercializada",
+      "e": "Somente as cidades produzem matérias-primas"
+    },
+    "correct": "a",
+    "id": "geo_17"
+  },
+  {
+    "question": "Uma família trabalha em uma propriedade onde planta feijão e cria galinhas. O que podemos concluir?",
+    "options": {
+      "a": "A propriedade combina atividades agrícolas e de criação de animais",
+      "b": "A propriedade realiza somente comércio",
+      "c": "A família trabalha apenas em uma fábrica",
+      "d": "A criação de animais não é uma atividade rural",
+      "e": "O plantio é uma atividade urbana"
+    },
+    "correct": "a",
+    "id": "geo_18"
+  },
+  {
+    "question": "Em uma região rural, trabalhadores utilizam máquinas para preparar a terra e facilitar algumas etapas da produção. Isso significa que:",
+    "options": {
+      "a": "As tecnologias podem fazer parte do trabalho no campo",
+      "b": "Máquinas só podem ser usadas nas cidades",
+      "c": "O trabalho rural deixou de existir",
+      "d": "As máquinas substituem todas as atividades humanas",
+      "e": "A agricultura não depende de planejamento"
+    },
+    "correct": "a",
+    "id": "geo_19"
+  },
+  {
+    "question": "Uma escola visitou uma propriedade rural e observou trabalhadores plantando, cuidando dos animais e organizando produtos para venda. O que a visita permite compreender?",
+    "options": {
+      "a": "Que o campo reúne diferentes atividades e trabalhadores que participam da produção",
+      "b": "Que todo trabalhador rural realiza exatamente a mesma tarefa",
+      "c": "Que o campo não produz alimentos",
+      "d": "Que apenas máquinas trabalham no campo",
+      "e": "Que as cidades não recebem produtos rurais"
+    },
+    "correct": "a",
+    "id": "geo_20"
+  },
+  {
+    "question": "O que é uma propriedade rural?",
+    "options": {
+      "a": "Uma área localizada no campo utilizada para diferentes atividades, como produção agrícola ou criação de animais",
+      "b": "Somente uma loja localizada na cidade",
+      "c": "Um prédio de apartamentos",
+      "d": "Uma estação de metrô",
+      "e": "Um shopping center"
+    },
+    "correct": "a",
+    "id": "geo_21"
+  },
+  {
+    "question": "Uma propriedade rural pode ser utilizada para:",
+    "options": {
+      "a": "Agricultura, pecuária e outras atividades do campo",
+      "b": "Somente comércio urbano",
+      "c": "Apenas moradia em apartamentos",
+      "d": "Somente transporte aéreo",
+      "e": "Apenas serviços bancários"
+    },
+    "correct": "a",
+    "id": "geo_22"
+  },
+  {
+    "question": "O tamanho das propriedades rurais pode ser:",
+    "options": {
+      "a": "Diferente, existindo propriedades pequenas, médias e grandes",
+      "b": "Sempre exatamente igual",
+      "c": "Sempre muito pequeno",
+      "d": "Sempre muito grande",
+      "e": "Determinado apenas pelo número de animais"
+    },
+    "correct": "a",
+    "id": "geo_23"
+  },
+  {
+    "question": "Uma propriedade com pequena área destinada à produção familiar pode ser chamada de:",
+    "options": {
+      "a": "Pequena propriedade rural",
+      "b": "Grande indústria",
+      "c": "Shopping rural",
+      "d": "Área urbana",
+      "e": "Distrito industrial"
+    },
+    "correct": "a",
+    "id": "geo_24"
+  },
+  {
+    "question": "O que pode diferenciar uma propriedade rural de outra?",
+    "options": {
+      "a": "Tamanho, tipo de produção, forma de trabalho e uso da terra",
+      "b": "Somente a cor das cercas",
+      "c": "Apenas o nome do proprietário",
+      "d": "Somente a distância até uma cidade",
+      "e": "Apenas a quantidade de casas"
+    },
+    "correct": "a",
+    "id": "geo_25"
+  },
+  {
+    "question": "Uma propriedade rural pode ser usada principalmente para criar animais. Nesse caso, predomina a atividade de:",
+    "options": {
+      "a": "Pecuária",
+      "b": "Agricultura",
+      "c": "Comércio",
+      "d": "Indústria",
+      "e": "Turismo urbano"
+    },
+    "correct": "a",
+    "id": "geo_26"
+  },
+  {
+    "question": "Quando uma propriedade rural é utilizada principalmente para cultivar produtos vegetais, predomina a:",
+    "options": {
+      "a": "Agricultura",
+      "b": "Pecuária",
+      "c": "Indústria",
+      "d": "Mineração urbana",
+      "e": "Prestação de serviços"
+    },
+    "correct": "a",
+    "id": "geo_27"
+  },
+  {
+    "question": "O que significa dizer que uma propriedade rural é utilizada para produção?",
+    "options": {
+      "a": "Que a terra e seus recursos são utilizados para realizar atividades que geram produtos",
+      "b": "Que ninguém pode trabalhar nela",
+      "c": "Que ela só pode ser usada como moradia",
+      "d": "Que ela fica obrigatoriamente dentro da cidade",
+      "e": "Que não possui nenhuma atividade"
+    },
+    "correct": "a",
+    "id": "geo_28"
+  },
+  {
+    "question": "As propriedades rurais podem apresentar diferentes formas de organização porque:",
+    "options": {
+      "a": "Existem diferentes tamanhos, produções, tecnologias e formas de trabalho",
+      "b": "Todas produzem exatamente os mesmos produtos",
+      "c": "Todas possuem o mesmo tamanho",
+      "d": "Todas utilizam somente trabalho manual",
+      "e": "Todas pertencem ao mesmo proprietário"
+    },
+    "correct": "a",
+    "id": "geo_29"
+  },
+  {
+    "question": "Por que é importante conhecer os diferentes tipos de propriedades rurais?",
+    "options": {
+      "a": "Para compreender como a terra é utilizada e como diferentes formas de produção acontecem no campo",
+      "b": "Para afirmar que todas as propriedades são iguais",
+      "c": "Para estudar somente as cidades",
+      "d": "Para conhecer apenas o comércio",
+      "e": "Para eliminar a importância do campo"
+    },
+    "correct": "a",
+    "id": "geo_30"
+  },
+  {
+    "question": "Uma família possui uma área pequena onde cultiva verduras e cria algumas galinhas para consumo e venda do excedente. Como podemos caracterizar essa situação?",
+    "options": {
+      "a": "Uma pequena propriedade com produção agrícola e criação de animais",
+      "b": "Uma indústria urbana",
+      "c": "Uma propriedade exclusivamente comercial",
+      "d": "Um shopping center",
+      "e": "Uma grande fábrica"
+    },
+    "correct": "a",
+    "id": "geo_31"
+  },
+  {
+    "question": "Uma propriedade possui uma grande área destinada à criação de gado. Qual atividade predomina?",
+    "options": {
+      "a": "Pecuária",
+      "b": "Agricultura",
+      "c": "Comércio",
+      "d": "Indústria",
+      "e": "Artesanato urbano"
+    },
+    "correct": "a",
+    "id": "geo_32"
+  },
+  {
+    "question": "Duas propriedades rurais ficam próximas. Uma cultiva soja e a outra cria gado. O que podemos concluir?",
+    "options": {
+      "a": "As propriedades podem ter diferentes tipos de produção mesmo estando na mesma região",
+      "b": "Todas as propriedades da região precisam ter a mesma atividade",
+      "c": "A criação de gado é agricultura",
+      "d": "A soja só pode ser cultivada na cidade",
+      "e": "As duas propriedades são obrigatoriamente iguais"
+    },
+    "correct": "a",
+    "id": "geo_33"
+  },
+  {
+    "question": "Uma propriedade rural passou a utilizar máquinas para plantar e colher. O que mudou principalmente?",
+    "options": {
+      "a": "A forma de realizar algumas etapas do trabalho e da produção",
+      "b": "A propriedade deixou de ser rural",
+      "c": "A terra passou a ser uma cidade",
+      "d": "A agricultura deixou de existir",
+      "e": "Os produtos deixaram de ser vendidos"
+    },
+    "correct": "a",
+    "id": "geo_34"
+  },
+  {
+    "question": "Uma propriedade produz frutas e possui uma área onde os trabalhadores moram. Qual afirmação é correta?",
+    "options": {
+      "a": "A propriedade pode ter áreas destinadas tanto à produção quanto à moradia",
+      "b": "Uma propriedade rural só pode ter área de produção",
+      "c": "Moradias só existem nas cidades",
+      "d": "A presença de uma casa transforma a propriedade em cidade",
+      "e": "Frutas não podem ser produzidas em propriedades rurais"
+    },
+    "correct": "a",
+    "id": "geo_35"
+  },
+  {
+    "question": "Uma cooperativa reúne produtos de várias pequenas propriedades rurais para vender em conjunto. Qual pode ser uma vantagem dessa organização?",
+    "options": {
+      "a": "Facilitar a comercialização e a organização da produção",
+      "b": "Impedir que os produtos sejam vendidos",
+      "c": "Eliminar a produção agrícola",
+      "d": "Transformar todas as propriedades em cidades",
+      "e": "Acabar com o trabalho dos agricultores"
+    },
+    "correct": "a",
+    "id": "geo_36"
+  },
+  {
+    "question": "Uma propriedade tem uma área pequena e produz alimentos principalmente para a família, vendendo apenas parte do que sobra. Esse exemplo está mais próximo de:",
+    "options": {
+      "a": "Produção familiar de pequena escala",
+      "b": "Grande indústria",
+      "c": "Comércio atacadista urbano",
+      "d": "Mineração",
+      "e": "Turismo urbano"
+    },
+    "correct": "a",
+    "id": "geo_37"
+  },
+  {
+    "question": "Uma grande propriedade utiliza máquinas, trabalhadores e técnicas modernas para produzir em grande quantidade. O exemplo mostra que:",
+    "options": {
+      "a": "Algumas propriedades rurais podem apresentar grande escala de produção e uso de tecnologias",
+      "b": "Todas as propriedades são pequenas",
+      "c": "Tecnologia só existe nas cidades",
+      "d": "Grandes propriedades não produzem alimentos",
+      "e": "O uso de máquinas impede qualquer produção"
+    },
+    "correct": "a",
+    "id": "geo_38"
+  },
+  {
+    "question": "Uma propriedade antes usada para criação de animais passou a ser utilizada para plantar milho. O que aconteceu?",
+    "options": {
+      "a": "Houve mudança no uso da terra e no tipo de atividade predominante",
+      "b": "A propriedade deixou de existir",
+      "c": "O campo virou cidade",
+      "d": "A pecuária passou a ser agricultura automaticamente",
+      "e": "A terra deixou de produzir"
+    },
+    "correct": "a",
+    "id": "geo_39"
+  },
+  {
+    "question": "Uma região possui propriedades pequenas, médias e grandes, com diferentes tipos de produção. O que essa situação demonstra?",
+    "options": {
+      "a": "Que o espaço rural pode apresentar diversidade no tamanho das propriedades e nas atividades realizadas",
+      "b": "Que todas as propriedades rurais são iguais",
+      "c": "Que só existem grandes propriedades",
+      "d": "Que o campo não possui diversidade",
+      "e": "Que propriedades pequenas não podem produzir"
+    },
+    "correct": "a",
+    "id": "geo_40"
+  },
+  {
+    "question": "Qual é a relação entre trabalhadores do campo e propriedades rurais?",
+    "options": {
+      "a": "Os trabalhadores realizam diferentes atividades dentro ou relacionadas às propriedades rurais",
+      "b": "Os trabalhadores do campo só trabalham em cidades",
+      "c": "As propriedades não precisam de trabalhadores",
+      "d": "Os trabalhadores rurais não participam da produção",
+      "e": "Toda propriedade rural é uma fábrica"
+    },
+    "correct": "a",
+    "id": "geo_41"
+  },
+  {
+    "question": "Por que diferentes propriedades rurais podem precisar de diferentes trabalhadores?",
+    "options": {
+      "a": "Porque os tipos de produção e as tarefas realizadas podem ser diferentes",
+      "b": "Porque todos os trabalhos são iguais",
+      "c": "Porque nenhuma propriedade produz alimentos",
+      "d": "Porque somente máquinas trabalham",
+      "e": "Porque as propriedades têm sempre o mesmo tamanho"
+    },
+    "correct": "a",
+    "id": "geo_42"
+  },
+  {
+    "question": "Uma propriedade agrícola precisa de trabalhadores para realizar várias etapas da produção. Qual conjunto apresenta etapas possíveis?",
+    "options": {
+      "a": "Plantio, cuidados com a produção e colheita",
+      "b": "Somente venda em shopping",
+      "c": "Apenas fabricação de carros",
+      "d": "Somente transporte aéreo",
+      "e": "Apenas atendimento bancário"
+    },
+    "correct": "a",
+    "id": "geo_43"
+  },
+  {
+    "question": "O tamanho de uma propriedade rural pode influenciar:",
+    "options": {
+      "a": "A quantidade de área disponível e a forma como algumas atividades de produção são organizadas",
+      "b": "Somente a cor das plantações",
+      "c": "Apenas o nome da propriedade",
+      "d": "O clima de todo o país",
+      "e": "A existência das cidades"
+    },
+    "correct": "a",
+    "id": "geo_44"
+  },
+  {
+    "question": "Qual afirmação relaciona corretamente agricultura, trabalhadores e propriedade rural?",
+    "options": {
+      "a": "Trabalhadores podem cultivar a terra de uma propriedade rural para produzir alimentos ou outros produtos",
+      "b": "Agricultura não precisa de trabalhadores",
+      "c": "Propriedades rurais só servem para moradia",
+      "d": "Agricultura acontece somente em fábricas",
+      "e": "Trabalhadores rurais não participam da produção"
+    },
+    "correct": "a",
+    "id": "geo_45"
+  },
+  {
+    "question": "Por que uma propriedade rural pode ter diferentes trabalhadores realizando tarefas diferentes?",
+    "options": {
+      "a": "Porque a produção envolve várias etapas e funções",
+      "b": "Porque todos precisam fazer exatamente a mesma coisa",
+      "c": "Porque não existe divisão de tarefas",
+      "d": "Porque o campo não possui atividades variadas",
+      "e": "Porque máquinas realizam todas as tarefas"
+    },
+    "correct": "a",
+    "id": "geo_46"
+  },
+  {
+    "question": "Qual exemplo mostra a ligação entre tipo de propriedade e atividade econômica?",
+    "options": {
+      "a": "Uma propriedade voltada à criação de gado apresenta predominância da pecuária",
+      "b": "Uma escola é uma propriedade de pecuária",
+      "c": "Um banco produz milho",
+      "d": "Um hospital cria plantações",
+      "e": "Uma loja é uma propriedade agrícola"
+    },
+    "correct": "a",
+    "id": "geo_47"
+  },
+  {
+    "question": "O que pode acontecer quando uma propriedade muda o tipo de produção?",
+    "options": {
+      "a": "Algumas atividades e tarefas dos trabalhadores também podem mudar",
+      "b": "Nada muda na propriedade",
+      "c": "A propriedade deixa de ser rural automaticamente",
+      "d": "Os trabalhadores deixam de existir",
+      "e": "O clima da região muda obrigatoriamente"
+    },
+    "correct": "a",
+    "id": "geo_48"
+  },
+  {
+    "question": "Por que o trabalho dos agricultores é importante para a sociedade?",
+    "options": {
+      "a": "Porque participa da produção de alimentos e de outros produtos necessários à população",
+      "b": "Porque substitui todos os trabalhos urbanos",
+      "c": "Porque produz somente máquinas",
+      "d": "Porque impede o comércio",
+      "e": "Porque só atende às próprias famílias"
+    },
+    "correct": "a",
+    "id": "geo_49"
+  },
+  {
+    "question": "O que podemos entender ao estudar trabalhadores do campo e tipos de propriedades juntos?",
+    "options": {
+      "a": "Que as formas de uso da terra, os tipos de produção e o trabalho estão relacionados no espaço rural",
+      "b": "Que todas as propriedades possuem a mesma produção",
+      "c": "Que trabalhadores rurais não dependem da terra",
+      "d": "Que o campo não participa da economia",
+      "e": "Que só existem propriedades grandes"
+    },
+    "correct": "a",
+    "id": "geo_50"
+  },
+  {
+    "question": "Uma pequena propriedade cultiva hortaliças. A família prepara a terra, planta, cuida da produção e colhe. O exemplo mostra a relação entre:",
+    "options": {
+      "a": "Tipo de propriedade e trabalho realizado no campo",
+      "b": "Somente comércio urbano",
+      "c": "Indústria e transporte aéreo",
+      "d": "Turismo e bancos",
+      "e": "Construção e hospitais"
+    },
+    "correct": "a",
+    "id": "geo_51"
+  },
+  {
+    "question": "Uma grande propriedade cria gado e possui trabalhadores responsáveis pela alimentação e pelos cuidados com os animais. Qual conclusão é correta?",
+    "options": {
+      "a": "O tipo de produção da propriedade determina parte das tarefas realizadas pelos trabalhadores",
+      "b": "O trabalho não depende da produção",
+      "c": "Criação de gado é uma atividade urbana",
+      "d": "Grandes propriedades não precisam de trabalhadores",
+      "e": "A pecuária é uma atividade industrial"
+    },
+    "correct": "a",
+    "id": "geo_52"
+  },
+  {
+    "question": "Uma família produz alimentos em uma pequena propriedade e vende parte deles na feira da cidade. O que essa situação mostra?",
+    "options": {
+      "a": "A produção de uma propriedade rural pode abastecer mercados e consumidores das cidades",
+      "b": "Produtos do campo nunca chegam às cidades",
+      "c": "Feiras produzem os alimentos",
+      "d": "A propriedade fica obrigatoriamente dentro da cidade",
+      "e": "O trabalho rural não tem relação com o comércio"
+    },
+    "correct": "a",
+    "id": "geo_53"
+  },
+  {
+    "question": "Uma propriedade cultiva café e utiliza trabalhadores para cuidar das plantas e realizar a colheita. Qual atividade está sendo desenvolvida?",
+    "options": {
+      "a": "Agricultura",
+      "b": "Pecuária",
+      "c": "Comércio",
+      "d": "Indústria automobilística",
+      "e": "Turismo urbano"
+    },
+    "correct": "a",
+    "id": "geo_54"
+  },
+  {
+    "question": "Em uma região, uma propriedade pequena produz hortaliças e outra, muito maior, cria gado. O que a comparação permite perceber?",
+    "options": {
+      "a": "Que propriedades diferentes podem ter tamanhos e atividades de produção diferentes",
+      "b": "Que todas as propriedades precisam ter a mesma atividade",
+      "c": "Que somente pequenas propriedades produzem",
+      "d": "Que criação de gado é agricultura",
+      "e": "Que propriedades grandes não fazem parte do campo"
+    },
+    "correct": "a",
+    "id": "geo_55"
+  },
+  {
+    "question": "Uma propriedade rural passou a cultivar um produto diferente. Os trabalhadores precisaram aprender novas técnicas de cultivo. Isso mostra que:",
+    "options": {
+      "a": "As tarefas e conhecimentos dos trabalhadores podem mudar conforme a atividade da propriedade",
+      "b": "O trabalho rural é sempre igual",
+      "c": "A propriedade deixou de ser rural",
+      "d": "O produto não influencia o trabalho",
+      "e": "Trabalhadores rurais não precisam aprender técnicas"
+    },
+    "correct": "a",
+    "id": "geo_56"
+  },
+  {
+    "question": "Uma propriedade produz leite e envia sua produção para uma fábrica de laticínios. Qual sequência representa melhor essa relação?",
+    "options": {
+      "a": "Produção rural → transporte → processamento industrial → consumo",
+      "b": "Cidade → plantio → pecuária → colheita",
+      "c": "Fábrica → plantio → criação → transporte",
+      "d": "Comércio → plantio → fábrica → propriedade",
+      "e": "Consumo → produção → plantio → pecuária"
+    },
+    "correct": "a",
+    "id": "geo_57"
+  },
+  {
+    "question": "Uma família deixa de produzir apenas para consumo próprio e começa a vender uma parte maior de sua produção. O que mudou principalmente?",
+    "options": {
+      "a": "A finalidade e a organização da produção passaram a incluir mais comercialização",
+      "b": "A propriedade deixou de ser rural",
+      "c": "A agricultura virou indústria",
+      "d": "A família deixou de trabalhar no campo",
+      "e": "A produção deixou de existir"
+    },
+    "correct": "a",
+    "id": "geo_58"
+  },
+  {
+    "question": "Uma propriedade tem trabalhadores responsáveis por plantar, outros por cuidar dos animais e outros por organizar os produtos para venda. O que isso demonstra?",
+    "options": {
+      "a": "Que o trabalho no campo pode envolver divisão de tarefas",
+      "b": "Que todos os trabalhadores realizam a mesma função",
+      "c": "Que a propriedade não produz nada",
+      "d": "Que a divisão de tarefas só existe nas cidades",
+      "e": "Que os trabalhadores não participam da produção"
+    },
+    "correct": "a",
+    "id": "geo_59"
+  },
+  {
+    "question": "Uma turma visitou duas propriedades: uma pequena, com produção diversificada da família, e outra grande, especializada em uma produção. Qual conclusão é mais adequada?",
+    "options": {
+      "a": "O espaço rural apresenta diferentes tipos de propriedades, formas de trabalho e maneiras de organizar a produção",
+      "b": "Todas as propriedades rurais funcionam da mesma maneira",
+      "c": "Somente grandes propriedades podem produzir",
+      "d": "Pequenas propriedades não possuem trabalhadores",
+      "e": "O trabalho do campo é igual em qualquer lugar"
+    },
+    "correct": "a",
+    "id": "geo_60"
   }
 ]

@@ -670,5 +670,53 @@
     },
     "correct": "a",
     "id": "por_56"
+  },
+  {
+    "question": "Leia o texto:\n\n\"No sábado, Ana acordou cedo para ajudar o avô a cuidar da horta. Ela plantou algumas sementes e depois regou os canteiros. Ao terminar, percebeu que havia aprendido muito sobre como cuidar das plantas.\"\n\nDe acordo com o texto, o que Ana fez depois de plantar as sementes?",
+    "options": {
+      "a": "Foi brincar com os amigos.",
+      "b": "Regou os canteiros.",
+      "c": "Voltou para casa.",
+      "d": "Colheu as plantas.",
+      "e": "Preparou o almoço."
+    },
+    "correct": "b",
+    "id": "por_57"
+  },
+  {
+    "question": "Em \"Mariana chegou muito cedo à escola\", a palavra \"muito\" é um advérbio de:",
+    "options": {
+      "a": "Lugar",
+      "b": "Tempo",
+      "c": "Intensidade",
+      "d": "Negação",
+      "e": "Dúvida"
+    },
+    "correct": "c",
+    "id": "por_58"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo primitivo?",
+    "options": {
+      "a": "Pedreiro",
+      "b": "Pedraria",
+      "c": "Pedra",
+      "d": "Pedregulho",
+      "e": "Pedreira"
+    },
+    "correct": "c",
+    "id": "por_59"
+  },
+  {
+    "question": "Qual das palavras abaixo é um substantivo derivado?",
+    "options": {
+      "a": "Livro",
+      "b": "Flor",
+      "c": "Papel",
+      "d": "Papelaria",
+      "e": "Mar"
+    },
+    "correct": "d",
+    "id": "por_60"
   }
 ]

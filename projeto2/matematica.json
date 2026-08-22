@@ -1,1 +1,722 @@
-[]
+[
+  {
+    "question": "Na adição, como são chamados os números que estão sendo somados?",
+    "options": {
+      "a": "Fatores",
+      "b": "Parcelas",
+      "c": "Divisores",
+      "d": "Múltiplos",
+      "e": "Quocientes"
+    },
+    "correct": "b",
+    "id": "mat_01"
+  },
+  {
+    "question": "Qual propriedade da adição afirma que a ordem das parcelas não altera o resultado?",
+    "options": {
+      "a": "Comutativa",
+      "b": "Associativa",
+      "c": "Distributiva",
+      "d": "Inversa",
+      "e": "Identidade"
+    },
+    "correct": "a",
+    "id": "mat_02"
+  },
+  {
+    "question": "Qual é o resultado de uma adição em que uma das parcelas é zero?",
+    "options": {
+      "a": "O resultado sempre será zero",
+      "b": "O resultado será a outra parcela",
+      "c": "O resultado será o dobro da parcela",
+      "d": "O resultado será um",
+      "e": "Não é possível realizar a adição"
+    },
+    "correct": "b",
+    "id": "mat_03"
+  },
+  {
+    "question": "Qual é o nome dado ao resultado de uma adição?",
+    "options": {
+      "a": "Produto",
+      "b": "Diferença",
+      "c": "Quociente",
+      "d": "Soma",
+      "e": "Resto"
+    },
+    "correct": "d",
+    "id": "mat_04"
+  },
+  {
+    "question": "Qual igualdade representa corretamente a propriedade comutativa da adição?",
+    "options": {
+      "a": "8 + 5 = 8 - 5",
+      "b": "8 + 5 = 5 + 8",
+      "c": "8 + 5 = 8 × 5",
+      "d": "8 + 5 = 8 ÷ 5",
+      "e": "8 + 5 = 8 + 5 + 5"
+    },
+    "correct": "b",
+    "id": "mat_05"
+  },
+  {
+    "question": "Na expressão 245 + 130 + 25, quais números são as parcelas?",
+    "options": {
+      "a": "245 e 155",
+      "b": "130 e 25",
+      "c": "245, 130 e 25",
+      "d": "400 e 0",
+      "e": "245 e 130"
+    },
+    "correct": "c",
+    "id": "mat_06"
+  },
+  {
+    "question": "Ao adicionar números naturais, o resultado pertence a qual conjunto?",
+    "options": {
+      "a": "Apenas aos números pares",
+      "b": "Apenas aos números ímpares",
+      "c": "Aos números naturais",
+      "d": "Apenas aos números primos",
+      "e": "Apenas aos múltiplos de 10"
+    },
+    "correct": "c",
+    "id": "mat_07"
+  },
+  {
+    "question": "Uma escola recebeu 248 livros pela manhã e mais 175 livros à tarde. Quantos livros a escola recebeu ao todo?",
+    "options": {
+      "a": "413",
+      "b": "423",
+      "c": "433",
+      "d": "443",
+      "e": "453"
+    },
+    "correct": "b",
+    "id": "mat_08"
+  },
+  {
+    "question": "Uma papelaria vendeu 1.245 cadernos em janeiro e 987 em fevereiro. Quantos cadernos foram vendidos nos dois meses?",
+    "options": {
+      "a": "2.132",
+      "b": "2.222",
+      "c": "2.232",
+      "d": "2.332",
+      "e": "2.432"
+    },
+    "correct": "c",
+    "id": "mat_09"
+  },
+  {
+    "question": "Uma biblioteca possui 3.485 livros. Recebeu uma doação de 1.276 livros e depois comprou mais 639. Com quantos livros ficou?",
+    "options": {
+      "a": "5.300",
+      "b": "5.350",
+      "c": "5.400",
+      "d": "5.410",
+      "e": "5.500"
+    },
+    "correct": "d",
+    "id": "mat_10"
+  },
+  {
+    "question": "Em uma campanha, uma turma arrecadou 368 alimentos na primeira semana, 425 na segunda e 197 na terceira. Quantos alimentos foram arrecadados?",
+    "options": {
+      "a": "890",
+      "b": "950",
+      "c": "990",
+      "d": "1.000",
+      "e": "1.090"
+    },
+    "correct": "c",
+    "id": "mat_11"
+  },
+  {
+    "question": "Uma fábrica produziu 2.750 peças na segunda-feira e 3.485 na terça-feira. Quantas peças produziu nesses dois dias?",
+    "options": {
+      "a": "5.235",
+      "b": "6.135",
+      "c": "6.235",
+      "d": "6.335",
+      "e": "6.435"
+    },
+    "correct": "c",
+    "id": "mat_12"
+  },
+  {
+    "question": "Um parque recebeu 1.825 visitantes no sábado e 2.460 no domingo. Quantas pessoas visitaram o parque no fim de semana?",
+    "options": {
+      "a": "4.185",
+      "b": "4.285",
+      "c": "4.295",
+      "d": "4.385",
+      "e": "4.485"
+    },
+    "correct": "b",
+    "id": "mat_13"
+  },
+  {
+    "question": "Uma livraria tinha 4.260 livros e recebeu três caixas com 375 livros em cada uma. Quantos livros passou a ter?",
+    "options": {
+      "a": "5.185",
+      "b": "5.285",
+      "c": "5.295",
+      "d": "5.385",
+      "e": "5.395"
+    },
+    "correct": "d",
+    "id": "mat_14"
+  },
+  {
+    "question": "Uma fazenda colheu 2.348 kg de milho em um campo e 1.975 kg em outro. Depois, colheu mais 856 kg em um terceiro campo. Qual foi a produção total?",
+    "options": {
+      "a": "4.979 kg",
+      "b": "5.079 kg",
+      "c": "5.179 kg",
+      "d": "5.279 kg",
+      "e": "5.379 kg"
+    },
+    "correct": "c",
+    "id": "mat_15"
+  },
+  {
+    "question": "Uma escola tem 685 alunos no turno da manhã, 542 no turno da tarde e 318 no turno da noite. Quantos alunos estudam na escola ao todo?",
+    "options": {
+      "a": "1.445",
+      "b": "1.545",
+      "c": "1.555",
+      "d": "1.645",
+      "e": "1.745"
+    },
+    "correct": "b",
+    "id": "mat_16"
+  },
+  {
+    "question": "Uma empresa entregou 1.486 encomendas em uma semana e 1.729 na semana seguinte. Na terceira semana, entregou 965. Quantas encomendas foram entregues nas três semanas?",
+    "options": {
+      "a": "3.980",
+      "b": "4.080",
+      "c": "4.180",
+      "d": "4.280",
+      "e": "4.380"
+    },
+    "correct": "c",
+    "id": "mat_17"
+  },
+  {
+    "question": "Uma família percorreu 235 km na sexta-feira, 418 km no sábado e 176 km no domingo. Quantos quilômetros percorreu ao todo?",
+    "options": {
+      "a": "729 km",
+      "b": "819 km",
+      "c": "829 km",
+      "d": "839 km",
+      "e": "929 km"
+    },
+    "correct": "c",
+    "id": "mat_18"
+  },
+  {
+    "question": "Um depósito recebeu 2.450 caixas de manhã. À tarde recebeu mais 1.875 e, no dia seguinte, mais 2.325. Quantas caixas recebeu ao todo?",
+    "options": {
+      "a": "6.450",
+      "b": "6.550",
+      "c": "6.650",
+      "d": "6.750",
+      "e": "6.850"
+    },
+    "correct": "c",
+    "id": "mat_19"
+  },
+  {
+    "question": "Uma escola arrecadou R$ 1.875 em uma feira, R$ 2.460 em uma rifa e R$ 965 em uma campanha. Quanto arrecadou ao todo?",
+    "options": {
+      "a": "R$ 4.200",
+      "b": "R$ 4.300",
+      "c": "R$ 5.200",
+      "d": "R$ 5.300",
+      "e": "R$ 5.400"
+    },
+    "correct": "d",
+    "id": "mat_20"
+  },
+  {
+    "question": "Qual alternativa apresenta apenas múltiplos de 6?",
+    "options": {
+      "a": "6, 12, 18, 24",
+      "b": "6, 11, 18, 24",
+      "c": "5, 12, 18, 25",
+      "d": "6, 13, 19, 24",
+      "e": "7, 12, 18, 26"
+    },
+    "correct": "a",
+    "id": "mat_21"
+  },
+  {
+    "question": "Qual é o menor múltiplo natural de qualquer número diferente de zero?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "O próprio número",
+      "e": "10"
+    },
+    "correct": "a",
+    "id": "mat_22"
+  },
+  {
+    "question": "Qual número é múltiplo de 8?",
+    "options": {
+      "a": "18",
+      "b": "24",
+      "c": "30",
+      "d": "34",
+      "e": "42"
+    },
+    "correct": "b",
+    "id": "mat_23"
+  },
+  {
+    "question": "Se 7 × 9 = 63, qual afirmação é verdadeira?",
+    "options": {
+      "a": "63 é múltiplo de 7",
+      "b": "7 é múltiplo de 63",
+      "c": "9 é divisor de 63, mas 63 não é múltiplo de 7",
+      "d": "63 não é múltiplo de 9",
+      "e": "7 e 9 não têm relação com 63"
+    },
+    "correct": "a",
+    "id": "mat_24"
+  },
+  {
+    "question": "Qual sequência apresenta os primeiros cinco múltiplos positivos de 5?",
+    "options": {
+      "a": "1, 5, 10, 15, 20",
+      "b": "5, 10, 15, 20, 25",
+      "c": "0, 5, 10, 15, 20",
+      "d": "5, 15, 20, 25, 30",
+      "e": "10, 15, 20, 25, 30"
+    },
+    "correct": "b",
+    "id": "mat_25"
+  },
+  {
+    "question": "Para descobrir os múltiplos de um número, podemos:",
+    "options": {
+      "a": "Dividi-lo sempre por 2",
+      "b": "Somá-lo repetidamente a ele mesmo",
+      "c": "Subtrair 1 dele várias vezes",
+      "d": "Dividir todos os números por ele",
+      "e": "Somar sempre 1"
+    },
+    "correct": "b",
+    "id": "mat_26"
+  },
+  {
+    "question": "Qual dos números abaixo NÃO é múltiplo de 4?",
+    "options": {
+      "a": "12",
+      "b": "20",
+      "c": "28",
+      "d": "34",
+      "e": "40"
+    },
+    "correct": "d",
+    "id": "mat_27"
+  },
+  {
+    "question": "Uma luz pisca a cada 4 segundos. Se ela piscou no segundo 4, em quais segundos ela poderá piscar novamente?",
+    "options": {
+      "a": "5, 6 e 7",
+      "b": "6, 8 e 10",
+      "c": "8, 12 e 16",
+      "d": "9, 13 e 17",
+      "e": "10, 14 e 18"
+    },
+    "correct": "c",
+    "id": "mat_28"
+  },
+  {
+    "question": "Uma professora organiza os alunos em grupos de 5. Qual quantidade de alunos permite formar grupos completos, sem sobrar ninguém?",
+    "options": {
+      "a": "22",
+      "b": "24",
+      "c": "27",
+      "d": "30",
+      "e": "33"
+    },
+    "correct": "d",
+    "id": "mat_29"
+  },
+  {
+    "question": "Uma máquina produz 8 peças por ciclo. Qual quantidade de peças pode ser produzida após vários ciclos completos?",
+    "options": {
+      "a": "34",
+      "b": "40",
+      "c": "46",
+      "d": "50",
+      "e": "54"
+    },
+    "correct": "b",
+    "id": "mat_30"
+  },
+  {
+    "question": "Um ônibus passa por determinado ponto a cada 6 minutos. Se passou às 8h00, em qual horário passará novamente pela terceira vez depois das 8h00?",
+    "options": {
+      "a": "8h06",
+      "b": "8h12",
+      "c": "8h18",
+      "d": "8h24",
+      "e": "8h30"
+    },
+    "correct": "c",
+    "id": "mat_31"
+  },
+  {
+    "question": "Uma loja coloca 7 produtos em cada caixa. Qual quantidade de produtos pode representar caixas completas?",
+    "options": {
+      "a": "45",
+      "b": "49",
+      "c": "52",
+      "d": "55",
+      "e": "58"
+    },
+    "correct": "b",
+    "id": "mat_32"
+  },
+  {
+    "question": "Pedro conta de 9 em 9. Ele começou pelo 9. Qual número aparecerá depois de 54 nessa sequência?",
+    "options": {
+      "a": "57",
+      "b": "60",
+      "c": "63",
+      "d": "64",
+      "e": "72"
+    },
+    "correct": "c",
+    "id": "mat_33"
+  },
+  {
+    "question": "Uma competição realiza uma prova a cada 10 dias. Se uma prova aconteceu no dia 10, quais dos dias abaixo podem ser dias de novas provas?",
+    "options": {
+      "a": "15, 25 e 35",
+      "b": "20, 30 e 40",
+      "c": "21, 31 e 41",
+      "d": "22, 32 e 42",
+      "e": "25, 35 e 45"
+    },
+    "correct": "b",
+    "id": "mat_34"
+  },
+  {
+    "question": "Uma fábrica embala 12 unidades por pacote. Qual quantidade representa exatamente 7 pacotes completos?",
+    "options": {
+      "a": "72",
+      "b": "84",
+      "c": "96",
+      "d": "108",
+      "e": "120"
+    },
+    "correct": "b",
+    "id": "mat_35"
+  },
+  {
+    "question": "Uma criança pula uma casa de cada vez contando de 3 em 3: 3, 6, 9, 12... Em qual número estará após realizar 8 contagens?",
+    "options": {
+      "a": "18",
+      "b": "21",
+      "c": "24",
+      "d": "27",
+      "e": "30"
+    },
+    "correct": "c",
+    "id": "mat_36"
+  },
+  {
+    "question": "Uma escola monta fileiras com 6 cadeiras. Qual quantidade de cadeiras permite montar fileiras completas?",
+    "options": {
+      "a": "31",
+      "b": "35",
+      "c": "40",
+      "d": "42",
+      "e": "47"
+    },
+    "correct": "d",
+    "id": "mat_37"
+  },
+  {
+    "question": "Uma farmácia recebe um produto em caixas com 9 unidades. Se recebeu 6 caixas completas, quantas unidades recebeu?",
+    "options": {
+      "a": "45",
+      "b": "48",
+      "c": "54",
+      "d": "56",
+      "e": "63"
+    },
+    "correct": "c",
+    "id": "mat_38"
+  },
+  {
+    "question": "Uma torneira automática libera água a cada 5 minutos. Se começou às 10h00, em quais horários ela poderá liberar água novamente até 10h20?",
+    "options": {
+      "a": "10h04, 10h09 e 10h14",
+      "b": "10h05, 10h10, 10h15 e 10h20",
+      "c": "10h06, 10h12 e 10h18",
+      "d": "10h10, 10h15 e 10h25",
+      "e": "10h05, 10h12 e 10h19"
+    },
+    "correct": "b",
+    "id": "mat_39"
+  },
+  {
+    "question": "Uma escola precisa montar kits com 4 lápis cada. Ela tem 68 lápis. Quantos lápis podem ser usados formando apenas kits completos?",
+    "options": {
+      "a": "60",
+      "b": "64",
+      "c": "66",
+      "d": "68",
+      "e": "72"
+    },
+    "correct": "d",
+    "id": "mat_40"
+  },
+  {
+    "question": "O que é um divisor de um número?",
+    "options": {
+      "a": "Um número que, ao dividir o outro, deixa resto zero",
+      "b": "Um número sempre maior que o outro",
+      "c": "O resultado de uma multiplicação",
+      "d": "Qualquer número ímpar",
+      "e": "Somente o número 1"
+    },
+    "correct": "a",
+    "id": "mat_41"
+  },
+  {
+    "question": "Qual é um divisor de 24?",
+    "options": {
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "9",
+      "e": "10"
+    },
+    "correct": "b",
+    "id": "mat_42"
+  },
+  {
+    "question": "Todo número natural diferente de zero possui como divisores:",
+    "options": {
+      "a": "Somente o número 1",
+      "b": "Somente ele mesmo",
+      "c": "1 e ele mesmo",
+      "d": "Somente números pares",
+      "e": "Somente números primos"
+    },
+    "correct": "c",
+    "id": "mat_43"
+  },
+  {
+    "question": "Qual número NÃO é divisor de 30?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "5",
+      "d": "6",
+      "e": "7"
+    },
+    "correct": "e",
+    "id": "mat_44"
+  },
+  {
+    "question": "Se 36 ÷ 4 = 9, qual afirmação é verdadeira?",
+    "options": {
+      "a": "4 é divisor de 36",
+      "b": "36 é divisor de 4",
+      "c": "9 não é divisor de 36",
+      "d": "4 é múltiplo de 36",
+      "e": "36 não pode ser dividido por 4"
+    },
+    "correct": "a",
+    "id": "mat_45"
+  },
+  {
+    "question": "Qual alternativa apresenta somente divisores de 18?",
+    "options": {
+      "a": "1, 2, 3, 6 e 9",
+      "b": "1, 2, 4, 6 e 9",
+      "c": "2, 3, 5, 6 e 9",
+      "d": "1, 3, 6, 8 e 18",
+      "e": "1, 2, 3, 7 e 18"
+    },
+    "correct": "a",
+    "id": "mat_46"
+  },
+  {
+    "question": "Uma professora tem 24 lápis e quer distribuí-los igualmente entre grupos, sem sobrar nenhum. Qual quantidade de grupos é possível?",
+    "options": {
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "10",
+      "e": "11"
+    },
+    "correct": "b",
+    "id": "mat_47"
+  },
+  {
+    "question": "Uma caixa tem 36 chocolates. Eles serão colocados em saquinhos com a mesma quantidade, sem sobrar chocolates. Qual opção representa uma quantidade possível de chocolates por saquinho?",
+    "options": {
+      "a": "5",
+      "b": "7",
+      "c": "8",
+      "d": "9",
+      "e": "11"
+    },
+    "correct": "d",
+    "id": "mat_48"
+  },
+  {
+    "question": "Uma escola possui 48 alunos e quer formar equipes com o mesmo número de alunos, sem deixar ninguém de fora. Qual tamanho de equipe é possível?",
+    "options": {
+      "a": "5",
+      "b": "7",
+      "c": "8",
+      "d": "10",
+      "e": "11"
+    },
+    "correct": "c",
+    "id": "mat_49"
+  },
+  {
+    "question": "Uma coleção possui 60 figurinhas. João quer separar todas em grupos iguais. Qual quantidade de figurinhas por grupo é possível?",
+    "options": {
+      "a": "7",
+      "b": "8",
+      "c": "9",
+      "d": "10",
+      "e": "11"
+    },
+    "correct": "d",
+    "id": "mat_50"
+  },
+  {
+    "question": "Uma loja recebeu 72 garrafas e quer colocá-las em caixas com a mesma quantidade, sem sobrar garrafas. Qual quantidade por caixa é possível?",
+    "options": {
+      "a": "5",
+      "b": "7",
+      "c": "8",
+      "d": "10",
+      "e": "11"
+    },
+    "correct": "c",
+    "id": "mat_51"
+  },
+  {
+    "question": "Uma turma tem 45 estudantes. Eles serão organizados em grupos iguais. Qual quantidade de estudantes por grupo pode ser usada sem sobrar ninguém?",
+    "options": {
+      "a": "4",
+      "b": "6",
+      "c": "9",
+      "d": "10",
+      "e": "14"
+    },
+    "correct": "c",
+    "id": "mat_52"
+  },
+  {
+    "question": "Um agricultor colheu 56 laranjas e quer colocá-las em cestas com a mesma quantidade. Qual quantidade de laranjas por cesta permite usar todas?",
+    "options": {
+      "a": "6",
+      "b": "7",
+      "c": "9",
+      "d": "10",
+      "e": "12"
+    },
+    "correct": "b",
+    "id": "mat_53"
+  },
+  {
+    "question": "Uma biblioteca recebeu 90 livros e quer distribuí-los igualmente entre algumas estantes. Qual quantidade de livros por estante é possível?",
+    "options": {
+      "a": "7",
+      "b": "8",
+      "c": "9",
+      "d": "11",
+      "e": "13"
+    },
+    "correct": "c",
+    "id": "mat_54"
+  },
+  {
+    "question": "Uma fábrica tem 84 peças e deseja organizar todas em caixas iguais. Qual quantidade de peças por caixa permite uma divisão exata?",
+    "options": {
+      "a": "5",
+      "b": "6",
+      "c": "10",
+      "d": "11",
+      "e": "13"
+    },
+    "correct": "b",
+    "id": "mat_55"
+  },
+  {
+    "question": "Uma professora tem 63 cartões e quer dividir todos igualmente entre grupos. Qual quantidade de cartões por grupo é possível?",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "7",
+      "d": "8",
+      "e": "10"
+    },
+    "correct": "c",
+    "id": "mat_56"
+  },
+  {
+    "question": "Uma escola tem 96 livros para distribuir igualmente entre algumas salas. Qual quantidade de livros por sala pode ser usada sem sobrar nenhum?",
+    "options": {
+      "a": "7",
+      "b": "9",
+      "c": "12",
+      "d": "14",
+      "e": "18"
+    },
+    "correct": "c",
+    "id": "mat_57"
+  },
+  {
+    "question": "Um depósito possui 100 caixas e precisa organizá-las em fileiras com a mesma quantidade de caixas. Qual número de caixas por fileira é possível?",
+    "options": {
+      "a": "6",
+      "b": "8",
+      "c": "10",
+      "d": "12",
+      "e": "15"
+    },
+    "correct": "c",
+    "id": "mat_58"
+  },
+  {
+    "question": "Uma empresa possui 108 brindes e quer montar kits com a mesma quantidade de brindes em cada kit, sem sobrar nenhum. Qual quantidade por kit é possível?",
+    "options": {
+      "a": "7",
+      "b": "8",
+      "c": "9",
+      "d": "10",
+      "e": "11"
+    },
+    "correct": "c",
+    "id": "mat_59"
+  },
+  {
+    "question": "Uma escola tem 120 alunos para organizar em grupos com a mesma quantidade de alunos. Qual tamanho de grupo permite uma divisão exata?",
+    "options": {
+      "a": "7",
+      "b": "9",
+      "c": "11",
+      "d": "12",
+      "e": "14"
+    },
+    "correct": "d",
+    "id": "mat_60"
+  }
+]

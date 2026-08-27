@@ -1,0 +1,722 @@
+[
+  {
+    "question": "No protocolo HTTP, qual é a principal finalidade de uma requisição HTTP?",
+    "options": {
+      "a": "Armazenar dados permanentemente no navegador",
+      "b": "Solicitar uma operação ou recurso a um servidor",
+      "c": "Criptografar automaticamente todos os dados",
+      "d": "Substituir o banco de dados da aplicação",
+      "e": "Criar um certificado digital"
+    },
+    "correct": "b",
+    "id": "aw_01"
+  },
+  {
+    "question": "Qual método HTTP é normalmente utilizado para obter uma representação de um recurso sem alterá-lo?",
+    "options": {
+      "a": "POST",
+      "b": "PUT",
+      "c": "GET",
+      "d": "DELETE",
+      "e": "PATCH"
+    },
+    "correct": "c",
+    "id": "aw_02"
+  },
+  {
+    "question": "Qual método HTTP é normalmente utilizado para criar um novo recurso em uma API REST?",
+    "options": {
+      "a": "GET",
+      "b": "POST",
+      "c": "DELETE",
+      "d": "HEAD",
+      "e": "OPTIONS"
+    },
+    "correct": "b",
+    "id": "aw_03"
+  },
+  {
+    "question": "Em uma API REST, qual método é normalmente associado à atualização completa de um recurso?",
+    "options": {
+      "a": "GET",
+      "b": "POST",
+      "c": "PUT",
+      "d": "TRACE",
+      "e": "HEAD"
+    },
+    "correct": "c",
+    "id": "aw_04"
+  },
+  {
+    "question": "Qual método HTTP é normalmente utilizado para remover um recurso?",
+    "options": {
+      "a": "DELETE",
+      "b": "GET",
+      "c": "POST",
+      "d": "PUT",
+      "e": "OPTIONS"
+    },
+    "correct": "a",
+    "id": "aw_05"
+  },
+  {
+    "question": "Qual código de status HTTP indica que uma requisição foi processada com sucesso e que uma resposta contém o resultado solicitado?",
+    "options": {
+      "a": "200",
+      "b": "301",
+      "c": "400",
+      "d": "401",
+      "e": "500"
+    },
+    "correct": "a",
+    "id": "aw_06"
+  },
+  {
+    "question": "Qual código HTTP indica que um recurso foi criado com sucesso?",
+    "options": {
+      "a": "200",
+      "b": "201",
+      "c": "204",
+      "d": "301",
+      "e": "404"
+    },
+    "correct": "b",
+    "id": "aw_07"
+  },
+  {
+    "question": "Qual código HTTP indica que o servidor não encontrou o recurso solicitado?",
+    "options": {
+      "a": "201",
+      "b": "204",
+      "c": "301",
+      "d": "404",
+      "e": "503"
+    },
+    "correct": "d",
+    "id": "aw_08"
+  },
+  {
+    "question": "Em HTTP, o código 401 geralmente indica:",
+    "options": {
+      "a": "Recurso criado",
+      "b": "Requisição sem autenticação válida",
+      "c": "Recurso encontrado",
+      "d": "Erro interno do servidor",
+      "e": "Acesso permitido"
+    },
+    "correct": "b",
+    "id": "aw_09"
+  },
+  {
+    "question": "Em HTTP, o código 403 geralmente indica:",
+    "options": {
+      "a": "O recurso foi criado",
+      "b": "A requisição não contém corpo",
+      "c": "O servidor entendeu a requisição, mas o acesso não é permitido",
+      "d": "O recurso não existe necessariamente",
+      "e": "O servidor foi redirecionado"
+    },
+    "correct": "c",
+    "id": "aw_10"
+  },
+  {
+    "question": "O que caracteriza uma API RESTful?",
+    "options": {
+      "a": "Uso obrigatório de SOAP",
+      "b": "Adoção de princípios arquiteturais REST para disponibilizar recursos por meio de uma interface uniforme",
+      "c": "Uso exclusivo de XML",
+      "d": "Ausência de HTTP",
+      "e": "Obrigatoriedade de banco NoSQL"
+    },
+    "correct": "b",
+    "id": "aw_11"
+  },
+  {
+    "question": "Em REST, recursos são normalmente identificados por:",
+    "options": {
+      "a": "URLs/URIs",
+      "b": "Senhas",
+      "c": "Tokens JWT exclusivamente",
+      "d": "Certificados SSL",
+      "e": "Branches Git"
+    },
+    "correct": "a",
+    "id": "aw_12"
+  },
+  {
+    "question": "Uma API disponibiliza o recurso cliente em `/clientes/25`. O número 25 representa tipicamente:",
+    "options": {
+      "a": "O método HTTP",
+      "b": "O identificador do recurso",
+      "c": "O código de status",
+      "d": "A porta do servidor",
+      "e": "A versão do protocolo TLS"
+    },
+    "correct": "b",
+    "id": "aw_13"
+  },
+  {
+    "question": "Qual formato é frequentemente utilizado para representar dados em APIs REST modernas?",
+    "options": {
+      "a": "JSON",
+      "b": "BIOS",
+      "c": "SMTP",
+      "d": "DNS",
+      "e": "FTP"
+    },
+    "correct": "a",
+    "id": "aw_14"
+  },
+  {
+    "question": "Uma característica importante do REST é que, em uma interação stateless:",
+    "options": {
+      "a": "O servidor precisa guardar a sessão completa entre todas as requisições",
+      "b": "Cada requisição contém as informações necessárias para ser processada",
+      "c": "O cliente não pode enviar dados",
+      "d": "O servidor não pode responder com JSON",
+      "e": "A API não pode usar autenticação"
+    },
+    "correct": "b",
+    "id": "aw_15"
+  },
+  {
+    "question": "Em uma API REST, qual cabeçalho HTTP é usado para indicar o tipo de conteúdo enviado no corpo da requisição?",
+    "options": {
+      "a": "Accept",
+      "b": "Content-Type",
+      "c": "Authorization",
+      "d": "Host",
+      "e": "Location"
+    },
+    "correct": "b",
+    "id": "aw_16"
+  },
+  {
+    "question": "O cabeçalho HTTP `Accept` informa principalmente:",
+    "options": {
+      "a": "O tipo de conteúdo que o cliente aceita receber",
+      "b": "A senha do usuário",
+      "c": "O endereço IP do servidor",
+      "d": "O código de status desejado",
+      "e": "O método de autenticação usado pelo banco"
+    },
+    "correct": "a",
+    "id": "aw_17"
+  },
+  {
+    "question": "Qual afirmação sobre HTTPS é correta?",
+    "options": {
+      "a": "É HTTP sem qualquer proteção",
+      "b": "Utiliza TLS para proteger a comunicação entre cliente e servidor",
+      "c": "Impede qualquer ataque à aplicação",
+      "d": "Substitui autenticação e autorização",
+      "e": "Funciona somente com APIs SOAP"
+    },
+    "correct": "b",
+    "id": "aw_18"
+  },
+  {
+    "question": "Em uma arquitetura CI/CD, CI significa:",
+    "options": {
+      "a": "Continuous Integration",
+      "b": "Central Interface",
+      "c": "Cloud Installation",
+      "d": "Code Inspection",
+      "e": "Continuous Internet"
+    },
+    "correct": "a",
+    "id": "aw_19"
+  },
+  {
+    "question": "Qual é um objetivo principal da Integração Contínua (CI)?",
+    "options": {
+      "a": "Evitar qualquer alteração no código",
+      "b": "Integrar e validar alterações de código frequentemente por meio de processos automatizados",
+      "c": "Publicar manualmente todas as versões",
+      "d": "Eliminar testes automatizados",
+      "e": "Impedir o uso de controle de versão"
+    },
+    "correct": "b",
+    "id": "aw_20"
+  },
+  {
+    "question": "Em uma esteira CI/CD, uma etapa automatizada que compila o sistema e executa testes após um commit é exemplo de:",
+    "options": {
+      "a": "Integração Contínua",
+      "b": "Autorização OAuth",
+      "c": "Modelagem REST",
+      "d": "Criptografia JWT",
+      "e": "Anonimização LGPD"
+    },
+    "correct": "a",
+    "id": "aw_21"
+  },
+  {
+    "question": "CD, no contexto de CI/CD, pode representar:",
+    "options": {
+      "a": "Continuous Delivery ou Continuous Deployment, conforme o contexto",
+      "b": "Central Database exclusivamente",
+      "c": "Code Deletion",
+      "d": "Client Domain",
+      "e": "Cloud DNS"
+    },
+    "correct": "a",
+    "id": "aw_22"
+  },
+  {
+    "question": "Qual é a diferença conceitual mais comum entre Continuous Delivery e Continuous Deployment?",
+    "options": {
+      "a": "Delivery prepara versões para implantação; Deployment automatiza a implantação em produção",
+      "b": "Delivery não utiliza automação; Deployment utiliza somente testes manuais",
+      "c": "Delivery é exclusivamente sobre banco de dados",
+      "d": "Deployment não faz parte de DevOps",
+      "e": "Não existe diferença conceitual"
+    },
+    "correct": "a",
+    "id": "aw_23"
+  },
+  {
+    "question": "Em uma pipeline CI/CD, qual etapa normalmente deve ocorrer antes da implantação em produção?",
+    "options": {
+      "a": "Remover o controle de versão",
+      "b": "Executar validações e testes automatizados",
+      "c": "Apagar o ambiente de homologação",
+      "d": "Desativar logs",
+      "e": "Remover os mecanismos de segurança"
+    },
+    "correct": "b",
+    "id": "aw_24"
+  },
+  {
+    "question": "Um pipeline interrompe automaticamente a entrega quando os testes falham. Esse comportamento representa:",
+    "options": {
+      "a": "Um mecanismo de feedback e qualidade na CI/CD",
+      "b": "Uma falha obrigatória do REST",
+      "c": "Uma característica do JWT",
+      "d": "Uma regra da LGPD",
+      "e": "Uma operação SQL"
+    },
+    "correct": "a",
+    "id": "aw_25"
+  },
+  {
+    "question": "Qual prática ajuda a tornar uma esteira CI/CD mais confiável?",
+    "options": {
+      "a": "Executar testes somente depois da publicação",
+      "b": "Automatizar build, testes e verificações de qualidade",
+      "c": "Evitar versionamento",
+      "d": "Permitir qualquer código em produção sem validação",
+      "e": "Desabilitar logs da pipeline"
+    },
+    "correct": "b",
+    "id": "aw_26"
+  },
+  {
+    "question": "Em DevOps, o controle de versão é importante porque:",
+    "options": {
+      "a": "Elimina a necessidade de testes",
+      "b": "Permite rastrear alterações e colaborar de forma controlada sobre o código",
+      "c": "Substitui a autenticação",
+      "d": "Cria automaticamente APIs REST",
+      "e": "Impede integração contínua"
+    },
+    "correct": "b",
+    "id": "aw_27"
+  },
+  {
+    "question": "Uma pipeline possui as etapas commit, build, testes, análise de segurança e deploy. Essa sequência representa:",
+    "options": {
+      "a": "Uma esteira de entrega automatizada",
+      "b": "Um protocolo de rede",
+      "c": "Um token de autenticação",
+      "d": "Uma tabela relacional",
+      "e": "Um relacionamento UML"
+    },
+    "correct": "a",
+    "id": "aw_28"
+  },
+  {
+    "question": "Qual é uma vantagem de executar testes automatizados durante a CI?",
+    "options": {
+      "a": "Detectar problemas mais cedo no ciclo de desenvolvimento",
+      "b": "Garantir que nunca haverá bugs",
+      "c": "Eliminar a necessidade de desenvolvedores",
+      "d": "Impedir alterações no código",
+      "e": "Substituir o ambiente de produção"
+    },
+    "correct": "a",
+    "id": "aw_29"
+  },
+  {
+    "question": "Em uma pipeline segura, uma ferramenta de análise de vulnerabilidades pode ser executada para:",
+    "options": {
+      "a": "Identificar riscos de segurança antes da implantação",
+      "b": "Criar usuários automaticamente",
+      "c": "Alterar o protocolo HTTP",
+      "d": "Gerar cardinalidades",
+      "e": "Substituir o controle de versão"
+    },
+    "correct": "a",
+    "id": "aw_30"
+  },
+  {
+    "question": "Autenticação e autorização são conceitos diferentes. Autenticação responde principalmente à pergunta:",
+    "options": {
+      "a": "O que este usuário pode fazer?",
+      "b": "Quem é o usuário?",
+      "c": "Qual banco será usado?",
+      "d": "Qual recurso será excluído?",
+      "e": "Qual API será versionada?"
+    },
+    "correct": "b",
+    "id": "aw_31"
+  },
+  {
+    "question": "Autorização responde principalmente à pergunta:",
+    "options": {
+      "a": "Quem é você?",
+      "b": "Qual é sua senha?",
+      "c": "O que você está autorizado a acessar ou executar?",
+      "d": "Qual é seu endereço IP?",
+      "e": "Qual é o protocolo HTTP?"
+    },
+    "correct": "c",
+    "id": "aw_32"
+  },
+  {
+    "question": "JWT é uma sigla para:",
+    "options": {
+      "a": "Java Web Transfer",
+      "b": "JSON Web Token",
+      "c": "JSON Web Transport",
+      "d": "JavaScript Web Table",
+      "e": "Java Web Technology"
+    },
+    "correct": "b",
+    "id": "aw_33"
+  },
+  {
+    "question": "Em uma arquitetura de autenticação baseada em JWT, o token normalmente é utilizado para:",
+    "options": {
+      "a": "Representar informações e claims sobre a identidade ou autorização de uma entidade",
+      "b": "Substituir o banco de dados",
+      "c": "Criptografar obrigatoriamente todo o tráfego HTTP",
+      "d": "Criar tabelas SQL",
+      "e": "Executar testes de integração"
+    },
+    "correct": "a",
+    "id": "aw_34"
+  },
+  {
+    "question": "Um JWT é tradicionalmente composto por três partes separadas por ponto. Quais são elas?",
+    "options": {
+      "a": "Header, Payload e Signature",
+      "b": "User, Password e Role",
+      "c": "Request, Response e Status",
+      "d": "Client, Server e Database",
+      "e": "Key, Value e Session"
+    },
+    "correct": "a",
+    "id": "aw_35"
+  },
+  {
+    "question": "No JWT, o payload normalmente contém:",
+    "options": {
+      "a": "Claims",
+      "b": "Somente a senha em texto puro",
+      "c": "O código-fonte da aplicação",
+      "d": "O banco de dados completo",
+      "e": "Certificados TLS obrigatoriamente"
+    },
+    "correct": "a",
+    "id": "aw_36"
+  },
+  {
+    "question": "Uma característica importante do JWT é que seu conteúdo codificado no payload:",
+    "options": {
+      "a": "Deve ser tratado como secreto apenas por estar codificado",
+      "b": "Pode ser decodificado e, portanto, não deve conter informações sensíveis sem proteção adequada",
+      "c": "É sempre criptografado por padrão",
+      "d": "Não pode ser lido pelo cliente",
+      "e": "Só pode conter números"
+    },
+    "correct": "b",
+    "id": "aw_37"
+  },
+  {
+    "question": "OAuth 2.0 é principalmente um framework/protocolo de:",
+    "options": {
+      "a": "Delegação de autorização",
+      "b": "Modelagem de banco de dados",
+      "c": "Compressão HTTP",
+      "d": "Criação de páginas HTML",
+      "e": "Controle de versão"
+    },
+    "correct": "a",
+    "id": "aw_38"
+  },
+  {
+    "question": "Em OAuth 2.0, o access token é usado principalmente para:",
+    "options": {
+      "a": "Acessar recursos protegidos conforme as permissões concedidas",
+      "b": "Substituir o servidor de autorização",
+      "c": "Criar o banco de dados",
+      "d": "Compilar a aplicação",
+      "e": "Representar o código HTTP 200"
+    },
+    "correct": "a",
+    "id": "aw_39"
+  },
+  {
+    "question": "Em OAuth 2.0, o servidor de autorização tem como função principal:",
+    "options": {
+      "a": "Emitir credenciais/tokens conforme o fluxo de autorização",
+      "b": "Armazenar obrigatoriamente todos os arquivos da aplicação",
+      "c": "Executar todos os testes de CI",
+      "d": "Substituir a API protegida",
+      "e": "Gerenciar tabelas relacionais"
+    },
+    "correct": "a",
+    "id": "aw_40"
+  },
+  {
+    "question": "Em um cenário OAuth 2.0, o resource server é o componente que:",
+    "options": {
+      "a": "Hospeda os recursos protegidos que podem ser acessados com um token válido",
+      "b": "Sempre emite o access token",
+      "c": "Compila o aplicativo",
+      "d": "Cria o usuário no Git",
+      "e": "Executa a pipeline CI"
+    },
+    "correct": "a",
+    "id": "aw_41"
+  },
+  {
+    "question": "O escopo (scope) em OAuth 2.0 é utilizado para:",
+    "options": {
+      "a": "Definir permissões ou limites de acesso solicitados/concedidos",
+      "b": "Definir o endereço IP do usuário",
+      "c": "Substituir o HTTPS",
+      "d": "Identificar o banco de dados",
+      "e": "Determinar o código HTTP"
+    },
+    "correct": "a",
+    "id": "aw_42"
+  },
+  {
+    "question": "Qual cabeçalho HTTP é comumente utilizado para enviar um bearer token em uma requisição a uma API?",
+    "options": {
+      "a": "Content-Type",
+      "b": "Accept",
+      "c": "Authorization",
+      "d": "Location",
+      "e": "Origin"
+    },
+    "correct": "c",
+    "id": "aw_43"
+  },
+  {
+    "question": "Qual é uma boa prática para proteger tokens de acesso durante o transporte?",
+    "options": {
+      "a": "Enviar por HTTP sem TLS",
+      "b": "Utilizar HTTPS/TLS",
+      "c": "Colocá-los em URLs públicas sempre",
+      "d": "Compartilhá-los em logs",
+      "e": "Enviar por e-mail em texto puro"
+    },
+    "correct": "b",
+    "id": "aw_44"
+  },
+  {
+    "question": "A LGPD tem como objetivo principal:",
+    "options": {
+      "a": "Regular o tratamento de dados pessoais, protegendo direitos fundamentais de liberdade e privacidade",
+      "b": "Regular somente bancos de dados públicos",
+      "c": "Proibir qualquer tratamento de dados",
+      "d": "Regular apenas comércio eletrônico",
+      "e": "Substituir todas as normas de segurança da informação"
+    },
+    "correct": "a",
+    "id": "aw_45"
+  },
+  {
+    "question": "Segundo a LGPD, dado pessoal é, em termos gerais:",
+    "options": {
+      "a": "Qualquer dado sobre uma empresa",
+      "b": "Informação relacionada a pessoa natural identificada ou identificável",
+      "c": "Somente uma senha",
+      "d": "Somente dados financeiros",
+      "e": "Qualquer informação pública sem exceção"
+    },
+    "correct": "b",
+    "id": "aw_46"
+  },
+  {
+    "question": "Qual exemplo representa um dado pessoal?",
+    "options": {
+      "a": "Número de CPF de uma pessoa",
+      "b": "Temperatura média de uma cidade sem vínculo com pessoa",
+      "c": "Quantidade total de produtos vendidos por uma loja sem identificação de pessoas",
+      "d": "Nome de um protocolo de rede",
+      "e": "Código de status HTTP"
+    },
+    "correct": "a",
+    "id": "aw_47"
+  },
+  {
+    "question": "Qual destes é exemplo de dado pessoal sensível segundo a LGPD?",
+    "options": {
+      "a": "Cor de uma parede",
+      "b": "Dado referente à saúde",
+      "c": "Número de uma porta TCP",
+      "d": "Nome de uma biblioteca de software",
+      "e": "Código HTTP 404"
+    },
+    "correct": "b",
+    "id": "aw_48"
+  },
+  {
+    "question": "Na LGPD, tratamento de dados pessoais inclui operações como:",
+    "options": {
+      "a": "Somente exclusão",
+      "b": "Coleta, armazenamento, utilização e compartilhamento, entre outras operações",
+      "c": "Somente criptografia",
+      "d": "Somente anonimização",
+      "e": "Apenas impressão em papel"
+    },
+    "correct": "b",
+    "id": "aw_49"
+  },
+  {
+    "question": "O princípio da necessidade na LGPD está relacionado a:",
+    "options": {
+      "a": "Tratar somente os dados necessários para a realização das finalidades pretendidas",
+      "b": "Guardar todos os dados indefinidamente",
+      "c": "Coletar o máximo de informações possível",
+      "d": "Evitar qualquer medida de segurança",
+      "e": "Publicar todos os dados coletados"
+    },
+    "correct": "a",
+    "id": "aw_50"
+  },
+  {
+    "question": "O princípio da finalidade exige que o tratamento de dados pessoais:",
+    "options": {
+      "a": "Tenha propósitos legítimos, específicos e informados ao titular, conforme aplicável",
+      "b": "Seja sempre secreto",
+      "c": "Seja realizado sem qualquer justificativa",
+      "d": "Tenha finalidade exclusivamente comercial",
+      "e": "Nunca seja documentado"
+    },
+    "correct": "a",
+    "id": "aw_51"
+  },
+  {
+    "question": "O princípio da segurança na LGPD está relacionado à adoção de:",
+    "options": {
+      "a": "Medidas técnicas e administrativas aptas a proteger os dados pessoais",
+      "b": "Somente senhas simples",
+      "c": "Apenas backups em papel",
+      "d": "Somente controles físicos",
+      "e": "Nenhuma medida durante o desenvolvimento"
+    },
+    "correct": "a",
+    "id": "aw_52"
+  },
+  {
+    "question": "Em uma aplicação web que coleta nome, CPF e e-mail, uma medida coerente com privacidade e segurança é:",
+    "options": {
+      "a": "Coletar dados sem finalidade definida",
+      "b": "Limitar a coleta ao necessário e aplicar medidas adequadas de proteção",
+      "c": "Exibir os dados em logs públicos",
+      "d": "Compartilhar os dados com qualquer serviço",
+      "e": "Armazenar senhas em texto puro"
+    },
+    "correct": "b",
+    "id": "aw_53"
+  },
+  {
+    "question": "No contexto da LGPD, o titular dos dados é:",
+    "options": {
+      "a": "A empresa que processa os dados",
+      "b": "A pessoa natural a quem os dados pessoais se referem",
+      "c": "O servidor de aplicação",
+      "d": "O banco de dados",
+      "e": "O desenvolvedor"
+    },
+    "correct": "b",
+    "id": "aw_54"
+  },
+  {
+    "question": "O controlador, em termos gerais, é quem:",
+    "options": {
+      "a": "Toma as decisões referentes ao tratamento de dados pessoais",
+      "b": "Sempre executa fisicamente todos os tratamentos",
+      "c": "É necessariamente o titular dos dados",
+      "d": "É sempre o provedor de nuvem",
+      "e": "É o usuário da API"
+    },
+    "correct": "a",
+    "id": "aw_55"
+  },
+  {
+    "question": "O operador, em termos gerais, realiza o tratamento de dados pessoais:",
+    "options": {
+      "a": "Sempre em benefício próprio e sem instruções",
+      "b": "Em nome do controlador",
+      "c": "Somente para órgãos públicos",
+      "d": "Somente em bancos NoSQL",
+      "e": "Sem qualquer relação contratual ou instrução"
+    },
+    "correct": "b",
+    "id": "aw_56"
+  },
+  {
+    "question": "Uma equipe de desenvolvimento coloca CPF e senha de usuários em logs da aplicação sem necessidade. Qual princípio ou preocupação da LGPD é especialmente relevante?",
+    "options": {
+      "a": "Necessidade e segurança",
+      "b": "Cardinalidade",
+      "c": "Polimorfismo",
+      "d": "Herança",
+      "e": "Compressão HTTP"
+    },
+    "correct": "a",
+    "id": "aw_57"
+  },
+  {
+    "question": "Uma API REST exige autenticação, mas o servidor aceita qualquer JWT sem verificar sua assinatura. Qual problema existe?",
+    "options": {
+      "a": "O token não precisa de validação",
+      "b": "A autenticidade e integridade do token não estão sendo devidamente verificadas",
+      "c": "O HTTP GET deixa de funcionar",
+      "d": "A LGPD deixa de existir",
+      "e": "O JSON fica inválido automaticamente"
+    },
+    "correct": "b",
+    "id": "aw_58"
+  },
+  {
+    "question": "Uma esteira CI/CD publica automaticamente uma aplicação após todos os testes e verificações de segurança passarem. Esse cenário exemplifica:",
+    "options": {
+      "a": "Automação de entrega/implantação com controles de qualidade",
+      "b": "Somente autenticação básica",
+      "c": "Uma operação de banco de dados",
+      "d": "Um relacionamento REST",
+      "e": "Uma cardinalidade 1:N"
+    },
+    "correct": "a",
+    "id": "aw_59"
+  },
+  {
+    "question": "Uma aplicação coleta dados pessoais por uma API REST, usa OAuth 2.0 para controlar acesso e possui pipeline CI/CD. Qual abordagem é mais adequada?",
+    "options": {
+      "a": "Tratar segurança e privacidade apenas depois da publicação",
+      "b": "Integrar autenticação, autorização, proteção de dados e verificações de segurança ao ciclo de desenvolvimento",
+      "c": "Desabilitar testes para acelerar o deploy",
+      "d": "Armazenar tokens e dados pessoais em logs públicos",
+      "e": "Usar HTTP sem TLS para simplificar a arquitetura"
+    },
+    "correct": "b",
+    "id": "aw_60"
+  }
+]

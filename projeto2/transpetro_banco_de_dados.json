@@ -1,0 +1,722 @@
+[
+  {
+    "question": "Em um modelo entidade-relacionamento, o que representa uma entidade?",
+    "options": {
+      "a": "Uma característica de um objeto",
+      "b": "Um objeto ou conceito do domínio sobre o qual se deseja armazenar informações",
+      "c": "Uma regra de validação",
+      "d": "Uma consulta SQL",
+      "e": "Uma operação de agregação"
+    },
+    "correct": "b",
+    "id": "bd_01"
+  },
+  {
+    "question": "Em um sistema acadêmico, ALUNO, PROFESSOR e DISCIPLINA são exemplos de:",
+    "options": {
+      "a": "Atributos",
+      "b": "Domínios",
+      "c": "Entidades",
+      "d": "Cardinalidades",
+      "e": "Índices"
+    },
+    "correct": "c",
+    "id": "bd_02"
+  },
+  {
+    "question": "No contexto de banco de dados, um atributo representa:",
+    "options": {
+      "a": "Uma ocorrência de uma entidade",
+      "b": "Uma característica ou propriedade de uma entidade",
+      "c": "Uma associação entre duas tabelas",
+      "d": "Uma transação",
+      "e": "Uma consulta"
+    },
+    "correct": "b",
+    "id": "bd_03"
+  },
+  {
+    "question": "Considerando a entidade CLIENTE, qual alternativa apresenta um atributo?",
+    "options": {
+      "a": "CLIENTE",
+      "b": "COMPRA",
+      "c": "CPF",
+      "d": "PEDIDO",
+      "e": "VENDA"
+    },
+    "correct": "c",
+    "id": "bd_04"
+  },
+  {
+    "question": "Em uma entidade FUNCIONÁRIO, qual atributo é mais adequado para identificar unicamente cada funcionário?",
+    "options": {
+      "a": "Nome",
+      "b": "Cargo",
+      "c": "Data de nascimento",
+      "d": "Matrícula",
+      "e": "Cidade"
+    },
+    "correct": "d",
+    "id": "bd_05"
+  },
+  {
+    "question": "Uma chave primária tem como principal finalidade:",
+    "options": {
+      "a": "Permitir valores duplicados",
+      "b": "Identificar unicamente cada registro de uma tabela",
+      "c": "Armazenar apenas textos",
+      "d": "Relacionar obrigatoriamente quatro tabelas",
+      "e": "Substituir todos os atributos"
+    },
+    "correct": "b",
+    "id": "bd_06"
+  },
+  {
+    "question": "Qual característica é desejável para uma chave primária?",
+    "options": {
+      "a": "Ser obrigatoriamente composta por texto",
+      "b": "Permitir valores nulos e repetidos",
+      "c": "Identificar de forma única cada ocorrência da entidade",
+      "d": "Conter sempre uma data",
+      "e": "Ser igual em todas as tabelas"
+    },
+    "correct": "c",
+    "id": "bd_07"
+  },
+  {
+    "question": "Uma chave composta é formada por:",
+    "options": {
+      "a": "Apenas um atributo derivado",
+      "b": "Dois ou mais atributos utilizados conjuntamente para identificar um registro",
+      "c": "Uma entidade e um relacionamento",
+      "d": "Duas tabelas sem relacionamento",
+      "e": "Somente atributos multivalorados"
+    },
+    "correct": "b",
+    "id": "bd_08"
+  },
+  {
+    "question": "Qual situação representa melhor um atributo multivalorado?",
+    "options": {
+      "a": "CPF de uma pessoa",
+      "b": "Data de nascimento",
+      "c": "Uma pessoa que possui vários números de telefone",
+      "d": "Código único do cliente",
+      "e": "Nome completo"
+    },
+    "correct": "c",
+    "id": "bd_09"
+  },
+  {
+    "question": "Um atributo derivado é aquele que:",
+    "options": {
+      "a": "É sempre uma chave estrangeira",
+      "b": "Pode ser obtido a partir de outros dados armazenados",
+      "c": "Nunca pode mudar",
+      "d": "Obrigatoriamente aceita valores nulos",
+      "e": "Identifica uma entidade fraca"
+    },
+    "correct": "b",
+    "id": "bd_10"
+  },
+  {
+    "question": "No modelo entidade-relacionamento, um relacionamento representa:",
+    "options": {
+      "a": "Uma característica isolada de uma entidade",
+      "b": "Uma associação entre entidades",
+      "c": "Um tipo de dado",
+      "d": "Uma chave primária",
+      "e": "Uma tabela temporária"
+    },
+    "correct": "b",
+    "id": "bd_11"
+  },
+  {
+    "question": "Em um sistema escolar, ALUNO 'realiza' MATRÍCULA. O verbo 'realiza' representa:",
+    "options": {
+      "a": "Um atributo",
+      "b": "Uma entidade fraca",
+      "c": "Um relacionamento",
+      "d": "Uma chave composta",
+      "e": "Um domínio"
+    },
+    "correct": "c",
+    "id": "bd_12"
+  },
+  {
+    "question": "Em um relacionamento entre CLIENTE e PEDIDO, um cliente associado a vários pedidos caracteriza:",
+    "options": {
+      "a": "Cardinalidade 1:1",
+      "b": "Cardinalidade 1:N",
+      "c": "Cardinalidade N:1 obrigatoriamente",
+      "d": "Cardinalidade 0:1",
+      "e": "Ausência de relacionamento"
+    },
+    "correct": "b",
+    "id": "bd_13"
+  },
+  {
+    "question": "Um relacionamento muitos-para-muitos é normalmente representado por:",
+    "options": {
+      "a": "1:1",
+      "b": "1:N",
+      "c": "N:N",
+      "d": "0:1",
+      "e": "N:1 somente"
+    },
+    "correct": "c",
+    "id": "bd_14"
+  },
+  {
+    "question": "Considere ALUNO e CURSO. Um aluno pode participar de vários cursos e um curso pode possuir vários alunos. A cardinalidade é:",
+    "options": {
+      "a": "1:1",
+      "b": "1:N",
+      "c": "N:1",
+      "d": "N:N",
+      "e": "0:1"
+    },
+    "correct": "d",
+    "id": "bd_15"
+  },
+  {
+    "question": "Considere PESSOA e PASSAPORTE. Cada pessoa possui no máximo um passaporte e cada passaporte pertence a uma única pessoa. Esse relacionamento é:",
+    "options": {
+      "a": "1:1",
+      "b": "1:N",
+      "c": "N:N",
+      "d": "N:1 sempre",
+      "e": "0:N"
+    },
+    "correct": "a",
+    "id": "bd_16"
+  },
+  {
+    "question": "Em um relacionamento 1:N entre DEPARTAMENTO e FUNCIONÁRIO, um departamento pode estar associado a:",
+    "options": {
+      "a": "Um funcionário apenas",
+      "b": "Vários funcionários",
+      "c": "Vários departamentos",
+      "d": "Nenhum funcionário em qualquer caso",
+      "e": "Exatamente dois funcionários"
+    },
+    "correct": "b",
+    "id": "bd_17"
+  },
+  {
+    "question": "Em um relacionamento N:1 entre PEDIDO e CLIENTE, cada pedido pertence a um cliente, enquanto um cliente pode possuir vários pedidos. Qual entidade está no lado N?",
+    "options": {
+      "a": "CLIENTE",
+      "b": "PEDIDO",
+      "c": "As duas",
+      "d": "Nenhuma",
+      "e": "RELACIONAMENTO"
+    },
+    "correct": "b",
+    "id": "bd_18"
+  },
+  {
+    "question": "Um relacionamento ternário envolve:",
+    "options": {
+      "a": "Exatamente uma entidade",
+      "b": "Duas entidades",
+      "c": "Três entidades",
+      "d": "Quatro atributos",
+      "e": "Somente entidades fracas"
+    },
+    "correct": "c",
+    "id": "bd_19"
+  },
+  {
+    "question": "Em um relacionamento recursivo, uma entidade:",
+    "options": {
+      "a": "Relaciona-se consigo mesma",
+      "b": "Não possui atributos",
+      "c": "É obrigatoriamente fraca",
+      "d": "Não pode ter chave primária",
+      "e": "É relacionada somente a entidades externas"
+    },
+    "correct": "a",
+    "id": "bd_20"
+  },
+  {
+    "question": "A cardinalidade de um relacionamento indica principalmente:",
+    "options": {
+      "a": "O tamanho físico do banco",
+      "b": "Quantas ocorrências podem ou devem estar associadas entre entidades",
+      "c": "O tipo de dado de cada atributo",
+      "d": "A quantidade de índices",
+      "e": "A quantidade de comandos SQL"
+    },
+    "correct": "b",
+    "id": "bd_21"
+  },
+  {
+    "question": "Na cardinalidade 1:N, o número 1 indica:",
+    "options": {
+      "a": "Que existe exatamente uma linha na tabela",
+      "b": "Que uma ocorrência do lado 1 pode estar associada a várias ocorrências do lado N",
+      "c": "Que o relacionamento possui um único atributo",
+      "d": "Que não existem chaves",
+      "e": "Que todos os registros são obrigatórios"
+    },
+    "correct": "b",
+    "id": "bd_22"
+  },
+  {
+    "question": "A cardinalidade mínima 0 em um relacionamento indica que:",
+    "options": {
+      "a": "Toda ocorrência deve participar",
+      "b": "A participação na relação é opcional",
+      "c": "Existe exatamente uma ocorrência",
+      "d": "A entidade não possui chave",
+      "e": "A relação é sempre N:N"
+    },
+    "correct": "b",
+    "id": "bd_23"
+  },
+  {
+    "question": "Se cada CLIENTE pode realizar zero ou muitos PEDIDOS, a cardinalidade é:",
+    "options": {
+      "a": "1..1",
+      "b": "0..1",
+      "c": "0..N",
+      "d": "1..N",
+      "e": "N..1"
+    },
+    "correct": "c",
+    "id": "bd_24"
+  },
+  {
+    "question": "Se todo PEDIDO deve pertencer a exatamente um CLIENTE, a cardinalidade do pedido em relação ao cliente é:",
+    "options": {
+      "a": "0..N",
+      "b": "1..N",
+      "c": "0..1",
+      "d": "1..1",
+      "e": "N..N"
+    },
+    "correct": "d",
+    "id": "bd_25"
+  },
+  {
+    "question": "Qual situação representa melhor uma cardinalidade 0..1?",
+    "options": {
+      "a": "Uma pessoa pode possuir nenhum ou um passaporte",
+      "b": "Uma pessoa deve possuir vários passaportes",
+      "c": "Uma pessoa deve possuir exatamente dois passaportes",
+      "d": "Uma pessoa pode possuir infinitos passaportes obrigatoriamente",
+      "e": "Uma pessoa não pode possuir passaporte"
+    },
+    "correct": "a",
+    "id": "bd_26"
+  },
+  {
+    "question": "Qual situação representa melhor uma cardinalidade 1..N?",
+    "options": {
+      "a": "Um pedido pode não possuir itens",
+      "b": "Um cliente possui exatamente um pedido",
+      "c": "Um pedido deve possuir pelo menos um item e pode possuir vários",
+      "d": "Um aluno pode ter no máximo uma matrícula",
+      "e": "Uma pessoa pode ter zero ou um telefone"
+    },
+    "correct": "c",
+    "id": "bd_27"
+  },
+  {
+    "question": "Em uma relação entre EMPRESA e FUNCIONÁRIO, se uma empresa pode ter muitos funcionários e um funcionário pertence a apenas uma empresa, temos:",
+    "options": {
+      "a": "N:N",
+      "b": "1:N",
+      "c": "1:1",
+      "d": "0:1",
+      "e": "0:0"
+    },
+    "correct": "b",
+    "id": "bd_28"
+  },
+  {
+    "question": "Quando dois conjuntos de entidades possuem participação muitos-para-muitos, a implementação relacional geralmente exige:",
+    "options": {
+      "a": "Eliminar as duas entidades",
+      "b": "Criar uma tabela associativa",
+      "c": "Remover todas as chaves",
+      "d": "Transformar tudo em uma única coluna",
+      "e": "Usar somente atributos derivados"
+    },
+    "correct": "b",
+    "id": "bd_29"
+  },
+  {
+    "question": "Em uma tabela associativa de um relacionamento N:N entre ALUNO e DISCIPLINA, é comum existir:",
+    "options": {
+      "a": "Somente o nome do aluno",
+      "b": "As chaves das entidades participantes, frequentemente formando uma chave composta",
+      "c": "Somente uma chave estrangeira",
+      "d": "Nenhuma chave",
+      "e": "Apenas atributos derivados"
+    },
+    "correct": "b",
+    "id": "bd_30"
+  },
+  {
+    "question": "A normalização de bancos de dados tem como um de seus principais objetivos:",
+    "options": {
+      "a": "Aumentar propositalmente a redundância",
+      "b": "Reduzir redundâncias e anomalias de atualização",
+      "c": "Eliminar todas as chaves estrangeiras",
+      "d": "Evitar relacionamentos",
+      "e": "Transformar tabelas em arquivos de texto"
+    },
+    "correct": "b",
+    "id": "bd_31"
+  },
+  {
+    "question": "Qual conjunto apresenta três problemas clássicos que a normalização procura reduzir?",
+    "options": {
+      "a": "Compressão, criptografia e indexação",
+      "b": "Inserção, atualização e exclusão",
+      "c": "Backup, restore e replicação",
+      "d": "Ordenação, agrupamento e projeção",
+      "e": "Autenticação, autorização e auditoria"
+    },
+    "correct": "b",
+    "id": "bd_32"
+  },
+  {
+    "question": "Uma tabela está na Primeira Forma Normal (1FN) quando:",
+    "options": {
+      "a": "Possui apenas uma coluna",
+      "b": "Não possui chave primária",
+      "c": "Seus atributos possuem valores atômicos, sem grupos repetitivos",
+      "d": "Todos os atributos são numéricos",
+      "e": "Não possui relacionamentos"
+    },
+    "correct": "c",
+    "id": "bd_33"
+  },
+  {
+    "question": "Qual situação viola diretamente a 1FN?",
+    "options": {
+      "a": "Uma coluna CPF contendo um único CPF",
+      "b": "Uma coluna Telefone contendo vários telefones em uma mesma célula",
+      "c": "Uma tabela com chave primária",
+      "d": "Uma coluna Nome contendo um nome",
+      "e": "Uma tabela com chave estrangeira"
+    },
+    "correct": "b",
+    "id": "bd_34"
+  },
+  {
+    "question": "A Segunda Forma Normal (2FN) exige, além da 1FN:",
+    "options": {
+      "a": "Ausência total de chaves estrangeiras",
+      "b": "Eliminação de dependências parciais em relação à chave primária",
+      "c": "Que todas as tabelas tenham duas colunas",
+      "d": "Que todos os atributos sejam derivados",
+      "e": "Que não existam relacionamentos"
+    },
+    "correct": "b",
+    "id": "bd_35"
+  },
+  {
+    "question": "A dependência parcial ocorre quando:",
+    "options": {
+      "a": "Um atributo não depende de nenhuma chave",
+      "b": "Um atributo não chave depende apenas de parte de uma chave primária composta",
+      "c": "Toda chave depende de outra tabela",
+      "d": "Uma chave estrangeira depende parcialmente de um índice",
+      "e": "Todos os atributos dependem da chave inteira"
+    },
+    "correct": "b",
+    "id": "bd_36"
+  },
+  {
+    "question": "A Terceira Forma Normal (3FN) busca eliminar principalmente:",
+    "options": {
+      "a": "Chaves primárias",
+      "b": "Dependências transitivas de atributos não chave",
+      "c": "Todos os relacionamentos N:N",
+      "d": "Todos os atributos atômicos",
+      "e": "Todas as chaves estrangeiras"
+    },
+    "correct": "b",
+    "id": "bd_37"
+  },
+  {
+    "question": "Considere FUNCIONARIO(cod_func, cod_dep, nome_dep). Se cod_func determina cod_dep e cod_dep determina nome_dep, há uma possível:",
+    "options": {
+      "a": "Dependência transitiva",
+      "b": "Dependência parcial",
+      "c": "Violação da 1FN por valor atômico",
+      "d": "Cardinalidade N:N",
+      "e": "Chave composta obrigatória"
+    },
+    "correct": "a",
+    "id": "bd_38"
+  },
+  {
+    "question": "Em uma relação corretamente normalizada, um atributo não chave deve depender:",
+    "options": {
+      "a": "De parte da chave, quando possível",
+      "b": "Da chave, da chave inteira e de nada além da chave, considerando as formas normais clássicas",
+      "c": "Somente de uma chave estrangeira",
+      "d": "De outro atributo não chave obrigatoriamente",
+      "e": "De nenhuma chave"
+    },
+    "correct": "b",
+    "id": "bd_39"
+  },
+  {
+    "question": "Qual sequência apresenta corretamente as três primeiras formas normais?",
+    "options": {
+      "a": "3FN, 1FN, 2FN",
+      "b": "1FN, 3FN, 2FN",
+      "c": "2FN, 1FN, 3FN",
+      "d": "1FN, 2FN, 3FN",
+      "e": "2FN, 3FN, 1FN"
+    },
+    "correct": "d",
+    "id": "bd_40"
+  },
+  {
+    "question": "Uma tabela PEDIDO possui id_pedido, id_cliente, nome_cliente, cidade_cliente e valor. O nome e a cidade do cliente se repetem em vários pedidos. Qual problema isso evidencia?",
+    "options": {
+      "a": "Ausência de qualquer atributo",
+      "b": "Redundância de dados",
+      "c": "Cardinalidade 1:1 obrigatória",
+      "d": "Falta de domínio",
+      "e": "Uso de chave composta"
+    },
+    "correct": "b",
+    "id": "bd_41"
+  },
+  {
+    "question": "Se o endereço de um cliente estiver repetido em centenas de pedidos, alterar o endereço poderá exigir várias atualizações. Isso caracteriza uma:",
+    "options": {
+      "a": "Anomalia de atualização",
+      "b": "Anomalia de seleção",
+      "c": "Anomalia de cardinalidade",
+      "d": "Anomalia de projeção",
+      "e": "Anomalia de indexação"
+    },
+    "correct": "a",
+    "id": "bd_42"
+  },
+  {
+    "question": "Uma tabela contém PedidoID, ClienteID, ProdutoID, NomeProduto e Quantidade. Se a chave for (PedidoID, ProdutoID), qual atributo tende a depender apenas de ProdutoID?",
+    "options": {
+      "a": "Quantidade",
+      "b": "PedidoID",
+      "c": "NomeProduto",
+      "d": "ProdutoID",
+      "e": "ClienteID"
+    },
+    "correct": "c",
+    "id": "bd_43"
+  },
+  {
+    "question": "No exemplo anterior, a dependência de NomeProduto apenas de ProdutoID caracteriza:",
+    "options": {
+      "a": "Dependência parcial",
+      "b": "Dependência transitiva",
+      "c": "Cardinalidade 1:1",
+      "d": "Atributo multivalorado",
+      "e": "Relacionamento recursivo"
+    },
+    "correct": "a",
+    "id": "bd_44"
+  },
+  {
+    "question": "Uma tabela ALUNO possui aluno_id, aluno_nome, curso_id e curso_nome. Se cada aluno pertence a um curso, uma boa decomposição para reduzir redundância seria:",
+    "options": {
+      "a": "Manter tudo em uma única tabela sempre",
+      "b": "Criar ALUNO e CURSO, relacionando-os por chave apropriada",
+      "c": "Excluir curso_nome",
+      "d": "Excluir aluno_id",
+      "e": "Transformar tudo em um único atributo"
+    },
+    "correct": "b",
+    "id": "bd_45"
+  },
+  {
+    "question": "Uma tabela PRODUTO possui produto_id, categoria_id e categoria_nome. Se categoria_id determina categoria_nome, manter categoria_nome repetido em muitos produtos pode gerar:",
+    "options": {
+      "a": "Dependência transitiva e redundância",
+      "b": "Apenas cardinalidade 1:1",
+      "c": "Violação automática da 1FN",
+      "d": "Chave primária duplicada",
+      "e": "Relacionamento recursivo"
+    },
+    "correct": "a",
+    "id": "bd_46"
+  },
+  {
+    "question": "Em uma tabela de vendas, uma mesma venda possui vários produtos. Qual modelagem é mais adequada para representar a relação entre VENDA e PRODUTO?",
+    "options": {
+      "a": "1:1 diretamente",
+      "b": "1:N ou N:N, conforme o conceito modelado, normalmente com ITEM_VENDA para registrar cada produto da venda",
+      "c": "Nenhum relacionamento",
+      "d": "Somente uma coluna textual com todos os produtos",
+      "e": "Um relacionamento recursivo"
+    },
+    "correct": "b",
+    "id": "bd_47"
+  },
+  {
+    "question": "Na modelagem de uma venda, a entidade ITEM_VENDA é frequentemente utilizada para:",
+    "options": {
+      "a": "Eliminar a chave da venda",
+      "b": "Representar cada item de uma venda e resolver a associação entre VENDA e PRODUTO",
+      "c": "Armazenar somente dados do cliente",
+      "d": "Substituir a entidade PRODUTO",
+      "e": "Representar um atributo derivado"
+    },
+    "correct": "b",
+    "id": "bd_48"
+  },
+  {
+    "question": "Considere ALUNO e TELEFONE. Um aluno pode possuir vários telefones e um telefone pode pertencer a apenas um aluno. A cardinalidade mais adequada é:",
+    "options": {
+      "a": "1:1",
+      "b": "1:N",
+      "c": "N:N",
+      "d": "0:0",
+      "e": "N:1 entre aluno e telefone"
+    },
+    "correct": "b",
+    "id": "bd_49"
+  },
+  {
+    "question": "Considere PROFESSOR e DISCIPLINA. Um professor pode ministrar várias disciplinas e uma disciplina pode ser ministrada por vários professores. A relação é:",
+    "options": {
+      "a": "1:1",
+      "b": "1:N",
+      "c": "N:1",
+      "d": "N:N",
+      "e": "0:1"
+    },
+    "correct": "d",
+    "id": "bd_50"
+  },
+  {
+    "question": "Uma biblioteca possui LIVRO e AUTOR. Um livro pode ter vários autores e um autor pode escrever vários livros. Como representar essa relação no modelo relacional?",
+    "options": {
+      "a": "Com uma tabela associativa entre LIVRO e AUTOR",
+      "b": "Eliminando AUTOR",
+      "c": "Colocando todos os autores em uma única célula de LIVRO",
+      "d": "Criando somente uma chave primária em AUTOR",
+      "e": "Usando apenas atributos derivados"
+    },
+    "correct": "a",
+    "id": "bd_51"
+  },
+  {
+    "question": "Em um sistema de hospital, um MÉDICO atende vários PACIENTES e um PACIENTE pode ser atendido por vários MÉDICOS. Qual cardinalidade descreve melhor a relação?",
+    "options": {
+      "a": "1:1",
+      "b": "1:N",
+      "c": "N:N",
+      "d": "0:1",
+      "e": "N:1 obrigatoriamente"
+    },
+    "correct": "c",
+    "id": "bd_52"
+  },
+  {
+    "question": "Uma empresa possui DEPARTAMENTO e FUNCIONÁRIO. Todo funcionário deve estar vinculado a um departamento, mas um departamento pode existir sem funcionários. Qual opção representa melhor a participação?",
+    "options": {
+      "a": "Departamento 1..N e funcionário 0..1",
+      "b": "Departamento 0..N e funcionário 1..1",
+      "c": "Departamento 1..1 e funcionário 1..N",
+      "d": "Ambos 0..1",
+      "e": "Ambos 1..N"
+    },
+    "correct": "b",
+    "id": "bd_53"
+  },
+  {
+    "question": "Em um modelo, cada pedido deve possuir pelo menos um item. Qual cardinalidade mínima deve ser considerada para PEDIDO em relação a ITEM_PEDIDO?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "N somente",
+      "d": "0 ou 1",
+      "e": "N somente para a chave"
+    },
+    "correct": "b",
+    "id": "bd_54"
+  },
+  {
+    "question": "Uma entidade CLIENTE possui cpf, nome e data_nascimento. Se CPF identifica unicamente cada cliente, ele pode ser escolhido como:",
+    "options": {
+      "a": "Atributo derivado",
+      "b": "Chave primária",
+      "c": "Relacionamento",
+      "d": "Cardinalidade",
+      "e": "Tabela associativa"
+    },
+    "correct": "b",
+    "id": "bd_55"
+  },
+  {
+    "question": "Uma empresa armazena Rua, número, bairro e cidade em uma única coluna Endereco. Qual preocupação pode surgir?",
+    "options": {
+      "a": "Atributo não atômico ou dificuldade de tratar individualmente os componentes",
+      "b": "Obrigatoriedade de usar N:N",
+      "c": "Ausência de qualquer entidade",
+      "d": "Impossibilidade de criar chave primária",
+      "e": "Dependência transitiva obrigatória"
+    },
+    "correct": "a",
+    "id": "bd_56"
+  },
+  {
+    "question": "Um banco de dados registra o total de uma compra como soma dos valores de seus itens. Esse total pode ser considerado:",
+    "options": {
+      "a": "Necessariamente uma entidade",
+      "b": "Um atributo derivado",
+      "c": "Uma chave estrangeira",
+      "d": "Uma cardinalidade",
+      "e": "Um relacionamento recursivo"
+    },
+    "correct": "b",
+    "id": "bd_57"
+  },
+  {
+    "question": "Se o sistema puder calcular a idade a partir da data de nascimento, armazenar também a idade pode gerar:",
+    "options": {
+      "a": "Apenas uma chave composta",
+      "b": "Redundância e necessidade de atualização do valor armazenado",
+      "c": "Uma relação N:N",
+      "d": "Uma violação automática da 1FN",
+      "e": "Uma entidade fraca obrigatória"
+    },
+    "correct": "b",
+    "id": "bd_58"
+  },
+  {
+    "question": "Uma tabela possui uma chave primária composta por (aluno_id, disciplina_id). Um atributo nota depende dos dois componentes conjuntamente. Em relação à 2FN, isso indica que:",
+    "options": {
+      "a": "Nota apresenta dependência parcial",
+      "b": "Nota depende da chave inteira, portanto não caracteriza dependência parcial",
+      "c": "A tabela viola obrigatoriamente a 1FN",
+      "d": "A chave deve ser removida",
+      "e": "A tabela não pode possuir relacionamento"
+    },
+    "correct": "b",
+    "id": "bd_59"
+  },
+  {
+    "question": "Ao analisar um modelo de dados, qual sequência representa uma abordagem coerente?",
+    "options": {
+      "a": "Definir tabelas aleatoriamente, depois escolher atributos",
+      "b": "Identificar entidades e atributos, definir relacionamentos e cardinalidades e depois aplicar regras de normalização",
+      "c": "Normalizar antes de identificar entidades",
+      "d": "Criar índices antes de conhecer as entidades",
+      "e": "Definir cardinalidades apenas depois de implementar o banco"
+    },
+    "correct": "b",
+    "id": "bd_60"
+  }
+]

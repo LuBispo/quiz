@@ -1,0 +1,1110 @@
+[
+  {
+    "question": "No contexto de Redes de Computadores, qual topologia física caracteriza-se por possuir um nó central (como um switch ou hub) ao qual todos os outros dispositivos estão conectados diretamente?",
+    "options": {
+      "a": "Topologia em Anel",
+      "b": "Topologia em Estrela",
+      "c": "Topologia em Barramento",
+      "d": "Topologia em Malha Completa",
+      "e": "Topologia em Árvore"
+    },
+    "correct": "b",
+    "id": "infra_4.1_01"
+  },
+  {
+    "question": "Sobre os equipamentos de conexão em redes, qual dispositivo opera na Camada 2 (Enlace) do modelo OSI e utiliza a tabela de endereços MAC para encaminhar quadros apenas para a porta de destino correta?",
+    "options": {
+      "a": "Hub",
+      "b": "Repetidor",
+      "c": "Switch",
+      "d": "Roteador",
+      "e": "Gateway de Aplicação"
+    },
+    "correct": "c",
+    "id": "infra_4.1_02"
+  },
+  {
+    "question": "O padrão IEEE 802.1Q é amplamente utilizado em redes corporativas para qual finalidade principal?",
+    "options": {
+      "a": "Implementar criptografia WPA3 em redes sem fio corporativas.",
+      "b": "Realizar o encapsulamento e a inserção de tags (etiquetas) em quadros Ethernet para identificação de VLANs.",
+      "c": "Gerenciar o roteamento dinâmico entre redes IPv6 utilizando o protocolo OSPFv3.",
+      "d": "Controlar o acesso físico de portas de switches através de autenticação baseada em MAC.",
+      "e": "Aumentar a largura de banda agregada combinando múltiplos links físicos em uma única porta lógica (Link Aggregation)."
+    },
+    "correct": "b",
+    "id": "infra_4.1.1_01"
+  },
+  {
+    "question": "Em um ambiente com múltiplos switches interconectados que utilizam o padrão IEEE 802.1Q, como os quadros pertencentes a diferentes VLANs são diferenciados ao trafegar por um enlace troncal (trunk)?",
+    "options": {
+      "a": "Através da alteração do endereço MAC de destino do quadro.",
+      "b": "Mediante a adição de um cabeçalho IP adicional contendo o ID da VLAN.",
+      "c": "Pela inserção de uma tag de 4 bytes logo após o endereço MAC de origem no quadro Ethernet.",
+      "d": "Por meio da conversão dos pacotes para o protocolo de camada de rede OSI.",
+      "e": "Utilizando portas dedicadas e isoladas fisicamente para cada VLAN no tronco."
+    },
+    "correct": "c",
+    "id": "infra_4.1.1_02"
+  },
+  {
+    "question": "No Modelo OSI da ISO, qual camada é responsável pelo roteamento de pacotes, escolha de melhores caminhos e endereçamento lógico (como o protocolo IP)?",
+    "options": {
+      "a": "Camada Física",
+      "b": "Camada de Enlace de Dados",
+      "c": "Camada de Rede",
+      "d": "Camada de Transporte",
+      "e": "Camada de Sessão"
+    },
+    "correct": "c",
+    "id": "infra_4.2_01"
+  },
+  {
+    "question": "Diferenciando a Arquitetura TCP/IP do Modelo OSI, a camada de Aplicação do TCP/IP engloba quais camadas superiores do modelo OSI?",
+    "options": {
+      "a": "Apenas a camada de Apresentação e Aplicação.",
+      "b": "Camada de Sessão, Apresentação e Aplicação.",
+      "c": "Apenas a camada de Aplicação.",
+      "d": "Camada de Transporte e Aplicação.",
+      "e": "Camada de Rede e Transporte."
+    },
+    "correct": "b",
+    "id": "infra_4.2_02"
+  },
+  {
+    "question": "Qual porta padrão e protocolo de transporte são utilizados tipicamente pelo serviço DNS (Domain Name System) para consultas e respostas básicas?",
+    "options": {
+      "a": "Porta 80 TCP",
+      "b": "Porta 21 TCP",
+      "c": "Porta 53 UDP e TCP",
+      "d": "Porta 443 TCP",
+      "e": "Porta 67/68 UDP"
+    },
+    "correct": "c",
+    "id": "infra_4.3_01"
+  },
+  {
+    "question": "Sobre o NAT (Network Address Translation) e os serviços de aplicação TCP/IP listados, qual tecnologia é projetada para traduzir endereços IP privados em um endereço IP público válido para navegação na internet?",
+    "options": {
+      "a": "SNMP",
+      "b": "NAT",
+      "c": "NFS",
+      "d": "LDAP",
+      "e": "IPsec"
+    },
+    "correct": "b",
+    "id": "infra_4.3_02"
+  },
+  {
+    "question": "O IPv6 introduziu diversas melhorias estruturais em relação ao IPv4. Qual é o tamanho padrão do endereço IPv6?",
+    "options": {
+      "a": "32 bits",
+      "b": "64 bits",
+      "c": "128 bits",
+      "d": "256 bits",
+      "e": "48 bits"
+    },
+    "correct": "c",
+    "id": "infra_4.4_01"
+  },
+  {
+    "question": "No contexto de Qualidade de Serviço (QoS) em redes de computadores, qual técnica é utilizada para priorizar o tráfego de aplicações sensíveis a atraso (como VoIP e videoconferências)?",
+    "options": {
+      "a": "Descarte aleatório de pacotes sem classificação prévia.",
+      "b": "Classificação, marcação de pacotes (ex: DSCP) e filas de prioridade.",
+      "c": "Conversão automática de endereços IPv4 para IPv6.",
+      "d": "Aumento direto da latência física dos cabos de rede.",
+      "e": "Criptografia de ponta a ponta via IPsec."
+    },
+    "correct": "b",
+    "id": "infra_4.4_02"
+  },
+  {
+    "question": "No ambiente Linux/Unix, qual arquivo de configuração central é comumente utilizado para mapear endereços IP estáticos para nomes de host localmente, antes de consultar o DNS?",
+    "options": {
+      "a": "/etc/resolv.conf",
+      "b": "/etc/network/interfaces",
+      "c": "/etc/hosts",
+      "d": "/etc/fstab",
+      "e": "/etc/passwd"
+    },
+    "correct": "c",
+    "id": "infra_4.5_01"
+  },
+  {
+    "question": "Qual protocolo de rede em ambientes Unix/Linux é amplamente utilizado para o compartilhamento de arquivos e impressoras em redes locais mistas (integrando também com sistemas Windows)?",
+    "options": {
+      "a": "NFS (Network File System) e CIFS/SMB",
+      "b": "DHCP e DNS",
+      "c": "NIS e LDAP exclusivamente",
+      "d": "SNMP e SMTP",
+      "e": "Telnet e FTP"
+    },
+    "correct": "a",
+    "id": "infra_4.5_02"
+  },
+  {
+    "question": "No Servidor Web Apache, qual arquivo de configuração principal (ou diretório) permite definir regras de reescrita de URL, controle de acesso e diretivas específicas por diretório de forma descentralizada?",
+    "options": {
+      "a": "httpd.conf ou apache2.conf",
+      "b": ".htaccess",
+      "c": "nginx.conf",
+      "d": "hosts.allow",
+      "e": "ports.conf"
+    },
+    "correct": "b",
+    "id": "infra_4.6_01"
+  },
+  {
+    "question": "Qual diretiva ou módulo do Apache é comumente habilitado para garantir a segurança das comunicações web através do protocolo HTTPS?",
+    "options": {
+      "a": "mod_proxy",
+      "b": "mod_rewrite",
+      "c": "mod_ssl",
+      "d": "mod_status",
+      "e": "mod_autoindex"
+    },
+    "correct": "c",
+    "id": "infra_4.6_02"
+  },
+  {
+    "question": "A integração de ambientes entre Unix e Windows frequentemente utiliza serviços de diretório. Qual protocolo padrão aberto é amplamente adotado em ambas as plataformas para consultas e autenticação em diretórios?",
+    "options": {
+      "a": "FTP",
+      "b": "LDAP (Lightweight Directory Access Protocol)",
+      "c": "DHCP",
+      "d": "SNMP",
+      "e": "SMTP"
+    },
+    "correct": "b",
+    "id": "infra_4.7_01"
+  },
+  {
+    "question": "No contexto de interoperabilidade entre Unix e Windows, qual ferramenta ou protocolo permite que sistemas Linux acessem recursos compartilhados nativos de servidores Windows baseados em SMB/CIFS?",
+    "options": {
+      "a": "Samba",
+      "b": "Bind9",
+      "c": "Postfix",
+      "d": "Squid",
+      "e": "OpenSSH"
+    },
+    "correct": "a",
+    "id": "infra_4.7_02"
+  },
+  {
+    "question": "No ambiente Microsoft Windows Server, qual serviço de diretório centralizado é utilizado para gerenciar identidades, computadores, políticas de grupo (GPO) e permissões de recursos?",
+    "options": {
+      "a": "IIS (Internet Information Services)",
+      "b": "Active Directory (AD)",
+      "c": "Hyper-V",
+      "d": "DNS Server",
+      "e": "DHCP Scope Manager"
+    },
+    "correct": "b",
+    "id": "infra_4.8_01"
+  },
+  {
+    "question": "Qual serviço do Windows Server é responsável por prover acesso remoto a uma área de trabalho ou a aplicativos baseados em Windows de forma centralizada?",
+    "options": {
+      "a": "Active Directory Certificate Services",
+      "b": "Terminal Services (atualmente conhecido como Remote Desktop Services - RDS)",
+      "c": "Routing and Remote Access Service (RRAS)",
+      "d": "Windows Deployment Services (WDS)",
+      "e": "Internet Information Services (IIS)"
+    },
+    "correct": "b",
+    "id": "infra_4.8_02"
+  },
+  {
+    "question": "Qual das seguintes linguagens ou ferramentas é amplamente utilizada para automação de infraestrutura, configuração de servidores e criação de scripts de administração de sistemas (Shell Scripting)?",
+    "options": {
+      "a": "Bash / PowerShell",
+      "b": "HTML5",
+      "c": "CSS3",
+      "d": "SQL",
+      "e": "Java"
+    },
+    "correct": "a",
+    "id": "infra_4.9_01"
+  },
+  {
+    "question": "No contexto de automação de infraestrutura, qual é a principal vantagem do uso de linguagens de script em comparação com a configuração puramente manual de servidores?",
+    "options": {
+      "a": "Eliminação total de erros de sintaxe em código binário.",
+      "b": "Garantia de repetibilidade, rapidez na implantação e redução de erros humanos.",
+      "c": "Incompatibilidade proposital com ambientes em nuvem.",
+      "d": "Necessidade constante de intervenção física por hardware.",
+      "e": "Redução drástica da capacidade de processamento dos nós gerenciados."
+    },
+    "correct": "b",
+    "id": "infra_4.9_02"
+  },
+  {
+    "question": "Na gerência de projetos de software, quais são as fases clássicas que compõem o Ciclo de Vida do Sistema (SDLC)?",
+    "options": {
+      "a": "Apenas Compilação, Depuração e Publicação.",
+      "b": "Determinação dos Requisitos, Projeto Lógico, Projeto Físico, Teste e Implementação.",
+      "c": "Marketing, Vendas, Suporte e Descarte.",
+      "d": "Cabeamento, Roteamento, Sub-redes e Enlace.",
+      "e": "Criptografia, Backup, Restore e Auditoria."
+    },
+    "correct": "b",
+    "id": "infra_4.10_01"
+  },
+  {
+    "question": "Qual etapa do Ciclo de Vida do Sistema é responsável por traduzir os requisitos funcionais em uma especificação detalhada de arquitetura e modelo de dados, ainda independente de tecnologia específica de hardware ou SGBD?",
+    "options": {
+      "a": "Projeto Físico",
+      "b": "Projeto Lógico",
+      "c": "Implementação",
+      "d": "Homologação de Fábrica",
+      "e": "Suporte Técnico"
+    },
+    "correct": "b",
+    "id": "infra_4.10_02"
+  },
+  {
+    "question": "No planejamento de projetos, o que representa o 'Caminho Crítico' em um diagrama de rede (PERT/CPM)?",
+    "options": {
+      "a": "O conjunto de tarefas mais baratas de executar.",
+      "b": "A sequência de atividades que determina a duração total mínima do projeto, possuindo folga zero.",
+      "c": "O caminho que contém o maior número de recursos humanos alocados.",
+      "d": "As tarefas opcionais que podem ser atrasadas sem impactar o prazo final.",
+      "e": "A ordem cronológica exclusiva de testes de segurança."
+    },
+    "correct": "b",
+    "id": "infra_4.11_01"
+  },
+  {
+    "question": "O que significa a sigla EAP (ou WBS - Work Breakdown Structure) no planejamento e escopo de projetos?",
+    "options": {
+      "a": "Estrutura Analítica do Projeto, que decompõe hierarquicamente o escopo total em entregas menores e gerenciáveis.",
+      "b": "Estratégia de Alocação de Pessoal para ambientes de alta disponibilidade.",
+      "c": "Escopo de Arquitetura de Processos para servidores web.",
+      "d": "Especificação de Auditoria de Perímetro para redes corporativas.",
+      "e": "Estudo de Viabilidade Econômica para projetos de infraestrutura."
+    },
+    "correct": "a",
+    "id": "infra_4.11_02"
+  },
+  {
+    "question": "Durante a fase de execução, acompanhamento e controle de um projeto, qual ferramenta é frequentemente utilizada para comparar o progresso real com o planejado (cronograma e custos)?",
+    "options": {
+      "a": "Diagrama de Venn",
+      "b": "Análise do Valor Agregado (Earned Value Management - EVM)",
+      "c": "Tabela de Endereçamento IP estático",
+      "d": "Matriz de Criptografia Simétrica",
+      "e": "Relatório de Vulnerabilidades SAST"
+    },
+    "correct": "b",
+    "id": "infra_4.12_01"
+  },
+  {
+    "question": "O que caracteriza o encerramento (fechamento) de um projeto em sua etapa final?",
+    "options": {
+      "a": "A alteração contínua dos requisitos do cliente sem controle de mudanças.",
+      "b": "A formalização da aceitação das entregas, arquivamento de documentos, liberação de recursos e lições aprendidas.",
+      "c": "O início imediato do desenvolvimento do código físico sem testes.",
+      "d": "A desativação permanente de todos os servidores de produção da empresa.",
+      "e": "A reabertura de todas as tarefas do caminho crítico."
+    },
+    "correct": "b",
+    "id": "infra_4.12_02"
+  },
+  {
+    "question": "Qual é a principal característica de metodologias ágeis de gerência de projetos (como Scrum) em comparação com metodologias preditivas tradicionais (Cascata)?",
+    "options": {
+      "a": "Foco em ciclos longos de planejamento rígido onde o escopo nunca muda.",
+      "b": "Iterações curtas (sprints), entregas incrementais e alta adaptabilidade a mudanças de requisitos.",
+      "c": "Proibição absoluta de comunicação diária entre a equipe técnica.",
+      "d": "Eliminação completa da necessidade de testes de software.",
+      "e": "Uso exclusivo de documentação em papel sem artefatos digitais."
+    },
+    "correct": "b",
+    "id": "infra_4.13_01"
+  },
+  {
+    "question": "Em gerência de projetos, qual técnica ou ferramenta é utilizada para registrar, avaliar e controlar solicitações de alteração de escopo durante a execução?",
+    "options": {
+      "a": "Controle Integrado de Mudanças e Matriz de Rastreabilidade de Requisitos",
+      "b": "Protocolo DHCP Scope Options",
+      "c": "Tabela de Roteamento Estático do Kernel",
+      "d": "Filtro de pacotes baseados em portas TCP/UDP",
+      "e": "Dicionário de dados do modelo relacional"
+    },
+    "correct": "correct",
+    "correct": "a",
+    "id": "infra_4.13_02"
+  },
+  {
+    "question": "No escopo de Segurança da Informação, qual é a principal diferença entre segurança física e segurança lógica?",
+    "options": {
+      "a": "A segurança física protege o acesso a dados na nuvem, enquanto a lógica protege cabos de rede externos.",
+      "b": "A segurança física protege o ambiente de hardware e instalações contra intrusões tangíveis, enquanto a lógica protege dados, softwares e redes contra acessos digitais não autorizados.",
+      "c": "Não há distinção, sendo termos sinônimos na norma ISO 27001.",
+      "d": "A segurança lógica restringe apenas a entrada física de funcionários nas salas de servidores.",
+      "e": "A segurança física lida exclusivamente com criptografia de ponta a ponta."
+    },
+    "correct": "b",
+    "id": "infra_4.14_01"
+  },
+  {
+    "question": "Quais são os três pilares clássicos que formam a base da Segurança da Informação (a Tríade CIA)?",
+    "options": {
+      "a": "Custo, Inteligência e Agilidade",
+      "b": "Confidencialidade, Integridade e Disponibilidade",
+      "c": "Conectividade, Infraestrutura e Automação",
+      "d": "Controle, Inspeção e Alocação",
+      "e": "Criptografia, Identidade e Acesso"
+    },
+    "correct": "b",
+    "id": "infra_4.14_02"
+  },
+  {
+    "question": "Qual ferramenta de operação de segurança é projetada para coletar, agregar e analisar logs de segurança de toda a infraestrutura em tempo real, gerando alertas de incidentes?",
+    "options": {
+      "a": "SIEM (Security Information and Event Management)",
+      "b": "Servidor Apache HTTP",
+      "c": "Protocolo SNMP v1",
+      "d": "Compilador J2EE",
+      "e": "Gerenciador de EAP"
+    },
+    "correct": "a",
+    "id": "infra_4.15_01"
+  },
+  {
+    "question": "No contexto de tecnologias de proteção de perímetro e endpoints, qual é a função primária de uma solução EDR (Endpoint Detection and Response)?",
+    "options": {
+      "a": "Gerenciar o endereçamento IP dinâmico em redes locais.",
+      "b": "Monitorar continuamente dispositivos finais (estações e servidores) para detectar, investigar e responder a ameaças avançadas.",
+      "c": "Realizar o balanceamento de carga HTTP em servidores web.",
+      "d": "Converter nomes de domínio em endereços IP públicos.",
+      "e": "Criar túneis virtuais criptografados para acesso remoto."
+    },
+    "correct": "b",
+    "id": "infra_4.15_02"
+  },
+  {
+    "question": "O que abrange o processo de Gestão de Vulnerabilidades em uma infraestrutura corporativa?",
+    "options": {
+      "a": "Apenas a formatação mensal de todos os computadores da empresa.",
+      "b": "Identificação sistemática, classificação, remediação e monitoramento de falhas de segurança em ativos de TI.",
+      "c": "A compra exclusiva de novos softwares antivírus sem verificação prévia.",
+      "d": "O bloqueio total de conexões de internet para os colaboradores.",
+      "e": "A definição de escopo de projetos em metodologias ágeis."
+    },
+    "correct": "b",
+    "id": "infra_4.16_01"
+  },
+  {
+    "question": "Qual prática de backup garante cópias de segurança imutáveis e isoladas, onde os dados salvos não podem ser modificados ou deletados por um período determinado (muito eficaz contra ransomware)?",
+    "options": {
+      "a": "Backup Incremental simples em disco compartilhado sem permissões.",
+      "b": "Backup com tecnologia WORM (Write Once, Read Many) ou armazenamento imutável.",
+      "c": "Exclusão manual diária dos logs do sistema operacional.",
+      "d": "Cópia de arquivos temporários via FTP anônimo.",
+      "e": "Espelhamento de partições em tempo real sem versionamento."
+    },
+    "correct": "b",
+    "id": "infra_4.16_02"
+  },
+  {
+    "question": "Como se caracteriza um ataque de Ransomware?",
+    "options": {
+      "a": "Invasão silenciosa focada apenas no roubo de senhas de redes sociais sem criptografar dados.",
+      "b": "Sequestro de dados por meio de criptografia maliciosa, onde os atacantes exigem resgate financeiro para fornecer a chave de descriptografia.",
+      "c": "Sobrecarga de tráfego de rede gerada por milhões de requisições simultâneas (DDoS).",
+      "d": "Injeção de comandos SQL diretamente em formulários web desprotegidos.",
+      "e": "Captura de pacotes em redes Wi-Fi abertas sem cifragem."
+    },
+    "correct": "b",
+    "id": "infra_4.17_01"
+  },
+  {
+    "question": "Qual técnica de ataque cibernético explora a falta de validação de entradas em aplicações web, permitindo que o atacante execute comandos arbitrários no banco de dados?",
+    "options": {
+      "a": "SQL Injection (Sql Injection)",
+      "b": "Phishing por e-mail corporativo",
+      "c": "Ataque de Força Bruta via SSH",
+      "d": "Varredura de portas com Nmap",
+      "e": "Sequestro físico de fitas de backup"
+    },
+    "correct": "correct",
+    "correct": "a",
+    "id": "infra_4.17_02"
+  },
+  {
+    "question": "O que significam as siglas SAST e DAST no contexto de Desenvolvimento Seguro?",
+    "options": {
+      "a": "Sistemas Avançados de Servidores TCP e Servidores DNS.",
+      "b": "Static Application Security Testing (análise estática de código-fonte) e Dynamic Application Security Testing (análise dinâmica em execução).",
+      "c": "Segurança Aplicada a Redes Locais e Sistemas de Transmissão.",
+      "d": "Serviços de Autenticação Baseada em Token e Certificação Digital.",
+      "e": "Storage Area Network System e Direct Attached Storage Technology."
+    },
+    "correct": "b",
+    "id": "infra_4.18_01"
+  },
+  {
+    "question": "Qual é o principal objetivo da integração de práticas de segurança no ciclo de vida de desenvolvimento de software (DevSecOps / Desenvolvimento Seguro)?",
+    "options": {
+      "a": "Atrasar propositalmente as entregas de software para testar a paciência do cliente.",
+      "b": "Identificar e mitigar vulnerabilidades o mais cedo possível (shift-left), reduzindo custos e riscos de segurança.",
+      "c": "Tornar o código fonte totalmente ilegível para os próprios desenvolvedores.",
+      "d": "Eliminar a necessidade de testes funcionais e de usabilidade.",
+      "e": "Garantir que o sistema funcione apenas em sistemas operacionais legados."
+    },
+    "correct": "b",
+    "id": "infra_4.18_02"
+  },
+  {
+    "question": "Qual é a principal diferença conceitual entre RBAC (Role-Based Access Control) e ABAC (Attribute-Based Access Control)?",
+    "options": {
+      "a": "RBAC baseia-se em papéis/cargos atribuídos aos usuários, enquanto ABAC baseia-se em múltiplos atributos dinâmicos (usuário, recurso, ambiente, hora, localização).",
+      "b": "RBAC é exclusivo para redes sem fio, e ABAC para servidores web.",
+      "c": "Não há diferença, ambos utilizam apenas endereços MAC.",
+      "d": "ABAC restringe o acesso unicamente por meio de senhas numéricas.",
+      "e": "RBAC exige autenticação multifator obrigatória em 100% dos casos."
+    },
+    "correct": "a",
+    "id": "infra_4.19_01"
+  },
+  {
+    "question": "No controle de acesso, o que significa a sigla MFA (Multi-Factor Authentication)?",
+    "options": {
+      "a": "Mecanismo físico de acesso a servidores baseado em crachás magnéticos.",
+      "b": "Autenticação multifator, que exige a combinação de dois ou más fatores distintos (algo que você sabe, tem ou é).",
+      "c": "Modo de falha avançada para roteadores de borda.",
+      "d": "Método de criptografia de arquivos em nuvem.",
+      "e": "Mapeamento dinâmico de portas em redes IPv6."
+    },
+    "correct": "b",
+    "id": "infra_4.19_02"
+  },
+  {
+    "question": "Qual é a principal diferença entre arquiteturas NAS (Network Attached Storage) e SAN (Storage Area Network)?",
+    "options": {
+      "a": "NAS fornece acesso a arquivos via rede IP (nível de arquivo), enquanto SAN fornece acesso a blocos de disco dedicados de alta performance (nível de bloco).",
+      "b": "NAS utiliza exclusivamente cabos coaxiais antigos, e SAN usa Wi-Fi.",
+      "c": "SAN é um software antivírus e NAS é um servidor web.",
+      "d": "Não há distinção física ou lógica entre as duas arquiteturas.",
+      "e": "NAS funciona apenas em sistemas Windows 98."
+    },
+    "correct": "a",
+    "id": "infra_4.20_01"
+  },
+  {
+    "question": "Em ambientes de armazenamento corporativo baseados em SAN, qual protocolo de comunicação de alta velocidade é amplamente utilizado para interligar servidores aos storages?",
+    "options": {
+      "a": "HTTP / HTTPS",
+      "b": "Fibre Channel (FC) ou iSCSI",
+      "c": "SMTP e IMAP",
+      "d": "Telnet e RDP",
+      "e": "DHCP e DNS"
+    },
+    "correct": "b",
+    "id": "infra_4.20_02"
+  },
+  {
+    "question": "O que caracteriza a virtualização ao nível de hardware (Hypervisor Tipo 1 / Bare-Metal)?",
+    "options": {
+      "a": "O hipervisor roda diretamente sobre o hardware físico do servidor, sem depender de um sistema operacional hospedeiro tradicional.",
+      "b": "O software de virtualização roda como um aplicativo comum dentro do Windows.",
+      "c": "A virtualização ocorre exclusivamente em navegadores web via JavaScript.",
+      "d": "Os computadores virtuais não possuem endereço IP.",
+      "e": "É um método obsoleto de backup incremental."
+    },
+    "correct": "a",
+    "id": "infra_4.21_01"
+  },
+  {
+    "question": "Qual é a principal vantagem da virtualização de servidores em ambientes de TI modernos?",
+    "options": {
+      "a": "Aumento do consumo de energia elétrica e espaço físico no Data Center.",
+      "b": "Consolidação de servidores, melhor aproveitamento de hardware, flexibilidade e facilidade de migração/backup de máquinas virtuais.",
+      "c": "Eliminação completa de falhas de segurança de rede.",
+      "d": "Incompatibilidade proposital com sistemas Linux.",
+      "e": "Redução da velocidade de processamento para poupar energia."
+    },
+    "correct": "b",
+    "id": "infra_4.21_02"
+  },
+  {
+    "question": "Na arquitetura de computadores, qual é a diferença fundamental entre concorrência e paralelismo?",
+    "options": {
+      "a": "Concorrência trata da estruturação de múltiplos processos para execução intercalada (podendo rodar em um único núcleo), enquanto paralelismo envolve a execução simultânea real de tarefas em múltiplos núcleos/CPUs.",
+      "b": "São termos idênticos usados em redes sem fio.",
+      "c": "Paralelismo refere-se a cabos de rede paralelos, e concorrência a cabos cruzados.",
+      "d": "Concorrência só existe em sistemas operacionais de 16 bits.",
+      "e": "Paralelismo é exclusivo para bancos de dados relacionais."
+    },
+    "correct": "a",
+    "id": "infra_4.22_01"
+  },
+  {
+    "question": "O que define a Computação Distribuída?",
+    "options": {
+      "a": "Um único computador executando tarefas isoladas sem conexão de rede.",
+      "b": "Um modelo onde múltiplos computadores interconectados em rede colaboram para resolver um problema computacional complexo ou processar grandes volumes de dados.",
+      "c": "A distribuição manual de panfletos sobre infraestrutura de TI.",
+      "d": "O uso de uma única CPU com múltiplos núcleos físicos.",
+      "e": "A divisão de partições de disco rígido em um mesmo PC."
+    },
+    "correct": "b",
+    "id": "infra_4.22_02"
+  },
+  {
+    "question": "No contexto de Computação de Alto Desempenho (HPC), qual é a utilidade dos sistemas de balanceamento de carga e clusters?",
+    "options": {
+      "a": "Garantir que apenas um computador processe todas as requisições da empresa.",
+      "b": "Distribuir a carga de trabalho eficientemente entre vários nós, aumentando a capacidade de processamento, a disponibilidade e a tolerância a falhas.",
+      "c": "Criptografar senhas de usuários em redes locais.",
+      "d": "Limitar a largura de banda da internet para economizar custos.",
+      "e": "Gerenciar o escopo de projetos em metodologias ágeis."
+    },
+    "correct": "b",
+    "id": "infra_4.23_01"
+  },
+  {
+    "question": "Como os 'Grids' computacionais diferem dos clusters tradicionais de alto desempenho?",
+    "options": {
+      "a": "Grids costumam integrar recursos heterogêneos e geograficamente dispersos (muitas vezes em larga escala), enquanto clusters tendem a ser homogêneos e localizados no mesmo ambiente.",
+      "b": "Grids funcionam apenas em telefones celulares.",
+      "c": "Clusters não utilizam cabos de rede.",
+      "d": "Não há nenhuma diferença técnica entre ambos.",
+      "e": "Grids são exclusivos para servidores web Apache."
+    },
+    "correct": "a",
+    "id": "infra_4.24_01"
+  },
+  {
+    "question": "No contexto de tecnologias de virtualização, qual é a principal diferença estrutural entre Contêineres (como Docker) e Máquinas Virtuais tradicionais?",
+    "options": {
+      "a": "Os contêineres virtualizam o hardware físico completo, incluindo uma instância própria do sistema operacional.",
+      "b": "Os contêineres compartilham o kernel do sistema operacional hospedeiro, isolando a aplicação em nível de sistema operacional, o que os torna mais leves e rápidos de iniciar do que as máquinas virtuais.",
+      "c": "Máquinas virtuais não precisam de hypervisor, enquanto contêineres exigem hipervisores Tipo 1 obrigatórios.",
+      "d": "Contêineres executam apenas códigos em linguagem Java, enquanto VMs rodam qualquer linguagem.",
+      "e": "Não há nenhuma diferença de desempenho ou arquitetura entre ambos."
+    },
+    "correct": "b",
+    "id": "infra_4.25_01"
+  },
+  {
+    "question": "Qual é a principal vantagem proporcionada pelos modos de utilização e isolamento de contêineres em ambientes de desenvolvimento e produção?",
+    "options": {
+      "a": "Garantir que a aplicação execute exatamente da mesma forma em diferentes ambientes (consistência entre desenvolvimento, homologação e produção).",
+      "b": "Eliminar totalmente a necessidade de firewalls e regras de segurança de rede.",
+      "c": "Aumentar a latência das requisições web para segurança adicional.",
+      "d": "Tornar o armazenamento de dados estritamente dependente de fitas magnéticas físicas.",
+      "e": "Impedir o uso de ferramentas de automação e DevOps."
+    },
+    "correct": "a",
+    "id": "infra_4.25_02"
+  },
+  {
+    "question": "Na arquitetura de microsserviços, como as aplicações tendem a ser estruturadas em contraste com a arquitetura monolítica tradicional?",
+    "options": {
+      "a": "Como um único grande bloco de código onde todas as funcionalidades compartilham o mesmo banco de dados e processo.",
+      "b": "Como um conjunto de serviços pequenos, independentes e fracamente acoplados, que se comunicam geralmente por APIs leves (como HTTP/REST ou gRPC).",
+      "c": "Como arquivos de script isolados que rodam exclusivamente sem conexão de rede.",
+      "d": "Como rotinas de código executadas diretamente no hardware de rede (roteadores).",
+      "e": "Como páginas estáticas em HTML sem lógica de negócios."
+    },
+    "correct": "b",
+    "id": "infra_4.26_01"
+  },
+  {
+    "question": "Qual é a principal função de uma ferramenta de orquestração de contêineres (como o Kubernetes) em uma arquitetura de microsserviços?",
+    "options": {
+      "a": "Automatizar a implantação, o dimensionamento (scaling), o balanceamento de carga e o gerenciamento de múltiplos contêineres em clusters de servidores.",
+      "b": "Converter arquivos de texto em planilhas financeiras.",
+      "c": "Substituir totalmente a necessidade de conexões TCP/IP.",
+      "d": "Realizar varreduras de antivírus em estações de trabalho Windows.",
+      "e": "Compilar códigos-fonte em linguagem de máquina binária pura."
+    },
+    "correct": "a",
+    "id": "infra_4.26_02"
+  },
+  {
+    "question": "Quais são alguns dos principais benefícios oferecidos pela Computação em Nuvem (Cloud Computing)?",
+    "options": {
+      "a": "Alta disponibilidade, escalabilidade dinâmica, elasticidade, agilidade e recuperação de desastres (Disaster Recovery).",
+      "b": "Obrigatoriedade de compra prévia de servidores físicos de alto custo para prazos de 10 anos.",
+      "c": "Velocidade de conexão de internet fixa e independente de provedores.",
+      "d": "Incompatibilidade com sistemas de código aberto.",
+      "e": "Eliminação total de falhas humanas na administração de sistemas."
+    },
+    "correct": "a",
+    "id": "infra_4.27_01"
+  },
+  {
+    "question": "No modelo de nuvem, o que diferencia a 'Escalabilidade' da 'Elasticidade'?",
+    "options": {
+      "a": "Escalabilidade refere-se à capacidade de aumentar ou diminuir recursos computacionais conforme a demanda (geralmente de forma automatizada), enquanto elasticidade é um termo obsoleto sem aplicação prática.",
+      "b": "Escalabilidade é a capacidade de redimensionar a capacidade do sistema (vertical ou horizontalmente) para atender às demandas, enquanto elasticidade é a capacidade automatizada de expandir ou contrair esses recursos dinamicamente com base na carga em tempo real.",
+      "c": "Elasticidade só se aplica a cabos de rede flexíveis.",
+      "d": "Escalabilidade trata apenas de armazenamento em fita.",
+      "e": "Não há distinção acadêmica ou prática entre os conceitos."
+    },
+    "correct": "b",
+    "id": "infra_4.27_02"
+  },
+  {
+    "question": "Em uma arquitetura em nuvem, como os conceitos de Regiões (Regions) e Zonas de Disponibilidade (Availability Zones) são estruturados para garantir resiliência?",
+    "options": {
+      "a": "Regiões são áreas geográficas distintas que contêm uma ou mais Zonas de Disponibilidade isoladas umas das outras, com fontes de energia e redes independentes para tolerância a falhas.",
+      "b": "Regiões são apenas nomes de marcas de provedores de nuvem, sem impacto técnico.",
+      "c": "Zonas de disponibilidade representam computadores individuais dentro de uma mesma sala sem redundância.",
+      "d": "Regiões servem exclusivamente para definir o idioma do sistema operacional.",
+      "e": "Zonas de disponibilidade impedem o acesso externo via protocolo IP."
+    },
+    "correct": "a",
+    "id": "infra_4.28_01"
+  },
+  {
+    "question": "No gerenciamento de recursos em arquiteturas de nuvem, qual é a prática recomendada para distribuição de tráfego de rede e alta disponibilidade entre múltiplos servidores ou instâncias?",
+    "options": {
+      "a": "O uso de Balanceadores de Carga (Load Balancers) e grupos de Auto Scaling.",
+      "b": "O direcionamento manual de todo o tráfego para um único computador central.",
+      "c": "A desativação de rotas redundantes para poupar largura de banda.",
+      "d": "O uso exclusivo de endereços IP fixos sem balanceamento.",
+      "e": "O armazenamento de logs em impressoras de rede."
+    },
+    "correct": "a",
+    "id": "infra_4.28_02"
+  },
+  {
+    "question": "No que diz respeito à Identidade, Privacidade e Conformidade em ambientes de nuvem, qual modelo de responsabilidade compartilhada é comumente aplicado pelos provedores (como AWS, Azure e GCP)?",
+    "options": {
+      "a": "O provedor é 100% responsável por todos os dados, senhas e configurações de aplicativos dos clientes.",
+      "b": "O provedor é responsável pela segurança *da* nuvem (infraestrutura física, hardware, instalações), enquanto o cliente é responsável pela segurança *na* nuvem (dados, gestão de acessos, configuração de firewalls e sistemas operacionais convidados).",
+      "c": "O cliente cuida apenas da energia elétrica e o provedor de todo o resto.",
+      "d": "Não há divisão de responsabilidades legais.",
+      "e": "A conformidade regulatória é de responsabilidade exclusiva dos usuários finais."
+    },
+    "correct": "b",
+    "id": "infra_4.29_01"
+  },
+  {
+    "question": "Qual ferramenta ou mecanismo de identidade em nuvem é essencial para gerenciar o acesso seguro e federado de usuários a múltiplos recursos e aplicações?",
+    "options": {
+      "a": "Serviços de Gestão de Identidade e Acesso (IAM - Identity and Access Management)",
+      "b": "Protocolo FTP anônimo",
+      "c": "Servidor DHCP local",
+      "d": "Compilador de código fonte J2EE",
+      "e": "Cabo de rede par trançado Cat6"
+    },
+    "correct": "a",
+    "id": "infra_4.29_02"
+  },
+  {
+    "question": "No contexto de FinOps e Gestão de Custos em Nuvem, quais são os modelos de faturamento mais comuns adotados pelos provedores?",
+    "options": {
+      "a": "Pagamento antecipado obrigatório de 50 anos sem reembolso.",
+      "b": "Modelos Pay-as-you-go (pagamento conforme o uso) combinados com instâncias reservadas ou spot para otimização de custos.",
+      "c": "Cobrança baseada exclusivamente no número de cliques do mouse do administrador.",
+      "d": "Uso totalmente gratuito e ilimitado de recursos de supercomputação.",
+      "e": "Taxa fixa anual independente do consumo de processamento ou storage."
+    },
+    "correct": "b",
+    "id": "infra_4.30_01"
+  },
+  {
+    "question": "Qual é o objetivo do gerenciamento de assinaturas (Subscriptions Accounts) em plataformas de nuvem corporativas?",
+    "options": {
+      "a": "Organizar faturamento, aplicar limites de recursos (quotas) e isolar ambientes (como produção, testes e desenvolvimento) de forma lógica.",
+      "b": "Controlar a assinatura de revistas técnicas pelos funcionários.",
+      "c": "Impedir a criação de instâncias virtuais em qualquer hipótese.",
+      "d": "Gerenciar licenças de antivírus locais exclusivamente.",
+      "e": "Substituir os contratos de trabalho da equipe de TI."
+    },
+    "correct": "a",
+    "id": "infra_4.30_02"
+  },
+  {
+    "question": "O ITIL v4 (Information Technology Infrastructure Library) baseia-se no Sistema de Valor de Serviço (SVS). Quais são os estágios principais do Ciclo de Vida do Serviço ou fluxo de valor?",
+    "options": {
+      "a": "Apenas Instalação, Desinstalação e Descarte.",
+      "b": "Demanda, Engajamento, Projeto e Transição, Obtenção/Construção, Entrega/Suporte e Valor gerado para o cliente.",
+      "c": "Cabeamento, Roteamento, Endereçamento e Enlace de Dados.",
+      "d": "Compilação, Teste Estático, Teste Dinâmico e Deploy.",
+      "e": "Planejamento financeiro de curto prazo exclusivamente."
+    },
+    "correct": "b",
+    "id": "infra_4.31_01"
+  },
+  {
+    "question": "No contexto do ITIL v4, o que define uma 'Prática' de gerenciamento (substituindo o antigo conceito de 'Processos' do ITIL v3)?",
+    "options": {
+      "a": "Um conjunto de recursos organizacionais estruturados para realizar um trabalho ou alcançar um objetivo específico.",
+      "b": "Um script de automação escrito em linguagem Bash.",
+      "c": "Uma regra de firewall para bloquear portas TCP inseguras.",
+      "d": "Um modelo de faturamento em nuvem por hora de uso.",
+      "e": "Uma metodologia ágil de desenvolvimento de software."
+    },
+    "correct": "a",
+    "id": "infra_4.31_02"
+  },
+  {
+    "question": "O COBIT 4.1 (Control Objectives for Information and Related Technology) é um framework de governança de TI estruturado em domínios. Quais são eles?",
+    "options": {
+      "a": "Planejamento e Organização, Aquisição e Implementação, Entrega e Suporte, e Monitoramento e Avaliação.",
+      "b": "Segurança Física, Segurança Lógica, Criptografia e Backup.",
+      "c": "Desenvolvimento Frontend, Backend, Banco de Dados e DevOps.",
+      "d": "Infraestrutura, Redes, Nuvem e Suporte Técnico.",
+      "e": "Requisitos, Projeto Lógico, Teste e Implementação."
+    },
+    "correct": "a",
+    "id": "infra_4.32_01"
+  },
+  {
+    "question": "Qual é a principal distinção conceitual entre Governança de TI e Gestão (Gerenciamento) de TI, segundo frameworks como o COBIT?",
+    "options": {
+      "a": "A Governança avalia as necessidades das partes interessadas para definir objetivos e diretrizes estratégicas, enquanto a Gestão planeja, constrói, executa e monitora as atividades alinhadas à direção da governança.",
+      "b": "A Governança cuida apenas de consertar cabos de rede rompidos.",
+      "c": "A Gestão define as leis federais de tecnologia e a governança aplica multas.",
+      "d": "Não há distinção, sendo termos intercambiáveis.",
+      "e": "A Governança é exclusiva para empresas de pequeno porte."
+    },
+    "correct": "a",
+    "id": "infra_4.32_02"
+  },
+  {
+    "question": "Segundo a publicação NIST SP 800-61 (Guia de Tratamento de Incidentes de Segurança Computacional), quais são as fases que compõem o ciclo de vida do tratamento de incidentes?",
+    "options": {
+      "a": "Preparação; Detecção e Análise; Contenção, Erradicação e Recuperação; e Atividades Pós-Incidente (Lições Aprendidas).",
+      "b": "Análise de Requisitos, Projeto, Codificação e Teste.",
+      "c": "Instalação do Apache, Configuração do PHP e Publicação.",
+      "d": "Backup Diário, Backup Semanal, Restauração e Auditoria.",
+      "e": "Criação de Contêiner, Deploy no Kubernetes e Monitoramento."
+    },
+    "correct": "a",
+    "id": "infra_4.33_01"
+  },
+  {
+    "question": "Qual é o principal objetivo da fase de 'Contenção, Erradicação e Recuperação' no modelo NIST SP 800-61?",
+    "options": {
+      "a": "Isolar o incidente para impedir sua propagação, eliminar os componentes maliciosos do ambiente e restaurar os sistemas afetados à operação normal com segurança.",
+      "b": "Demitir os funcionários envolvidos no vazamento de dados.",
+      "c": "Enviar uma cobrança judicial imediata para os atacantes.",
+      "d": "Desligar permanentemente a internet da empresa.",
+      "e": "Escrever documentação em formato PDF."
+    },
+    "correct": "a",
+    "id": "infra_4.33_02"
+  },
+  {
+    "question": "O que abrange o conceito de Threat Intelligence (Inteligência de Ameaças) e Threat Hunting em segurança cibernética?",
+    "options": {
+      "a": "A coleta baseada em evidências sobre riscos e ameaças emergentes para tomada de decisão informada (Intelligence), combinada à busca proativa em redes/endpoints para identificar invasores ocultos (Hunting).",
+      "b": "A caça física de hackers em data centers corporativos.",
+      "c": "A instalação de softwares antivírus padrão em computadores novos.",
+      "d": "O monitoramento de velocidade de conexão de fibra óptica.",
+      "e": "O registro de nomes de domínio na internet."
+    },
+    "correct": "a",
+    "id": "infra_4.34_01"
+  },
+  {
+    "question": "O framework MITRE ATT&CK é amplamente utilizado por analistas de segurança para qual finalidade principal?",
+    "options": {
+      "a": "Catalogar, padronizar e compreender táticas, técnicas e procedimentos (TTPs) utilizados por adversários cibernéticos com base em observações do mundo real.",
+      "b": "Desenvolver aplicativos móveis em linguagem Java.",
+      "c": "Calcular o custo de consumo de instâncias em nuvem.",
+      "d": "Gerenciar o cronograma de projetos de infraestrutura.",
+      "e": "Configurar roteadores Cisco e switches de camada 2."
+    },
+    "correct": "a",
+    "id": "infra_4.34_02"
+  },
+  {
+    "question": "O que caracteriza a realização de Testes de Penetração (Pentest) no âmbito da Segurança Avançada?",
+    "options": {
+      "a": "Uma simulação autorizada de um ataque cibernético contra um sistema de TI para avaliar sua segurança e identificar vulnerabilidades exploráveis.",
+      "b": "O bloqueio total de conexões externas de rede sem testes prévios.",
+      "c": "A formatação de discos rígidos corrompidos por vírus.",
+      "d": "A análise estática de código-fonte sem execução.",
+      "e": "A verificação da integridade de cabos de fibra óptica."
+    },
+    "correct": "a",
+    "id": "infra_4.35_01"
+  },
+  {
+    "question": "No modelo de modelagem de ameaças STRIDE (frequentemente utilizado para identificar falhas de segurança no projeto do sistema), o que cada letra da sigla representa?",
+    "options": {
+      "a": "Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service e Elevation of Privilege.",
+      "b": "Storage, Transmission, Routing, Integration, Deployment e Execution.",
+      "c": "Simple, Trusted, Robust, Isolated, Dynamic e Encrypted.",
+      "d": "System, Threat, Risk, Identification, Defense e Evaluation.",
+      "e": "Script, Template, Response, Infrastructure, Database e Environment."
+    },
+    "correct": "a",
+    "id": "infra_4.35_02"
+  },
+  {
+    "question": "No contexto de Gestão de Riscos e Continuidade de Negócios, o que aborda a conformidade regulatória com a Lei Sarbanes-Oxley (SOX)?",
+    "options": {
+      "a": "Controles internos rigorosos e governança de TI voltados para a integridade financeira, precisão de relatórios contábeis e prevenção de fraudes corporativas.",
+      "b": "Regras de cabeamento estruturado para redes locais.",
+      "c": "Normas estritas de criptografia para mensagens instantâneas.",
+      "d": "Diretrizes para o desenvolvimento ágil de software com Scrum.",
+      "e": "Políticas de resgate de dados em ataques de ransomware."
+    },
+    "correct": "a",
+    "id": "infra_4.36_01"
+  },
+  {
+    "question": "Qual é a diferença fundamental entre um Plano de Recuperação de Desastres (DRP - Disaster Recovery Plan) e um Plano de Continuidade de Negócios (BCP - Business Continuity Plan)?",
+    "options": {
+      "a": "O BCP abrange a estratégia global da organização para manter os processos de negócios essenciais funcionando durante e após uma interrupção, enquanto o DRP foca especificamente na recuperação da infraestrutura de TI e dados técnicos.",
+      "b": "DRP é voltado apenas para o setor financeiro e BCP para redes sociais.",
+      "c": "Não há distinção prática entre os dois planos.",
+      "d": "BCP lida exclusivamente com segurança física de portas e crachás.",
+      "e": "DRP substitui a necessidade de backups na nuvem."
+    },
+    "correct": "a",
+    "id": "infra_4.36_02"
+  },
+  {
+    "question": "No âmbito das Políticas de Segurança da Informação, qual é a principal finalidade da Classificação de Informações?",
+    "options": {
+      "a": "Definir o nível de sensibilidade e criticidade dos dados para aplicar os controles de proteção adequados (como acesso, armazenamento e descarte).",
+      "b": "Organizar alfabeticamente os arquivos de música e vídeo dos colaboradores.",
+      "c": "Padronizar o formato de endereços IP utilizados na rede interna.",
+      "d": "Acelerar a velocidade de processamento de servidores em nuvem.",
+      "e": "Determinar quais programadores devem escrever código Java."
+    },
+    "correct": "a",
+    "id": "infra_4.37_01"
+  },
+  {
+    "question": "Por que a criação de uma Política de Segurança da Informação (PSI) formalizada é considerada crítica para qualquer organização?",
+    "options": {
+      "a": "Porque ela estabelece diretrizes claras da alta administração sobre o uso aceitável dos ativos de TI e responsabilidades dos usuários.",
+      "b": "Porque ela substitui completamente a necessidade de firewalls e antivírus.",
+      "c": "Porque impede o uso de linguagens de script na infraestrutura.",
+      "d": "Porque garante faturamento automático em modelos pay-as-you-go.",
+      "e": "Porque automatiza a criação de contêineres Docker."
+    },
+    "correct": "a",
+    "id": "infra_4.37_02"
+  },
+  {
+    "question": "O que garantem, respectivamente, a Certificação Digital e a Assinatura Digital no contexto da Criptografia?",
+    "options": {
+      "a": "A certificação digital vincula uma chave pública a uma identidade por meio de uma Autoridade Certificadora confiável, enquanto a assinatura digital garante a autenticidade, integridade e o não-repúdio de um documento eletrônico.",
+      "b": "Apenas a compactação de arquivos para economizar espaço em disco.",
+      "c": "A tradução automática de nomes de domínio em endereços IP de rede.",
+      "d": "O bloqueio de ataques de negação de serviço distribuído (DDoS).",
+      "e": "O gerenciamento de rotas estáticas em roteadores de borda."
+    },
+    "correct": "a",
+    "id": "infra_4.38_01"
+  },
+  {
+    "question": "Na criptografia assimétrica, como funcionam o par de chaves (pública e privada) utilizado na assinatura digital e na cifragem?",
+    "options": {
+      "a": "A chave pública é compartilhada livremente para cifrar dados ou verificar assinaturas, enquanto a chave privada é mantida em absoluto sigilo pelo proprietário para decifrar dados ou gerar assinaturas.",
+      "b": "Ambas as chaves devem ser públicas para que qualquer pessoa possa alterá-las.",
+      "c": "A chave privada é usada para conectar computadores via Wi-Fi público.",
+      "d": "Não existe chave pública na criptografia assimétrica moderna.",
+      "e": "A chave pública serve exclusivamente para gerar senhas de banco de dados."
+    },
+    "correct": "a",
+    "id": "infra_4.38_02"
+  },
+  {
+    "question": "Quais são os principais desafios de segurança associados ao ecossistema de IoT (Internet das Coisas - Internet of Things)?",
+    "options": {
+      "a": "Dispositivos com recursos limitados de hardware, dificuldade de atualização de firmware, senhas padrão de fábrica e grande superfície de ataque exposta.",
+      "b": "Uso excessivo de cabos de fibra óptica de alta velocidade.",
+      "c": "Incompatibilidade total com protocolos TCP/IP padrão.",
+      "d": "Excesso de refrigeração necessária nos sensores inteligentes.",
+      "e": "Impossibilidade de conexão com redes sem fio."
+    },
+    "correct": "a",
+    "id": "infra_4.39_01"
+  },
+  {
+    "question": "Como a segurança em projetos de IoT (Internet das Coisas) deve ser tratada desde a sua concepção?",
+    "options": {
+      "a": "Através de design seguro (Security by Design), garantindo criptografia de ponta a ponta, autenticação forte de dispositivos e gerenciamento seguro de atualizações (OTA).",
+      "b": "Adicionando antivírus locais após a fabricação em massa dos sensores.",
+      "c": "Deixando as portas de rede abertas para facilitar o diagnóstico remoto.",
+      "d": "Utilizando senhas fixas universais em todos os aparelhos da rede.",
+      "e": "Dispensando o uso de firewalls em qualquer hipótese."
+    },
+    "correct": "a",
+    "id": "infra_4.39_02"
+  },
+  {
+    "question": "No contexto de Banco de Dados, o que significa a propriedade de Independência de Dados?",
+    "options": {
+      "a": "A capacidade de alterar o esquema de dados em um nível (físico ou lógico) sem a necessidade de modificar os níveis superiores ou as aplicações dependentes.",
+      "b": "A independência dos bancos de dados em relação a qualquer sistema operacional.",
+      "c": "O fato de os dados não precisarem de backup ou segurança.",
+      "d": "A exclusão de chaves estrangeiras em modelos relacionais.",
+      "e": "A execução de consultas SQL sem uso de servidores."
+    },
+    "correct": "a",
+    "id": "infra_4.40_01"
+  },
+  {
+    "question": "Na Abordagem Entidade-Relacionamento (DER) e no Modelo Relacional, o que representam as Chaves Primárias e Estrangeiras?",
+    "options": {
+      "a": "A Chave Primária identifica unicamente cada registro em uma tabela, enquanto a Chave Estrangeira estabelece o relacionamento lógico entre tabelas diferentes.",
+      "b": "Senhas de acesso utilizadas para criptografar o banco de dados.",
+      "c": "Endereços IP atribuídos aos servidores de armazenamento.",
+      "d": "Comandos de automação para servidores web Apache.",
+      "e": "Métodos de compactação de logs do sistema operacional."
+    },
+    "correct": "a",
+    "id": "infra_4.40_02"
+  },
+  {
+    "question": "O que são Gatilhos (Triggers) e Procedimentos Armazenados (Stored Procedures) na Linguagem SQL?",
+    "options": {
+      "a": "Stored procedures são blocos de código SQL compilados e salvos no SGBD para execução reutilizável; triggers são procedimentos executados automaticamente em resposta a eventos específicos (como INSERT, UPDATE ou DELETE) em uma tabela.",
+      "b": "Ferramentas exclusivas para desenho de diagramas de rede.",
+      "c": "Protocolos de criptografia para tráfego web HTTPS.",
+      "d": "Mecanismos de balanceamento de carga para contêineres.",
+      "e": "Métodos de testes estáticos de código fonte (SAST)."
+    },
+    "correct": "a",
+    "id": "infra_4.41_01"
+  },
+  {
+    "question": "Qual é uma das principais vantagens do uso de Stored Procedures em aplicações corporativas?",
+    "options": {
+      "a": "Melhoria de desempenho (redução de tráfego de rede entre aplicação e SGBD), centralização de regras de negócio e maior segurança contra ataques de SQL Injection.",
+      "b": "Eliminação total da necessidade de modelagem relacional.",
+      "c": "Permitir que o banco de dados funcione sem energia elétrica.",
+      "d": "Substituição completa de linguagens de programação como Java.",
+      "e": "Aumento do espaço físico ocupado pelos arquivos de log."
+    },
+    "correct": "a",
+    "id": "infra_4.41_02"
+  },
+  {
+    "question": "Na Administração de Dados, o que garantem as propriedades ACID (Atomicidade, Consistência, Isolamento e Durabilidade) nas Transações?",
+    "options": {
+      "a": "A confiabilidade e a integridade das operações executadas no banco de dados, mesmo em caso de falhas de hardware ou quedas de energia.",
+      "b": "A alta velocidade de conexões Wi-Fi corporativas.",
+      "c": "A criptografia simétrica de arquivos em storages SAN.",
+      "d": "A correta identificação de usuários via LDAP.",
+      "e": "O balanceamento de requisições HTTP em servidores web."
+    },
+    "correct": "a",
+    "id": "infra_4.42_01"
+  },
+  {
+    "question": "Qual é a finalidade dos Bloqueios (Locks) e do gerenciamento de concorrência em sistemas de banco de dados?",
+    "options": {
+      "a": "Evitar inconsistências e anomalias de dados (como leituras sujas ou atualizações perdidas) quando múltiplos usuários acessam e modificam os mesmos dados simultaneamente.",
+      "b": "Impedir que administradores acessem tabelas sensíveis.",
+      "c": "Acelerar o download de arquivos via protocolo FTP.",
+      "d": "Bloquear endereços IP maliciosos vindos da internet.",
+      "e": "Desativar temporariamente o serviço de DNS."
+    },
+    "correct": "a",
+    "id": "infra_4.42_02"
+  },
+  {
+    "question": "No estudo de Programação e Engenharia de Software, o que caracterizam os conceitos de Algoritmos e Estruturas de Dados?",
+    "options": {
+      "a": "Algoritmos são sequências finitas de instruções lógicas para resolver um problema, enquanto estruturas de dados são formas organizadas de armazenar e gerenciar dados na memória para acesso eficiente.",
+      "b": "Ferramentas de cabeamento estruturado para redes locais.",
+      "c": "Políticas de segurança para prevenção contra ransomware.",
+      "d": "Modelos de faturamento em nuvem baseados em assinatura.",
+      "e": "Padrões de projeto de infraestrutura física de Data Centers."
+    },
+    "correct": "a",
+    "id": "infra_4.43_01"
+  },
+  {
+    "question": "Quais são alguns dos princípios fundamentais da Engenharia de Software no desenvolvimento de sistemas robustos?",
+    "options": {
+      "a": "Modularidade, acoplamento fraco, coesão alta, reutilização de código, testes rigorosos e documentação adequada.",
+      "b": "Escrever todo o código do sistema em um único arquivo monolítico.",
+      "c": "Evitar qualquer tipo de teste automatizado para ganhar tempo.",
+      "d": "Dispensar o uso de controle de versão (como Git).",
+      "e": "Utilizar exclusivamente scripts de linha de comando sem padrão."
+    },
+    "correct": "a",
+    "id": "infra_4.43_02"
+  },
+  {
+    "question": "Quais são as principais características e finalidades das Linguagens de Marcação HTML e XML?",
+    "options": {
+      "a": "HTML é estruturada para exibição de conteúdo e estruturação de páginas web, enquanto XML é voltada para o armazenamento, transporte e descrição estruturada de dados genéricos.",
+      "b": "Ambas são linguagens de programação orientadas a objetos com tipagem estática.",
+      "c": "HTML serve para gerenciar bancos de dados relacionais e XML para servidores web Apache.",
+      "d": "HTML executa scripts no kernel do Linux e XML gerencia redes IPv6.",
+      "e": "São ferramentas exclusivas para testes de intrusão (Pentest)."
+    },
+    "correct": "a",
+    "id": "infra_4.44_01"
+  },
+  {
+    "question": "No contexto de processamento de documentos estruturados (como XML), qual tecnologia é comumente utilizada para realizar consultas e extrair informações específicas baseadas em caminhos hierárquicos?",
+    "options": {
+      "a": "XPath",
+      "b": "SQL Injection",
+      "c": "Docker Compose",
+      "d": "Active Directory",
+      "e": "IPsec Tunnel"
+    },
+    "correct": "a",
+    "id": "infra_4.44_02"
+  },
+  {
+    "question": "Quais são os pilares fundamentais da Programação Orientada a Objetos (POO) presente em linguagens como Java?",
+    "options": {
+      "a": "Encapsulamento, Herança, Polimorfismo e Abstração.",
+      "b": "Roteamento, Enlace, Comutação e Transmissão.",
+      "c": "Confidencialidade, Integridade, Disponibilidade e Autenticidade.",
+      "d": "Planejamento, Execução, Monitoramento e Fechamento.",
+      "e": "Espelhamento, Backup WORM, Restore e Criptografia."
+    },
+    "correct": "a",
+    "id": "infra_4.45_01"
+  },
+  {
+    "question": "Em Java, o que representam as Interfaces e as Bibliotecas (APIs) padrão?",
+    "options": {
+      "a": "Interfaces definem contratos de comportamento (conjunto de métodos abstratos) que as classes devem implementar, enquanto bibliotecas fornecem conjuntos prontos de classes e métodos reutilizáveis.",
+      "b": "Interfaces são cabos físicos de conexão e bibliotecas são storages SAN.",
+      "c": "Interfaces servem para configurar roteadores e bibliotecas para gerenciar DNS.",
+      "d": "São termos obsoletos sem utilidade em arquiteturas modernas.",
+      "e": "Interfaces controlam regras de firewall e bibliotecas criam contêineres."
+    },
+    "correct": "a",
+    "id": "infra_4.45_02"
+  },
+  {
+    "question": "No ecossistema de Tecnologias Java voltadas para ambientes corporativos (Enterprise), qual era a finalidade histórica e estrutural das tecnologias J2EE (atualmente Jakarta EE), Servlets, JSP e EJB?",
+    "options": {
+      "a": "Prover uma plataforma robusta, escalável e segura para o desenvolvimento de aplicações web corporativas e distribuídas de grande porte.",
+      "b": "Criar páginas estáticas em HTML simples sem lógica de backend.",
+      "c": "Substituir o sistema operacional Linux em servidores web.",
+      "d": "Gerenciar endereçamento IP e escopos DHCP em redes locais.",
+      "e": "Executar scripts de automação de infraestrutura em Bash."
+    },
+    "correct": "a",
+    "id": "infra_4.46_01"
+  },
+  {
+    "question": "Qual é a função básica de um Servlet Java em uma aplicação web corporativa?",
+    "options": {
+      "a": "Executar no lado do servidor para processar requisições HTTP (vindas de clientes/navegadores) e gerar respostas dinâmicas.",
+      "b": "Desenhar interfaces gráficas de usuário locais em computadores Windows.",
+      "c": "Realizar backups automáticos de bancos de dados relacionais.",
+      "d": "Criptografar o tráfego de rede na camada de enlace.",
+      "e": "Monitorar vulnerabilidades de código estático (SAST)."
+    },
+    "correct": "a",
+    "id": "infra_4.46_02"
+  }
+]
+
+

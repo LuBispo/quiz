@@ -9,7 +9,8 @@ const themes = [
   { name: 'Matemática', file: 'projeto2/matematica.json' },
   { name: 'Inglês', file: 'projeto2/ingles.json' },
   { name: 'Transpetro - Banco de Dados', file: 'projeto2/transpetro_banco_de_dados.json' },
-  { name: 'Transpetro - Arquitetura Web', file: 'projeto2/transpetro_arquitetura_web.json' }
+  { name: 'Transpetro - Arquitetura Web', file: 'projeto2/transpetro_arquitetura_web.json' },
+  { name: 'Transpetro - geral', file: 'projeto2/transpetro_geral.json' }
 ];
 
 const QUESTOES_POR_TENTATIVA = 10; // tamanho alvo de cada avaliação
